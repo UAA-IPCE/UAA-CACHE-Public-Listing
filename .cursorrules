@@ -1,0 +1,26 @@
+# UAA-CACHE-Public-Listing Rules
+
+This repository is a **Public Data Mirror**. It is not a development environment. Follow these rules to keep it clean and professional.
+
+## 1. Commit Message Standards
+Use the following emoji-prefixed format for all commits in this repository:
+- 📦 **data:** [description] - For JSON data refreshes or scrubbed data updates.
+- 📝 **docs:** [description] - For README, Sitemap, or other documentation.
+- 🔧 **chore:** [description] - For repository maintenance, branch cleanup, or meta-data.
+- 🚀 **release:** [description] - For major data versioning.
+
+## 2. No Dev Artifacts
+- Never commit `.py`, `.sh`, `.vfs`, or other scripts to this repository.
+- Use `/tmp/` or parent directories for temporary processing scripts.
+- Only `.json`, `.xml`, `.md`, and standard `.git` files are allowed.
+
+## 3. History Hygiene
+- This repository should maintain a short, clean history.
+- Periodic squashing is encouraged to keep the clone size small for public consumers.
+
+## 4. Data Privacy (CRITICAL)
+- Always verify that `enrollments`, `seats_total`, and `seats_available` are REMOVED before committing JSON updates.
+- Run a grep check: `grep -rEi "enrollment|seats" .` before pushing.
+
+---
+*Follow these rules to ensure the public mirror remains a premium, professional data source.*
