@@ -192,7 +192,7 @@ That keeps the repo understandable for external users and keeps commit history f
 
 ## License
 
-This data is provided for informational and educational purposes. See the [UAA CACHE website](https://cache.alaska.edu) for official course information and registration.
+This data is provided for informational and educational purposes. See the [UAA CACHE website](http://cache.uaa.alaska.edu/) for official course information and registration.
 
 ---
 
