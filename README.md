@@ -147,7 +147,32 @@ For Google and other search engines, this repo helps by providing:
 - a clear separation between public content and private implementation code
 - a clean repository structure with minimal noise for public visitors
 
-This repo is not the primary marketing website for CACHE, but it is a useful public data surface that can support SEO-adjacent workflows, public transparency, and downstream reuse.
+### Structured Data (JSON-LD)
+
+To help search engines understand this repository as a dataset of continuing education listings, we include the following Schema.org markup:
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "UAA CACHE Continuing Education Listings",
+  "description": "Public JSON feed of active and past healthcare continuing education trainings from the University of Alaska Anchorage CACHE portal.",
+  "url": "https://github.com/UAA-IPCE/UAA-CACHE-Public-Listing",
+  "creator": {
+    "@type": "Organization",
+    "name": "UAA IPCE"
+  },
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://raw.githubusercontent.com/UAA-IPCE/UAA-CACHE-Public-Listing/main/active.json"
+    }
+  ]
+}
+</script>
+```
 
 ---
 
