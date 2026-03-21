@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "generated": "2026-03-20T23:55:36.979Z",
+    "generated": "2026-03-21T04:54:27.980Z",
     "description": "Past / archived CACHE continuing education listings",
-    "count": 364,
+    "count": 366,
     "source": "UAA-IPCE/UAA-CACHE-StaticSite-v101"
   },
   "events": [
@@ -67,6 +67,67 @@
       "last_updated": "2026-03-10"
     },
     {
+      "event_id": "uaa-cache-4589",
+      "title": "Ethics in DSM Practice - March 20 2026 - Rasmuson Hall",
+      "description": "Continuing Education: 3 Credit Hours Available. See training for more details. Vanessa Meade, PsyD, LCSW (she/her), is an assistant professor at the University of Alaska Anchorage's School of Social Work. She is also a U.S. Army/Gulf War Veteran and a former Alaska State Trooper. Dr. Meade is a licensed clinical social worker and psychologist in Alaska. She has also worked as a clinician/therapist in rural community mental health agencies and juvenile justice. She is a certified mindfulness teacher and facilitates mindfulness-based programs at UAA with students, faculty, and staff, as well as with military veterans and wildland firefighters through online and multi-day residential retreat programs throughout the United States. She serves on several state and national advisory committees and boards. Dr. Meade also focuses on equity and social justice in her work, including within the LGBTQ+ community. View the CACHE Refund Policy here.",
+      "location": "Anchorage",
+      "city": "Anchorage",
+      "state": "AK",
+      "latitude": null,
+      "longitude": null,
+      "start_date": "2026-03-20",
+      "end_date": "2026-03-20",
+      "start_time": "12:00 PM",
+      "end_time": "03:00 PM",
+      "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4589",
+      "affiliate_id": "6Q68Q3",
+      "host_organization": "University of Alaska Anchorage Continuing Studies",
+      "credits": 0,
+      "category": "Health and Behavioral Health",
+      "tags": [
+        "Health and Behavioral Health",
+        "Ethics",
+        "DSM",
+        "Mindfulness",
+        "Trauma"
+      ],
+      "cost": 75,
+      "last_updated": "2026-03-19",
+      "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4589",
+      "available_for_registration": true,
+      "seats_available": 95,
+      "delivery": "Live / In-Person",
+      "meeting_time_display": "Friday: 12:00 PM - 03:00 PM.<br/>Room: RH 220",
+      "public_notes": "Where: Rasmuson Hall Room 220 | 12pm-3pm AKT",
+      "section_index": 4589,
+      "archived_date": "2026-03-21"
+    },
+    {
+      "event_id": "genius-4589",
+      "title": "Ethics in DSM Practice - March 20 2026 - Rasmuson Hall",
+      "description": "Join us for these learning opportunities by Dr. Meade",
+      "location": "Anchorage",
+      "city": null,
+      "state": "AK",
+      "start_date": "2026-03-20",
+      "end_date": "2026-03-20",
+      "start_time": null,
+      "end_time": null,
+      "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4589",
+      "affiliate_id": "6Q68Q3",
+      "host_organization": "UAA Continuing Studies",
+      "credits": "",
+      "category": "Health and Behavioral Health",
+      "tags": [],
+      "cost": null,
+      "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4589",
+      "delivery": "In-Person",
+      "section_index": 4589,
+      "seats_total": 100,
+      "enrollments": null,
+      "last_updated": "2026-03-21"
+    },
+    {
       "event_id": "genius-4111",
       "title": "Adult Mental Health First Aid - February 23, 2026 - Virtual",
       "description": "When: Monday, February 23, 2026 - 9:00am - 4:00pmWhere: VirtualContinuing Education: Yes, see below for more information.Join the UAA College of Health to attend Adult Mental Health First Aid training. This class will teach you how to identify, understand, and respond to signs of mental illness and substance use disorders. This 8 hour training gives you the skills you need to reach out and provide initial support to someone who may be developing a mental health or substance use problem and help connect them to appropriate care. Special instructions: Participants must successfully complete self-paced prerequisite work in MHFA Connect BEFORE admission into classroom.Join us Monday, February 23, 2026 from 9:00am-4:00pm online via ZoomBy registering here you will be receiving access to MHFA Co",
@@ -89,7 +150,7 @@
       "section_index": 4111,
       "seats_total": 30,
       "enrollments": 25,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-4474",
@@ -114,7 +175,7 @@
       "section_index": 4474,
       "seats_total": 30,
       "enrollments": 26,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-4206",
@@ -139,7 +200,7 @@
       "section_index": 4206,
       "seats_total": 30,
       "enrollments": 17,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-4229",
@@ -164,7 +225,7 @@
       "section_index": 4229,
       "seats_total": 18,
       "enrollments": 18,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-4230",
@@ -189,7 +250,7 @@
       "section_index": 4230,
       "seats_total": 6,
       "enrollments": 6,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-4037",
@@ -214,7 +275,7 @@
       "section_index": 4037,
       "seats_total": 30,
       "enrollments": 23,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3702",
@@ -239,7 +300,7 @@
       "section_index": 3702,
       "seats_total": 24,
       "enrollments": 12,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-4236",
@@ -264,7 +325,7 @@
       "section_index": 4236,
       "seats_total": 100,
       "enrollments": 4,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-4036",
@@ -289,7 +350,7 @@
       "section_index": 4036,
       "seats_total": 30,
       "enrollments": 24,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-4235",
@@ -314,7 +375,7 @@
       "section_index": 4235,
       "seats_total": 100,
       "enrollments": 3,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-4035",
@@ -339,7 +400,7 @@
       "section_index": 4035,
       "seats_total": 30,
       "enrollments": 30,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3865",
@@ -364,7 +425,7 @@
       "section_index": 3865,
       "seats_total": 24,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3993",
@@ -389,7 +450,7 @@
       "section_index": 3993,
       "seats_total": null,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3992",
@@ -414,7 +475,7 @@
       "section_index": 3992,
       "seats_total": 30,
       "enrollments": 30,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3513",
@@ -439,7 +500,7 @@
       "section_index": 3513,
       "seats_total": 24,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2834",
@@ -464,7 +525,7 @@
       "section_index": 2834,
       "seats_total": 30,
       "enrollments": 30,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2833",
@@ -489,7 +550,7 @@
       "section_index": 2833,
       "seats_total": 30,
       "enrollments": 15,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3208",
@@ -514,7 +575,7 @@
       "section_index": 3208,
       "seats_total": 24,
       "enrollments": 9,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2835",
@@ -539,7 +600,7 @@
       "section_index": 2835,
       "seats_total": 30,
       "enrollments": 1,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2881",
@@ -564,7 +625,7 @@
       "section_index": 2881,
       "seats_total": 9999,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2832",
@@ -589,7 +650,7 @@
       "section_index": 2832,
       "seats_total": 30,
       "enrollments": 15,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3249",
@@ -614,7 +675,7 @@
       "section_index": 3249,
       "seats_total": 30,
       "enrollments": 21,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3416",
@@ -639,7 +700,7 @@
       "section_index": 3416,
       "seats_total": 30,
       "enrollments": 28,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2831",
@@ -664,7 +725,7 @@
       "section_index": 2831,
       "seats_total": 30,
       "enrollments": 33,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3617",
@@ -689,7 +750,7 @@
       "section_index": 3617,
       "seats_total": 9999,
       "enrollments": 53,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3597",
@@ -714,7 +775,7 @@
       "section_index": 3597,
       "seats_total": 9999,
       "enrollments": 41,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3592",
@@ -739,7 +800,7 @@
       "section_index": 3592,
       "seats_total": 9999,
       "enrollments": 27,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3610",
@@ -764,7 +825,7 @@
       "section_index": 3610,
       "seats_total": 9999,
       "enrollments": 47,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3628",
@@ -789,7 +850,7 @@
       "section_index": 3628,
       "seats_total": 9999,
       "enrollments": 82,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3637",
@@ -814,7 +875,7 @@
       "section_index": 3637,
       "seats_total": 9999,
       "enrollments": 2,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3594",
@@ -839,7 +900,7 @@
       "section_index": 3594,
       "seats_total": 9999,
       "enrollments": 10,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3618",
@@ -864,7 +925,7 @@
       "section_index": 3618,
       "seats_total": 9999,
       "enrollments": 48,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3590",
@@ -889,7 +950,7 @@
       "section_index": 3590,
       "seats_total": 9999,
       "enrollments": 21,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3622",
@@ -914,7 +975,7 @@
       "section_index": 3622,
       "seats_total": 9999,
       "enrollments": 39,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3215",
@@ -939,7 +1000,7 @@
       "section_index": 3215,
       "seats_total": 12,
       "enrollments": 2,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3223",
@@ -964,7 +1025,7 @@
       "section_index": 3223,
       "seats_total": 9999,
       "enrollments": 64,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2373",
@@ -989,7 +1050,7 @@
       "section_index": 2373,
       "seats_total": 30,
       "enrollments": 28,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3616",
@@ -1014,7 +1075,7 @@
       "section_index": 3616,
       "seats_total": 9999,
       "enrollments": 84,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3214",
@@ -1039,7 +1100,7 @@
       "section_index": 3214,
       "seats_total": 12,
       "enrollments": 1,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2828",
@@ -1064,7 +1125,7 @@
       "section_index": 2828,
       "seats_total": 30,
       "enrollments": 16,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3589",
@@ -1089,7 +1150,7 @@
       "section_index": 3589,
       "seats_total": 9999,
       "enrollments": 74,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3606",
@@ -1114,7 +1175,7 @@
       "section_index": 3606,
       "seats_total": 9999,
       "enrollments": 49,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3632",
@@ -1139,7 +1200,7 @@
       "section_index": 3632,
       "seats_total": 9999,
       "enrollments": 86,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3213",
@@ -1164,7 +1225,7 @@
       "section_index": 3213,
       "seats_total": 12,
       "enrollments": 6,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2857",
@@ -1189,7 +1250,7 @@
       "section_index": 2857,
       "seats_total": 9999,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3599",
@@ -1214,7 +1275,7 @@
       "section_index": 3599,
       "seats_total": 9999,
       "enrollments": 38,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3612",
@@ -1239,7 +1300,7 @@
       "section_index": 3612,
       "seats_total": 9999,
       "enrollments": 34,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3615",
@@ -1264,7 +1325,7 @@
       "section_index": 3615,
       "seats_total": 9999,
       "enrollments": 71,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3074",
@@ -1289,7 +1350,7 @@
       "section_index": 3074,
       "seats_total": 8,
       "enrollments": 7,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3591",
@@ -1314,7 +1375,7 @@
       "section_index": 3591,
       "seats_total": 9999,
       "enrollments": 21,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3624",
@@ -1339,7 +1400,7 @@
       "section_index": 3624,
       "seats_total": 9999,
       "enrollments": 84,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3625",
@@ -1364,7 +1425,7 @@
       "section_index": 3625,
       "seats_total": 9999,
       "enrollments": 85,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3601",
@@ -1389,7 +1450,7 @@
       "section_index": 3601,
       "seats_total": 9999,
       "enrollments": 41,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3629",
@@ -1414,7 +1475,7 @@
       "section_index": 3629,
       "seats_total": 9999,
       "enrollments": 94,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2372",
@@ -1439,7 +1500,7 @@
       "section_index": 2372,
       "seats_total": 30,
       "enrollments": 17,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2948",
@@ -1464,7 +1525,7 @@
       "section_index": 2948,
       "seats_total": 8,
       "enrollments": 5,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1926",
@@ -1489,7 +1550,7 @@
       "section_index": 1926,
       "seats_total": 24,
       "enrollments": 18,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3609",
@@ -1514,7 +1575,7 @@
       "section_index": 3609,
       "seats_total": 9999,
       "enrollments": 45,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3623",
@@ -1539,7 +1600,7 @@
       "section_index": 3623,
       "seats_total": 9999,
       "enrollments": 45,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3598",
@@ -1564,7 +1625,7 @@
       "section_index": 3598,
       "seats_total": 9999,
       "enrollments": 41,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2572",
@@ -1589,7 +1650,7 @@
       "section_index": 2572,
       "seats_total": 999,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3611",
@@ -1614,7 +1675,7 @@
       "section_index": 3611,
       "seats_total": 9999,
       "enrollments": 51,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3626",
@@ -1639,7 +1700,7 @@
       "section_index": 3626,
       "seats_total": 9999,
       "enrollments": 119,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2371",
@@ -1664,7 +1725,7 @@
       "section_index": 2371,
       "seats_total": 30,
       "enrollments": 18,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2446",
@@ -1689,7 +1750,7 @@
       "section_index": 2446,
       "seats_total": 12,
       "enrollments": 12,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3635",
@@ -1714,7 +1775,7 @@
       "section_index": 3635,
       "seats_total": 9999,
       "enrollments": 64,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2858",
@@ -1739,7 +1800,7 @@
       "section_index": 2858,
       "seats_total": 9999,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2861",
@@ -1764,7 +1825,7 @@
       "section_index": 2861,
       "seats_total": 9999,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2573",
@@ -1789,7 +1850,7 @@
       "section_index": 2573,
       "seats_total": 999,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2571",
@@ -1814,7 +1875,7 @@
       "section_index": 2571,
       "seats_total": 999,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3602",
@@ -1839,7 +1900,7 @@
       "section_index": 3602,
       "seats_total": 9999,
       "enrollments": 64,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2570",
@@ -1864,7 +1925,7 @@
       "section_index": 2570,
       "seats_total": 999,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3620",
@@ -1889,7 +1950,7 @@
       "section_index": 3620,
       "seats_total": 9999,
       "enrollments": 40,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2569",
@@ -1914,7 +1975,7 @@
       "section_index": 2569,
       "seats_total": 999,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3603",
@@ -1939,7 +2000,7 @@
       "section_index": 3603,
       "seats_total": 9999,
       "enrollments": 51,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2370",
@@ -1964,7 +2025,7 @@
       "section_index": 2370,
       "seats_total": 30,
       "enrollments": 24,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2317",
@@ -1989,7 +2050,7 @@
       "section_index": 2317,
       "seats_total": 18,
       "enrollments": 17,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2319",
@@ -2014,7 +2075,7 @@
       "section_index": 2319,
       "seats_total": 8,
       "enrollments": 7,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3604",
@@ -2039,7 +2100,7 @@
       "section_index": 3604,
       "seats_total": 9999,
       "enrollments": 76,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3600",
@@ -2064,7 +2125,7 @@
       "section_index": 3600,
       "seats_total": 9999,
       "enrollments": 37,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3605",
@@ -2089,7 +2150,7 @@
       "section_index": 3605,
       "seats_total": 9999,
       "enrollments": 87,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3614",
@@ -2114,7 +2175,7 @@
       "section_index": 3614,
       "seats_total": 9999,
       "enrollments": 26,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3608",
@@ -2139,7 +2200,7 @@
       "section_index": 3608,
       "seats_total": 9999,
       "enrollments": 50,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3631",
@@ -2164,7 +2225,7 @@
       "section_index": 3631,
       "seats_total": 9999,
       "enrollments": 114,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2551",
@@ -2189,7 +2250,7 @@
       "section_index": 2551,
       "seats_total": 100,
       "enrollments": 1,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2550",
@@ -2214,7 +2275,7 @@
       "section_index": 2550,
       "seats_total": 300,
       "enrollments": 1,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2549",
@@ -2239,7 +2300,7 @@
       "section_index": 2549,
       "seats_total": 70,
       "enrollments": 4,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3595",
@@ -2264,7 +2325,7 @@
       "section_index": 3595,
       "seats_total": 9999,
       "enrollments": 6,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3636",
@@ -2289,7 +2350,7 @@
       "section_index": 3636,
       "seats_total": 9999,
       "enrollments": 16,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2548",
@@ -2314,7 +2375,7 @@
       "section_index": 2548,
       "seats_total": 200,
       "enrollments": 2,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3621",
@@ -2339,7 +2400,7 @@
       "section_index": 3621,
       "seats_total": 9999,
       "enrollments": 50,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2546",
@@ -2364,7 +2425,7 @@
       "section_index": 2546,
       "seats_total": 200,
       "enrollments": 1,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2322",
@@ -2389,7 +2450,7 @@
       "section_index": 2322,
       "seats_total": 30,
       "enrollments": 14,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2369",
@@ -2414,7 +2475,7 @@
       "section_index": 2369,
       "seats_total": 30,
       "enrollments": 30,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3596",
@@ -2439,7 +2500,7 @@
       "section_index": 3596,
       "seats_total": 9999,
       "enrollments": 45,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3613",
@@ -2464,7 +2525,7 @@
       "section_index": 3613,
       "seats_total": 9999,
       "enrollments": 15,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3607",
@@ -2489,7 +2550,7 @@
       "section_index": 3607,
       "seats_total": 9999,
       "enrollments": 57,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3630",
@@ -2514,7 +2575,7 @@
       "section_index": 3630,
       "seats_total": 9999,
       "enrollments": 160,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3619",
@@ -2539,7 +2600,7 @@
       "section_index": 3619,
       "seats_total": 9999,
       "enrollments": 63,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2273",
@@ -2564,7 +2625,7 @@
       "section_index": 2273,
       "seats_total": 12,
       "enrollments": 4,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3634",
@@ -2589,7 +2650,7 @@
       "section_index": 3634,
       "seats_total": 9999,
       "enrollments": 30,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3627",
@@ -2614,7 +2675,7 @@
       "section_index": 3627,
       "seats_total": 9999,
       "enrollments": 112,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1925",
@@ -2639,7 +2700,7 @@
       "section_index": 1925,
       "seats_total": 24,
       "enrollments": 11,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1752",
@@ -2664,7 +2725,7 @@
       "section_index": 1752,
       "seats_total": 12,
       "enrollments": 10,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3633",
@@ -2689,7 +2750,7 @@
       "section_index": 3633,
       "seats_total": 9999,
       "enrollments": 100,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1751",
@@ -2714,7 +2775,7 @@
       "section_index": 1751,
       "seats_total": 12,
       "enrollments": 9,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1775",
@@ -2739,7 +2800,7 @@
       "section_index": 1775,
       "seats_total": 12,
       "enrollments": 5,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3712",
@@ -2764,7 +2825,7 @@
       "section_index": 3712,
       "seats_total": 9999,
       "enrollments": 50,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3177",
@@ -2789,7 +2850,7 @@
       "section_index": 3177,
       "seats_total": 9999,
       "enrollments": 5,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1201",
@@ -2814,7 +2875,7 @@
       "section_index": 1201,
       "seats_total": 30,
       "enrollments": 23,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1750",
@@ -2839,7 +2900,7 @@
       "section_index": 1750,
       "seats_total": 12,
       "enrollments": 6,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3116",
@@ -2864,7 +2925,7 @@
       "section_index": 3116,
       "seats_total": 9999,
       "enrollments": 13,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1774",
@@ -2889,7 +2950,7 @@
       "section_index": 1774,
       "seats_total": 12,
       "enrollments": 2,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3144",
@@ -2914,7 +2975,7 @@
       "section_index": 3144,
       "seats_total": 9999,
       "enrollments": 62,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3131",
@@ -2939,7 +3000,7 @@
       "section_index": 3131,
       "seats_total": 9999,
       "enrollments": 39,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1749",
@@ -2964,7 +3025,7 @@
       "section_index": 1749,
       "seats_total": 12,
       "enrollments": 4,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3118",
@@ -2989,7 +3050,7 @@
       "section_index": 3118,
       "seats_total": 9999,
       "enrollments": 37,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3133",
@@ -3014,7 +3075,7 @@
       "section_index": 3133,
       "seats_total": 9999,
       "enrollments": 62,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3165",
@@ -3039,7 +3100,7 @@
       "section_index": 3165,
       "seats_total": 9999,
       "enrollments": 96,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1654",
@@ -3064,7 +3125,7 @@
       "section_index": 1654,
       "seats_total": 20,
       "enrollments": 15,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3153",
@@ -3089,7 +3150,7 @@
       "section_index": 3153,
       "seats_total": 9999,
       "enrollments": 47,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3161",
@@ -3114,7 +3175,7 @@
       "section_index": 3161,
       "seats_total": 9999,
       "enrollments": 37,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1673",
@@ -3139,7 +3200,7 @@
       "section_index": 1673,
       "seats_total": 30,
       "enrollments": 1,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1675",
@@ -3164,7 +3225,7 @@
       "section_index": 1675,
       "seats_total": 30,
       "enrollments": 1,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1678",
@@ -3189,7 +3250,7 @@
       "section_index": 1678,
       "seats_total": 30,
       "enrollments": 1,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1679",
@@ -3214,7 +3275,7 @@
       "section_index": 1679,
       "seats_total": 28,
       "enrollments": 7,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3122",
@@ -3239,7 +3300,7 @@
       "section_index": 3122,
       "seats_total": 9999,
       "enrollments": 92,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3178",
@@ -3264,7 +3325,7 @@
       "section_index": 3178,
       "seats_total": 9999,
       "enrollments": 4,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3142",
@@ -3289,7 +3350,7 @@
       "section_index": 3142,
       "seats_total": 9999,
       "enrollments": 75,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3147",
@@ -3314,7 +3375,7 @@
       "section_index": 3147,
       "seats_total": 9999,
       "enrollments": 26,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1932",
@@ -3339,7 +3400,7 @@
       "section_index": 1932,
       "seats_total": 30,
       "enrollments": 30,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1934",
@@ -3364,7 +3425,7 @@
       "section_index": 1934,
       "seats_total": 16,
       "enrollments": 10,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1957",
@@ -3389,7 +3450,7 @@
       "section_index": 1957,
       "seats_total": 30,
       "enrollments": 11,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3130",
@@ -3414,7 +3475,7 @@
       "section_index": 3130,
       "seats_total": 9999,
       "enrollments": 67,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3175",
@@ -3439,7 +3500,7 @@
       "section_index": 3175,
       "seats_total": 9999,
       "enrollments": 49,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1404",
@@ -3464,7 +3525,7 @@
       "section_index": 1404,
       "seats_total": 24,
       "enrollments": 24,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1200",
@@ -3489,7 +3550,7 @@
       "section_index": 1200,
       "seats_total": 30,
       "enrollments": 30,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1682",
@@ -3514,7 +3575,7 @@
       "section_index": 1682,
       "seats_total": 9999,
       "enrollments": 8,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3119",
@@ -3539,7 +3600,7 @@
       "section_index": 3119,
       "seats_total": 9999,
       "enrollments": 43,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1681",
@@ -3564,7 +3625,7 @@
       "section_index": 1681,
       "seats_total": 9999,
       "enrollments": 10,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3132",
@@ -3589,7 +3650,7 @@
       "section_index": 3132,
       "seats_total": 9999,
       "enrollments": 52,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1680",
@@ -3614,7 +3675,7 @@
       "section_index": 1680,
       "seats_total": 9999,
       "enrollments": 1,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3154",
@@ -3639,7 +3700,7 @@
       "section_index": 3154,
       "seats_total": 9999,
       "enrollments": 54,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1588",
@@ -3664,7 +3725,7 @@
       "section_index": 1588,
       "seats_total": 16,
       "enrollments": 15,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1589",
@@ -3689,7 +3750,7 @@
       "section_index": 1589,
       "seats_total": 8,
       "enrollments": 8,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3127",
@@ -3714,7 +3775,7 @@
       "section_index": 3127,
       "seats_total": 9999,
       "enrollments": 65,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3138",
@@ -3739,7 +3800,7 @@
       "section_index": 3138,
       "seats_total": 9999,
       "enrollments": 51,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3135",
@@ -3764,7 +3825,7 @@
       "section_index": 3135,
       "seats_total": 9999,
       "enrollments": 60,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3179",
@@ -3789,7 +3850,7 @@
       "section_index": 3179,
       "seats_total": 9999,
       "enrollments": 8,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3120",
@@ -3814,7 +3875,7 @@
       "section_index": 3120,
       "seats_total": 9999,
       "enrollments": 41,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3134",
@@ -3839,7 +3900,7 @@
       "section_index": 3134,
       "seats_total": 9999,
       "enrollments": 57,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3152",
@@ -3864,7 +3925,7 @@
       "section_index": 3152,
       "seats_total": 9999,
       "enrollments": 69,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3124",
@@ -3889,7 +3950,7 @@
       "section_index": 3124,
       "seats_total": 9999,
       "enrollments": 81,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3145",
@@ -3914,7 +3975,7 @@
       "section_index": 3145,
       "seats_total": 9999,
       "enrollments": 75,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3146",
@@ -3939,7 +4000,7 @@
       "section_index": 3146,
       "seats_total": 9999,
       "enrollments": 17,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3167",
@@ -3964,7 +4025,7 @@
       "section_index": 3167,
       "seats_total": 9999,
       "enrollments": 158,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3172",
@@ -3989,7 +4050,7 @@
       "section_index": 3172,
       "seats_total": 9999,
       "enrollments": 72,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1199",
@@ -4014,7 +4075,7 @@
       "section_index": 1199,
       "seats_total": 30,
       "enrollments": 20,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3163",
@@ -4039,7 +4100,7 @@
       "section_index": 3163,
       "seats_total": 9999,
       "enrollments": 49,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3117",
@@ -4064,7 +4125,7 @@
       "section_index": 3117,
       "seats_total": 9999,
       "enrollments": 37,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3156",
@@ -4089,7 +4150,7 @@
       "section_index": 3156,
       "seats_total": 9999,
       "enrollments": 49,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3126",
@@ -4114,7 +4175,7 @@
       "section_index": 3126,
       "seats_total": 9999,
       "enrollments": 98,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3137",
@@ -4139,7 +4200,7 @@
       "section_index": 3137,
       "seats_total": 9999,
       "enrollments": 70,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3115",
@@ -4164,7 +4225,7 @@
       "section_index": 3115,
       "seats_total": 9999,
       "enrollments": 55,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3174",
@@ -4189,7 +4250,7 @@
       "section_index": 3174,
       "seats_total": 9999,
       "enrollments": 68,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3140",
@@ -4214,7 +4275,7 @@
       "section_index": 3140,
       "seats_total": 9999,
       "enrollments": 83,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3149",
@@ -4239,7 +4300,7 @@
       "section_index": 3149,
       "seats_total": 9999,
       "enrollments": 28,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3170",
@@ -4264,7 +4325,7 @@
       "section_index": 3170,
       "seats_total": 9999,
       "enrollments": 49,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1198",
@@ -4289,7 +4350,7 @@
       "section_index": 1198,
       "seats_total": 30,
       "enrollments": 30,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1502",
@@ -4314,7 +4375,7 @@
       "section_index": 1502,
       "seats_total": 30,
       "enrollments": 10,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3164",
@@ -4339,7 +4400,7 @@
       "section_index": 3164,
       "seats_total": 9999,
       "enrollments": 43,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3114",
@@ -4364,7 +4425,7 @@
       "section_index": 3114,
       "seats_total": 9999,
       "enrollments": 49,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3176",
@@ -4389,7 +4450,7 @@
       "section_index": 3176,
       "seats_total": 9999,
       "enrollments": 8,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3151",
@@ -4414,7 +4475,7 @@
       "section_index": 3151,
       "seats_total": 9999,
       "enrollments": 52,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3123",
@@ -4439,7 +4500,7 @@
       "section_index": 3123,
       "seats_total": 9999,
       "enrollments": 120,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1403",
@@ -4464,7 +4525,7 @@
       "section_index": 1403,
       "seats_total": 30,
       "enrollments": 27,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3139",
@@ -4489,7 +4550,7 @@
       "section_index": 3139,
       "seats_total": 9999,
       "enrollments": 101,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3158",
@@ -4514,7 +4575,7 @@
       "section_index": 3158,
       "seats_total": 9999,
       "enrollments": 54,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3113",
@@ -4539,7 +4600,7 @@
       "section_index": 3113,
       "seats_total": 9999,
       "enrollments": 67,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3128",
@@ -4564,7 +4625,7 @@
       "section_index": 3128,
       "seats_total": 9999,
       "enrollments": 124,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1197",
@@ -4589,7 +4650,7 @@
       "section_index": 1197,
       "seats_total": 30,
       "enrollments": 23,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3136",
@@ -4614,7 +4675,7 @@
       "section_index": 3136,
       "seats_total": 9999,
       "enrollments": 59,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3121",
@@ -4639,7 +4700,7 @@
       "section_index": 3121,
       "seats_total": 9999,
       "enrollments": 126,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3141",
@@ -4664,7 +4725,7 @@
       "section_index": 3141,
       "seats_total": 9999,
       "enrollments": 87,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3166",
@@ -4689,7 +4750,7 @@
       "section_index": 3166,
       "seats_total": 9999,
       "enrollments": 94,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3169",
@@ -4714,7 +4775,7 @@
       "section_index": 3169,
       "seats_total": 9999,
       "enrollments": 38,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3112",
@@ -4739,7 +4800,7 @@
       "section_index": 3112,
       "seats_total": 9999,
       "enrollments": 56,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3150",
@@ -4764,7 +4825,7 @@
       "section_index": 3150,
       "seats_total": 9999,
       "enrollments": 34,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3155",
@@ -4789,7 +4850,7 @@
       "section_index": 3155,
       "seats_total": 9999,
       "enrollments": 67,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3143",
@@ -4814,7 +4875,7 @@
       "section_index": 3143,
       "seats_total": 9999,
       "enrollments": 105,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3160",
@@ -4839,7 +4900,7 @@
       "section_index": 3160,
       "seats_total": 9999,
       "enrollments": 76,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3173",
@@ -4864,7 +4925,7 @@
       "section_index": 3173,
       "seats_total": 9999,
       "enrollments": 54,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3129",
@@ -4889,7 +4950,7 @@
       "section_index": 3129,
       "seats_total": 9999,
       "enrollments": 132,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1196",
@@ -4914,7 +4975,7 @@
       "section_index": 1196,
       "seats_total": 30,
       "enrollments": 27,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3157",
@@ -4939,7 +5000,7 @@
       "section_index": 3157,
       "seats_total": 9999,
       "enrollments": 64,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3162",
@@ -4964,7 +5025,7 @@
       "section_index": 3162,
       "seats_total": 9999,
       "enrollments": 61,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3111",
@@ -4989,7 +5050,7 @@
       "section_index": 3111,
       "seats_total": 9999,
       "enrollments": 58,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3148",
@@ -5014,7 +5075,7 @@
       "section_index": 3148,
       "seats_total": 9999,
       "enrollments": 18,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3168",
@@ -5039,7 +5100,7 @@
       "section_index": 3168,
       "seats_total": 9999,
       "enrollments": 117,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3171",
@@ -5064,7 +5125,7 @@
       "section_index": 3171,
       "seats_total": 9999,
       "enrollments": 46,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1467",
@@ -5089,7 +5150,7 @@
       "section_index": 1467,
       "seats_total": 12,
       "enrollments": 6,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3125",
@@ -5114,7 +5175,7 @@
       "section_index": 3125,
       "seats_total": 9999,
       "enrollments": 141,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3159",
@@ -5139,7 +5200,7 @@
       "section_index": 3159,
       "seats_total": 9999,
       "enrollments": 87,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2466",
@@ -5164,7 +5225,7 @@
       "section_index": 2466,
       "seats_total": 9999,
       "enrollments": 105,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2473",
@@ -5189,7 +5250,7 @@
       "section_index": 2473,
       "seats_total": 9999,
       "enrollments": 41,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2477",
@@ -5214,7 +5275,7 @@
       "section_index": 2477,
       "seats_total": 9999,
       "enrollments": 18,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1136",
@@ -5239,7 +5300,7 @@
       "section_index": 1136,
       "seats_total": 24,
       "enrollments": 11,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1195",
@@ -5264,7 +5325,7 @@
       "section_index": 1195,
       "seats_total": 12,
       "enrollments": 12,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2481",
@@ -5289,7 +5350,7 @@
       "section_index": 2481,
       "seats_total": 9999,
       "enrollments": 23,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2487",
@@ -5314,7 +5375,7 @@
       "section_index": 2487,
       "seats_total": 9999,
       "enrollments": 85,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2489",
@@ -5339,7 +5400,7 @@
       "section_index": 2489,
       "seats_total": 9999,
       "enrollments": 63,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2490",
@@ -5364,7 +5425,7 @@
       "section_index": 2490,
       "seats_total": 9999,
       "enrollments": 67,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2483",
@@ -5389,7 +5450,7 @@
       "section_index": 2483,
       "seats_total": 9999,
       "enrollments": 87,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2464",
@@ -5414,7 +5475,7 @@
       "section_index": 2464,
       "seats_total": 9999,
       "enrollments": 113,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2471",
@@ -5439,7 +5500,7 @@
       "section_index": 2471,
       "seats_total": 9999,
       "enrollments": 68,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2480",
@@ -5464,7 +5525,7 @@
       "section_index": 2480,
       "seats_total": 9999,
       "enrollments": 29,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1194",
@@ -5489,7 +5550,7 @@
       "section_index": 1194,
       "seats_total": 30,
       "enrollments": 25,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2482",
@@ -5514,7 +5575,7 @@
       "section_index": 2482,
       "seats_total": 9999,
       "enrollments": 42,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2458",
@@ -5539,7 +5600,7 @@
       "section_index": 2458,
       "seats_total": 9999,
       "enrollments": 28,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1259",
@@ -5564,7 +5625,7 @@
       "section_index": 1259,
       "seats_total": 100,
       "enrollments": 21,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2485",
@@ -5589,7 +5650,7 @@
       "section_index": 2485,
       "seats_total": 9999,
       "enrollments": 73,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2469",
@@ -5614,7 +5675,7 @@
       "section_index": 2469,
       "seats_total": 9999,
       "enrollments": 110,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2479",
@@ -5639,7 +5700,7 @@
       "section_index": 2479,
       "seats_total": 9999,
       "enrollments": 43,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2467",
@@ -5664,7 +5725,7 @@
       "section_index": 2467,
       "seats_total": 9999,
       "enrollments": 131,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2474",
@@ -5689,7 +5750,7 @@
       "section_index": 2474,
       "seats_total": 9999,
       "enrollments": 48,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1193",
@@ -5714,7 +5775,7 @@
       "section_index": 1193,
       "seats_total": 30,
       "enrollments": 30,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2457",
@@ -5739,7 +5800,7 @@
       "section_index": 2457,
       "seats_total": 9999,
       "enrollments": 35,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1167",
@@ -5764,7 +5825,7 @@
       "section_index": 1167,
       "seats_total": 9999,
       "enrollments": 1,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1216",
@@ -5789,7 +5850,7 @@
       "section_index": 1216,
       "seats_total": 20,
       "enrollments": 8,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2484",
@@ -5814,7 +5875,7 @@
       "section_index": 2484,
       "seats_total": 9999,
       "enrollments": 88,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2456",
@@ -5839,7 +5900,7 @@
       "section_index": 2456,
       "seats_total": 9999,
       "enrollments": 46,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2478",
@@ -5864,7 +5925,7 @@
       "section_index": 2478,
       "seats_total": 9999,
       "enrollments": 35,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2468",
@@ -5889,7 +5950,7 @@
       "section_index": 2468,
       "seats_total": 9999,
       "enrollments": 134,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2472",
@@ -5914,7 +5975,7 @@
       "section_index": 2472,
       "seats_total": 9999,
       "enrollments": 55,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1192",
@@ -5939,7 +6000,7 @@
       "section_index": 1192,
       "seats_total": 30,
       "enrollments": 5,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2486",
@@ -5964,7 +6025,7 @@
       "section_index": 2486,
       "seats_total": 9999,
       "enrollments": 71,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1086",
@@ -5989,7 +6050,7 @@
       "section_index": 1086,
       "seats_total": 12,
       "enrollments": 12,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2465",
@@ -6014,7 +6075,7 @@
       "section_index": 2465,
       "seats_total": 9999,
       "enrollments": 134,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-858",
@@ -6039,7 +6100,7 @@
       "section_index": 858,
       "seats_total": 24,
       "enrollments": 4,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1084",
@@ -6064,7 +6125,7 @@
       "section_index": 1084,
       "seats_total": 12,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-1064",
@@ -6089,7 +6150,7 @@
       "section_index": 1064,
       "seats_total": 30,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2470",
@@ -6114,7 +6175,7 @@
       "section_index": 2470,
       "seats_total": 9999,
       "enrollments": 37,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2462",
@@ -6139,7 +6200,7 @@
       "section_index": 2462,
       "seats_total": 9999,
       "enrollments": 34,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-746",
@@ -6164,7 +6225,7 @@
       "section_index": 746,
       "seats_total": 100,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2461",
@@ -6189,7 +6250,7 @@
       "section_index": 2461,
       "seats_total": 9999,
       "enrollments": 42,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2556",
@@ -6214,7 +6275,7 @@
       "section_index": 2556,
       "seats_total": 9999,
       "enrollments": 6,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2463",
@@ -6239,7 +6300,7 @@
       "section_index": 2463,
       "seats_total": 9999,
       "enrollments": 41,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2460",
@@ -6264,7 +6325,7 @@
       "section_index": 2460,
       "seats_total": 9999,
       "enrollments": 16,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-591",
@@ -6289,7 +6350,7 @@
       "section_index": 591,
       "seats_total": 24,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-785",
@@ -6314,7 +6375,7 @@
       "section_index": 785,
       "seats_total": 50,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-834",
@@ -6339,7 +6400,7 @@
       "section_index": 834,
       "seats_total": 50,
       "enrollments": 7,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2455",
@@ -6364,7 +6425,7 @@
       "section_index": 2455,
       "seats_total": 9999,
       "enrollments": 41,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2491",
@@ -6389,7 +6450,7 @@
       "section_index": 2491,
       "seats_total": 9999,
       "enrollments": 8,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-747",
@@ -6414,7 +6475,7 @@
       "section_index": 747,
       "seats_total": 30,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-799",
@@ -6439,7 +6500,7 @@
       "section_index": 799,
       "seats_total": 30,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-741",
@@ -6464,7 +6525,7 @@
       "section_index": 741,
       "seats_total": 50,
       "enrollments": 43,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2454",
@@ -6489,7 +6550,7 @@
       "section_index": 2454,
       "seats_total": 9999,
       "enrollments": 37,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-423",
@@ -6514,7 +6575,7 @@
       "section_index": 423,
       "seats_total": 30,
       "enrollments": 1,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-758",
@@ -6539,7 +6600,7 @@
       "section_index": 758,
       "seats_total": 15,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-757",
@@ -6564,7 +6625,7 @@
       "section_index": 757,
       "seats_total": 15,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-648",
@@ -6589,7 +6650,7 @@
       "section_index": 648,
       "seats_total": 50,
       "enrollments": 8,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-422",
@@ -6614,7 +6675,7 @@
       "section_index": 422,
       "seats_total": 25,
       "enrollments": 6,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-625",
@@ -6639,7 +6700,7 @@
       "section_index": 625,
       "seats_total": 30,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-247",
@@ -6664,7 +6725,7 @@
       "section_index": 247,
       "seats_total": 30,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-525",
@@ -6689,7 +6750,7 @@
       "section_index": 525,
       "seats_total": 30,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-506",
@@ -6714,7 +6775,7 @@
       "section_index": 506,
       "seats_total": 30,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-505",
@@ -6739,7 +6800,7 @@
       "section_index": 505,
       "seats_total": 30,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3100",
@@ -6764,7 +6825,7 @@
       "section_index": 3100,
       "seats_total": 9999,
       "enrollments": 70,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-421",
@@ -6789,7 +6850,7 @@
       "section_index": 421,
       "seats_total": 30,
       "enrollments": 8,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-417",
@@ -6814,7 +6875,7 @@
       "section_index": 417,
       "seats_total": 30,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-436",
@@ -6839,7 +6900,7 @@
       "section_index": 436,
       "seats_total": 30,
       "enrollments": 11,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-482",
@@ -6864,7 +6925,7 @@
       "section_index": 482,
       "seats_total": 30,
       "enrollments": 13,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3099",
@@ -6889,7 +6950,7 @@
       "section_index": 3099,
       "seats_total": 9999,
       "enrollments": 63,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2459",
@@ -6914,7 +6975,7 @@
       "section_index": 2459,
       "seats_total": 9999,
       "enrollments": 32,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-111",
@@ -6939,7 +7000,7 @@
       "section_index": 111,
       "seats_total": 25,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-410",
@@ -6964,7 +7025,7 @@
       "section_index": 410,
       "seats_total": 30,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-443",
@@ -6989,7 +7050,7 @@
       "section_index": 443,
       "seats_total": 30,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3102",
@@ -7014,7 +7075,7 @@
       "section_index": 3102,
       "seats_total": 9999,
       "enrollments": 114,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-408",
@@ -7039,7 +7100,7 @@
       "section_index": 408,
       "seats_total": 30,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-420",
@@ -7064,7 +7125,7 @@
       "section_index": 420,
       "seats_total": 30,
       "enrollments": 1,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3101",
@@ -7089,7 +7150,7 @@
       "section_index": 3101,
       "seats_total": 9999,
       "enrollments": 113,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3105",
@@ -7114,7 +7175,7 @@
       "section_index": 3105,
       "seats_total": 9999,
       "enrollments": 6,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3103",
@@ -7139,7 +7200,7 @@
       "section_index": 3103,
       "seats_total": 9999,
       "enrollments": 158,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3110",
@@ -7164,7 +7225,7 @@
       "section_index": 3110,
       "seats_total": 9999,
       "enrollments": 35,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-195",
@@ -7189,7 +7250,7 @@
       "section_index": 195,
       "seats_total": 84,
       "enrollments": 78,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-213",
@@ -7214,7 +7275,7 @@
       "section_index": 213,
       "seats_total": 300,
       "enrollments": 106,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3104",
@@ -7239,7 +7300,7 @@
       "section_index": 3104,
       "seats_total": 9999,
       "enrollments": 209,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3078",
@@ -7264,7 +7325,7 @@
       "section_index": 3078,
       "seats_total": 9999,
       "enrollments": 29,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3080",
@@ -7289,7 +7350,7 @@
       "section_index": 3080,
       "seats_total": 9999,
       "enrollments": 5,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3079",
@@ -7314,7 +7375,7 @@
       "section_index": 3079,
       "seats_total": 9999,
       "enrollments": 5,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3108",
@@ -7339,7 +7400,7 @@
       "section_index": 3108,
       "seats_total": 9999,
       "enrollments": 3,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3081",
@@ -7364,7 +7425,7 @@
       "section_index": 3081,
       "seats_total": 9999,
       "enrollments": 6,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3083",
@@ -7389,7 +7450,7 @@
       "section_index": 3083,
       "seats_total": 9999,
       "enrollments": 7,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3082",
@@ -7414,7 +7475,7 @@
       "section_index": 3082,
       "seats_total": 9999,
       "enrollments": 7,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3107",
@@ -7439,7 +7500,7 @@
       "section_index": 3107,
       "seats_total": 9999,
       "enrollments": 5,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3086",
@@ -7464,7 +7525,7 @@
       "section_index": 3086,
       "seats_total": 9999,
       "enrollments": 8,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3085",
@@ -7489,7 +7550,7 @@
       "section_index": 3085,
       "seats_total": 9999,
       "enrollments": 8,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3087",
@@ -7514,7 +7575,7 @@
       "section_index": 3087,
       "seats_total": 9999,
       "enrollments": 8,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-34",
@@ -7539,7 +7600,7 @@
       "section_index": 34,
       "seats_total": 30,
       "enrollments": null,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3088",
@@ -7564,7 +7625,7 @@
       "section_index": 3088,
       "seats_total": 9999,
       "enrollments": 8,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3084",
@@ -7589,7 +7650,7 @@
       "section_index": 3084,
       "seats_total": 9999,
       "enrollments": 8,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3090",
@@ -7614,7 +7675,7 @@
       "section_index": 3090,
       "seats_total": 9999,
       "enrollments": 11,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3089",
@@ -7639,7 +7700,7 @@
       "section_index": 3089,
       "seats_total": 9999,
       "enrollments": 11,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3106",
@@ -7664,7 +7725,7 @@
       "section_index": 3106,
       "seats_total": 9999,
       "enrollments": 2,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3098",
@@ -7689,7 +7750,7 @@
       "section_index": 3098,
       "seats_total": 9999,
       "enrollments": 15,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3094",
@@ -7714,7 +7775,7 @@
       "section_index": 3094,
       "seats_total": 9999,
       "enrollments": 13,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3091",
@@ -7739,7 +7800,7 @@
       "section_index": 3091,
       "seats_total": 9999,
       "enrollments": 12,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3097",
@@ -7764,7 +7825,7 @@
       "section_index": 3097,
       "seats_total": 9999,
       "enrollments": 14,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2",
@@ -7789,7 +7850,7 @@
       "section_index": 2,
       "seats_total": 30,
       "enrollments": 66,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-18",
@@ -7814,7 +7875,7 @@
       "section_index": 18,
       "seats_total": 9999,
       "enrollments": 58,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3096",
@@ -7839,7 +7900,7 @@
       "section_index": 3096,
       "seats_total": 9999,
       "enrollments": 14,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3093",
@@ -7864,7 +7925,7 @@
       "section_index": 3093,
       "seats_total": 9999,
       "enrollments": 13,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3092",
@@ -7889,7 +7950,7 @@
       "section_index": 3092,
       "seats_total": 9999,
       "enrollments": 12,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-3095",
@@ -7914,7 +7975,7 @@
       "section_index": 3095,
       "seats_total": 9999,
       "enrollments": 13,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2966",
@@ -7939,7 +8000,7 @@
       "section_index": 2966,
       "seats_total": 9999,
       "enrollments": 5,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2967",
@@ -7964,7 +8025,7 @@
       "section_index": 2967,
       "seats_total": 9999,
       "enrollments": 7,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2963",
@@ -7989,7 +8050,7 @@
       "section_index": 2963,
       "seats_total": 9999,
       "enrollments": 58,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2947",
@@ -8014,7 +8075,7 @@
       "section_index": 2947,
       "seats_total": 9999,
       "enrollments": 12,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2961",
@@ -8039,7 +8100,7 @@
       "section_index": 2961,
       "seats_total": 9999,
       "enrollments": 11,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2945",
@@ -8064,7 +8125,7 @@
       "section_index": 2945,
       "seats_total": 9999,
       "enrollments": 13,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2944",
@@ -8089,7 +8150,7 @@
       "section_index": 2944,
       "seats_total": 9999,
       "enrollments": 13,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2939",
@@ -8114,7 +8175,7 @@
       "section_index": 2939,
       "seats_total": 9999,
       "enrollments": 11,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2943",
@@ -8139,7 +8200,7 @@
       "section_index": 2943,
       "seats_total": 9999,
       "enrollments": 13,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2941",
@@ -8164,7 +8225,7 @@
       "section_index": 2941,
       "seats_total": 9999,
       "enrollments": 12,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2940",
@@ -8189,7 +8250,7 @@
       "section_index": 2940,
       "seats_total": 9999,
       "enrollments": 12,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2938",
@@ -8214,7 +8275,7 @@
       "section_index": 2938,
       "seats_total": 9999,
       "enrollments": 10,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2946",
@@ -8239,7 +8300,7 @@
       "section_index": 2946,
       "seats_total": 9999,
       "enrollments": 14,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2942",
@@ -8264,7 +8325,7 @@
       "section_index": 2942,
       "seats_total": 9999,
       "enrollments": 13,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2960",
@@ -8289,7 +8350,7 @@
       "section_index": 2960,
       "seats_total": 9999,
       "enrollments": 21,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2965",
@@ -8314,7 +8375,7 @@
       "section_index": 2965,
       "seats_total": 9999,
       "enrollments": 105,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2951",
@@ -8339,7 +8400,7 @@
       "section_index": 2951,
       "seats_total": 9999,
       "enrollments": 19,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2964",
@@ -8364,7 +8425,7 @@
       "section_index": 2964,
       "seats_total": 9999,
       "enrollments": 22,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2968",
@@ -8389,7 +8450,7 @@
       "section_index": 2968,
       "seats_total": 9999,
       "enrollments": 96,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2935",
@@ -8414,7 +8475,7 @@
       "section_index": 2935,
       "seats_total": 9999,
       "enrollments": 243,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2954",
@@ -8439,7 +8500,7 @@
       "section_index": 2954,
       "seats_total": 9999,
       "enrollments": 21,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2953",
@@ -8464,7 +8525,7 @@
       "section_index": 2953,
       "seats_total": 9999,
       "enrollments": 21,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2962",
@@ -8489,7 +8550,7 @@
       "section_index": 2962,
       "seats_total": 9999,
       "enrollments": 5,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2952",
@@ -8514,7 +8575,7 @@
       "section_index": 2952,
       "seats_total": 9999,
       "enrollments": 21,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2959",
@@ -8539,7 +8600,7 @@
       "section_index": 2959,
       "seats_total": 9999,
       "enrollments": 24,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2958",
@@ -8564,7 +8625,7 @@
       "section_index": 2958,
       "seats_total": 9999,
       "enrollments": 23,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2957",
@@ -8589,7 +8650,7 @@
       "section_index": 2957,
       "seats_total": 9999,
       "enrollments": 23,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2956",
@@ -8614,7 +8675,7 @@
       "section_index": 2956,
       "seats_total": 9999,
       "enrollments": 23,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2955",
@@ -8639,7 +8700,7 @@
       "section_index": 2955,
       "seats_total": 9999,
       "enrollments": 24,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2896",
@@ -8664,7 +8725,7 @@
       "section_index": 2896,
       "seats_total": 9999,
       "enrollments": 8,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2911",
@@ -8689,7 +8750,7 @@
       "section_index": 2911,
       "seats_total": 9999,
       "enrollments": 79,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2931",
@@ -8714,7 +8775,7 @@
       "section_index": 2931,
       "seats_total": 9999,
       "enrollments": 1241,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2913",
@@ -8739,7 +8800,7 @@
       "section_index": 2913,
       "seats_total": 9999,
       "enrollments": 2,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2885",
@@ -8764,7 +8825,7 @@
       "section_index": 2885,
       "seats_total": 9999,
       "enrollments": 46,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2892",
@@ -8789,7 +8850,7 @@
       "section_index": 2892,
       "seats_total": 9999,
       "enrollments": 51,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2887",
@@ -8814,7 +8875,7 @@
       "section_index": 2887,
       "seats_total": 9999,
       "enrollments": 41,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2912",
@@ -8839,7 +8900,7 @@
       "section_index": 2912,
       "seats_total": 9999,
       "enrollments": 14,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2914",
@@ -8864,7 +8925,7 @@
       "section_index": 2914,
       "seats_total": 9999,
       "enrollments": 28,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2893",
@@ -8889,7 +8950,7 @@
       "section_index": 2893,
       "seats_total": 9999,
       "enrollments": 50,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2890",
@@ -8914,7 +8975,7 @@
       "section_index": 2890,
       "seats_total": 9999,
       "enrollments": 55,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2886",
@@ -8939,7 +9000,7 @@
       "section_index": 2886,
       "seats_total": 9999,
       "enrollments": 53,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2895",
@@ -8964,7 +9025,7 @@
       "section_index": 2895,
       "seats_total": 9999,
       "enrollments": 58,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2888",
@@ -8989,7 +9050,7 @@
       "section_index": 2888,
       "seats_total": 9999,
       "enrollments": 59,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2889",
@@ -9014,7 +9075,7 @@
       "section_index": 2889,
       "seats_total": 9999,
       "enrollments": 71,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2897",
@@ -9039,7 +9100,7 @@
       "section_index": 2897,
       "seats_total": 9999,
       "enrollments": 86,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2891",
@@ -9064,7 +9125,7 @@
       "section_index": 2891,
       "seats_total": 9999,
       "enrollments": 60,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     },
     {
       "event_id": "genius-2902",
@@ -9089,7 +9150,7 @@
       "section_index": 2902,
       "seats_total": 9999,
       "enrollments": 75,
-      "last_updated": "2026-03-20"
+      "last_updated": "2026-03-21"
     }
   ]
 }
