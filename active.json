@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated": "2026-03-24T19:37:25.291Z",
+    "generated": "2026-03-24T21:55:21.727Z",
     "description": "Active and upcoming CACHE continuing education listings",
     "count": 98,
     "source": "UAA-IPCE/UAA-CACHE-StaticSite-v101"
@@ -2470,7 +2470,7 @@
       "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=870",
       "available_for_registration": true,
-      "seats_available": 165,
+      "seats_available": 164,
       "delivery": "On-Demand",
       "meeting_time_display": null,
       "public_notes": null,
