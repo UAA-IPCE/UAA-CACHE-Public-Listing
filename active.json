@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "generated": "2026-03-23T23:58:52.128Z",
+    "generated": "2026-03-24T05:16:40.812Z",
     "description": "Active and upcoming CACHE continuing education listings",
-    "count": 99,
+    "count": 98,
     "source": "UAA-IPCE/UAA-CACHE-StaticSite-v101"
   },
   "events": [
@@ -34,7 +34,7 @@
         "On Demand"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1315",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -69,7 +69,7 @@
         "Alaska"
       ],
       "cost": 75,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4538",
       "available_for_registration": true,
       "seats_available": 24,
@@ -104,7 +104,7 @@
         "CME"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=5",
       "available_for_registration": false,
       "seats_available": 8921,
@@ -138,7 +138,7 @@
         "Vaccine"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=189",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -175,7 +175,7 @@
         "CE"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4076",
       "available_for_registration": true,
       "seats_available": 9957,
@@ -207,7 +207,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3717",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -239,7 +239,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3716",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -276,7 +276,7 @@
         "Webinars"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1322",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -311,7 +311,7 @@
         "Mandated Reporter"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=185",
       "available_for_registration": false,
       "seats_available": 9998,
@@ -347,7 +347,7 @@
         "Research"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1367",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -382,7 +382,7 @@
         "AK"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4305",
       "available_for_registration": true,
       "seats_available": 9986,
@@ -417,7 +417,7 @@
         "Mental Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1082",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -453,7 +453,7 @@
         "Alaska"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1334",
       "available_for_registration": false,
       "seats_available": 30,
@@ -485,7 +485,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=35",
       "available_for_registration": false,
       "seats_available": 9998,
@@ -521,7 +521,7 @@
         "Alaska"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=30",
       "available_for_registration": false,
       "seats_available": 9996,
@@ -553,7 +553,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3800",
       "available_for_registration": true,
       "seats_available": 9915,
@@ -589,7 +589,7 @@
         "Continuing Education"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1333",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -625,7 +625,7 @@
         "Credentials"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1310",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -660,7 +660,7 @@
         "CME"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=8",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -695,7 +695,7 @@
         "Academic Detailing"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4038",
       "available_for_registration": true,
       "seats_available": 9991,
@@ -733,7 +733,7 @@
         "HIV"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=963",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -768,7 +768,7 @@
         "ECHO"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=966",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -800,7 +800,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3067",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -836,7 +836,7 @@
         "Continuing Education"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=775",
       "available_for_registration": true,
       "seats_available": 9833,
@@ -870,7 +870,7 @@
         "Comprehensive"
       ],
       "cost": 1650,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4498",
       "available_for_registration": true,
       "seats_available": 16,
@@ -904,7 +904,7 @@
         "Comprehensive"
       ],
       "cost": 1200,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4499",
       "available_for_registration": false,
       "seats_available": 4,
@@ -939,7 +939,7 @@
         "Community"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1224",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -971,7 +971,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=22",
       "available_for_registration": false,
       "seats_available": 29,
@@ -1008,10 +1008,10 @@
         "On-Demand"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1134",
       "available_for_registration": true,
-      "seats_available": 9742,
+      "seats_available": 9741,
       "delivery": "On-Demand",
       "meeting_time_display": null,
       "public_notes": null,
@@ -1040,7 +1040,7 @@
         "Health and Behavioral Health"
       ],
       "cost": 0,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4033",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -1072,7 +1072,7 @@
         "Health and Behavioral Health"
       ],
       "cost": 0,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4034",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -1107,7 +1107,7 @@
         "Confidentiality"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4108",
       "available_for_registration": true,
       "seats_available": 9990,
@@ -1143,7 +1143,7 @@
         "CE"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1370",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -1177,7 +1177,7 @@
         "FASD"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=928",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -1211,7 +1211,7 @@
         "FASD"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=931",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -1245,7 +1245,7 @@
         "FASD"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=932",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -1279,7 +1279,7 @@
         "FASD"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=929",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -1314,7 +1314,7 @@
         "Peer Support"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4107",
       "available_for_registration": true,
       "seats_available": 9992,
@@ -1349,7 +1349,7 @@
         "ANCC"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1713",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -1384,7 +1384,7 @@
         "Students"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4227",
       "available_for_registration": true,
       "seats_available": 9995,
@@ -1419,7 +1419,7 @@
         "Continuing Education"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=881",
       "available_for_registration": true,
       "seats_available": 9959,
@@ -1451,7 +1451,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3787",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -1485,7 +1485,7 @@
         "Human Services Practicum"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=833",
       "available_for_registration": true,
       "seats_available": 36,
@@ -1517,7 +1517,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3571",
       "available_for_registration": true,
       "seats_available": 9971,
@@ -1552,7 +1552,7 @@
         "Continuing Education"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=960",
       "available_for_registration": true,
       "seats_available": 9739,
@@ -1584,7 +1584,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3856",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -1619,7 +1619,7 @@
         "Compassion Fatigue"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1655",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -1652,7 +1652,7 @@
         "MOUD"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4039",
       "available_for_registration": true,
       "seats_available": 9999,
@@ -1686,7 +1686,7 @@
         "Recovery"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=161",
       "available_for_registration": false,
       "seats_available": 9998,
@@ -1722,7 +1722,7 @@
         "On-Demand"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1320",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -1758,7 +1758,7 @@
         "CE"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=297",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -1794,7 +1794,7 @@
         "CHW"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1648",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -1826,7 +1826,7 @@
         "Community Education and Personal Enrichment"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=2916",
       "available_for_registration": false,
       "seats_available": 9996,
@@ -1862,7 +1862,7 @@
         "Opioid"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3218",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -1894,7 +1894,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3788",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -1929,7 +1929,7 @@
         "Alaska"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=10",
       "available_for_registration": false,
       "seats_available": 9997,
@@ -1961,7 +1961,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3784",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -1997,7 +1997,7 @@
         "Communication"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1432",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -2029,7 +2029,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3785",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -2061,7 +2061,7 @@
         "Health and Behavioral Health"
       ],
       "cost": 0,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4028",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -2093,7 +2093,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3557",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -2125,7 +2125,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=2521",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -2160,7 +2160,7 @@
         "CME"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=15",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -2195,7 +2195,7 @@
         "Social Work"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4109",
       "available_for_registration": true,
       "seats_available": 9994,
@@ -2231,7 +2231,7 @@
         "Provider"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1690",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -2263,7 +2263,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3774",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -2297,7 +2297,7 @@
         "alcohol use disorder"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=865",
       "available_for_registration": true,
       "seats_available": 41,
@@ -2331,7 +2331,7 @@
         "Alcohol Use Disorder"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=866",
       "available_for_registration": true,
       "seats_available": 99,
@@ -2365,7 +2365,7 @@
         "Alcohol Use Disorder"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=867",
       "available_for_registration": true,
       "seats_available": 92,
@@ -2399,7 +2399,7 @@
         "Alcohol Use Disorder"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=868",
       "available_for_registration": true,
       "seats_available": 148,
@@ -2433,7 +2433,7 @@
         "Alcohol Use Disorder"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=869",
       "available_for_registration": true,
       "seats_available": 139,
@@ -2467,7 +2467,7 @@
         "Alcohol Use Disorder"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=870",
       "available_for_registration": true,
       "seats_available": 165,
@@ -2501,7 +2501,7 @@
         "Alcohol Use Disorder"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=871",
       "available_for_registration": true,
       "seats_available": 180,
@@ -2535,7 +2535,7 @@
         "Alcohol Use Disorder"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=872",
       "available_for_registration": true,
       "seats_available": 182,
@@ -2567,7 +2567,7 @@
         "Health and Behavioral Health"
       ],
       "cost": 0,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3468",
       "available_for_registration": false,
       "seats_available": 300,
@@ -2603,7 +2603,7 @@
         "Mental Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1318",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -2635,7 +2635,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3526",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -2667,7 +2667,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3527",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -2699,7 +2699,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=2841",
       "available_for_registration": true,
       "seats_available": 9892,
@@ -2731,7 +2731,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3059",
       "available_for_registration": true,
       "seats_available": 9968,
@@ -2763,7 +2763,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3060",
       "available_for_registration": true,
       "seats_available": 9983,
@@ -2795,7 +2795,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3061",
       "available_for_registration": true,
       "seats_available": 9976,
@@ -2827,7 +2827,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3062",
       "available_for_registration": true,
       "seats_available": 9980,
@@ -2859,7 +2859,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3063",
       "available_for_registration": true,
       "seats_available": 9974,
@@ -2891,7 +2891,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3064",
       "available_for_registration": true,
       "seats_available": 9970,
@@ -2923,7 +2923,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3065",
       "available_for_registration": true,
       "seats_available": 9974,
@@ -2955,7 +2955,7 @@
         "Health and Behavioral Health"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3573",
       "available_for_registration": false,
       "seats_available": 9999,
@@ -2963,41 +2963,6 @@
       "meeting_time_display": null,
       "public_notes": null,
       "section_index": 3573
-    },
-    {
-      "event_id": "uaa-cache-4207",
-      "title": "Mental Health First Aid for Older Adults - March 23 2026 - Fairbanks",
-      "description": "When: Monday, March 23, 2026 - 8am-5pm Where: Multimedia Room at Tanana Valley Clinic, 1001 Noble St, Fairbanks AK 99701 Join the UAA College of Health to attend Older Adult Mental Health First Aid training. This class will teach you how to identify, understand, and respond to signs of mental illness and substance use disorders with a focus on older adults. This 8 hour training gives you the skills you need to reach out and provide initial support to someone who may be developing a mental health or substance use problem and help connect them to appropriate care. Join us Monday, March 23rd 2026 from 8am-5pm in Fairbanks! By registering here you will be receiving access to the MHFA Connect portal and additional details regarding the course.",
-      "location": "Fairbanks",
-      "city": "Fairbanks",
-      "state": "AK",
-      "latitude": null,
-      "longitude": null,
-      "start_date": "2026-03-23",
-      "end_date": "2026-03-23",
-      "start_time": null,
-      "end_time": null,
-      "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4207",
-      "affiliate_id": "6Q68Q3",
-      "host_organization": "University of Alaska Anchorage Continuing Studies",
-      "credits": 0,
-      "category": "Health and Behavioral Health",
-      "tags": [
-        "Health and Behavioral Health",
-        "Mental Health",
-        "Substance Use",
-        "Older Adult",
-        "Support"
-      ],
-      "cost": 0,
-      "last_updated": "2026-03-22",
-      "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4207",
-      "available_for_registration": true,
-      "seats_available": 21,
-      "delivery": "Live / In-Person",
-      "meeting_time_display": null,
-      "public_notes": null,
-      "section_index": 4207
     },
     {
       "event_id": "uaa-cache-4537",
@@ -3059,7 +3024,7 @@
         "Trauma"
       ],
       "cost": 75,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4660",
       "available_for_registration": true,
       "seats_available": 9999,
@@ -3094,7 +3059,7 @@
         "Trauma"
       ],
       "cost": 75,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4658",
       "available_for_registration": true,
       "seats_available": 9999,
@@ -3129,7 +3094,7 @@
         "Touch"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4263",
       "available_for_registration": false,
       "seats_available": 30,
@@ -3164,7 +3129,7 @@
         "Conference"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4652",
       "available_for_registration": true,
       "seats_available": 9999,
@@ -3199,7 +3164,7 @@
         "Trauma"
       ],
       "cost": 75,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4659",
       "available_for_registration": true,
       "seats_available": 9999,
@@ -3233,7 +3198,7 @@
         "First Aid"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4275",
       "available_for_registration": true,
       "seats_available": 30,
@@ -3267,7 +3232,7 @@
         "Alaska"
       ],
       "cost": 75,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4260",
       "available_for_registration": true,
       "seats_available": 18,
@@ -3301,7 +3266,7 @@
         "First Aid"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4276",
       "available_for_registration": true,
       "seats_available": 30,
@@ -3337,7 +3302,7 @@
         "Youth"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4277",
       "available_for_registration": true,
       "seats_available": 25,
@@ -3372,7 +3337,7 @@
         "Touch"
       ],
       "cost": null,
-      "last_updated": "2026-03-23",
+      "last_updated": "2026-03-24",
       "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4264",
       "available_for_registration": false,
       "seats_available": 30,
