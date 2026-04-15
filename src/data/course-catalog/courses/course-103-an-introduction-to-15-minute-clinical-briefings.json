@@ -1,0 +1,41 @@
+{
+  "id": 103,
+  "title": "An Introduction to 15 Minute Clinical Briefings",
+  "slug": "an-introduction-to-15-minute-clinical-briefings",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4038,
+  "summary": "An introduction to Academic Detailing. CEs available",
+  "description": "This brief session provides an overview of 15 minute clinical briefings—an evidence-based, one-on-one educational approach designed to support clinical decision-making and improve patient outcomes. Participants will learn what to expect during a detailing visit, how the process is tailored to their practice needs, and how it differs from traditional education or pharmaceutical outreach. This introduction is ideal for healthcare professionals who are considering scheduling an academic detailing session and want to learn more before engaging.",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Bekah Meyer, Dustin Muse, Aaron Walbrecher",
+  "image": "https://continuingstudies.alaska.edu/upload/ahec_ADLogo.png",
+  "professions": [
+    "nurse",
+    "pharmacy"
+  ],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Nursing",
+    "Pharmacy"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-04-15 by daily scrape pipeline.",
+  "last_verified_at": "2026-04-15"
+}

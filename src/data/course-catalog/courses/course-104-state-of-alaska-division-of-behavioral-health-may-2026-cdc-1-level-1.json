@@ -1,0 +1,45 @@
+{
+  "id": 104,
+  "title": "State of Alaska Division of Behavioral Health - May 2026 CDC 1 Level 1",
+  "slug": "state-of-alaska-division-of-behavioral-health-may-2026-cdc-1-level-1",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4715,
+  "summary": "Interested in your CDC 1? Take a peek here!",
+  "description": "When: May 11-22, 2026 Where: One week in person, one week on Zoom Continuing Education: All of the classes offered can be used for professional development for mental health and substance use professionals. The coursework is approved by the National Association for Alcoholism and Drug Abuse Counselors (NAADAC), National Board for Certified Counselors (NBCC) and Alaska Commission for Behavioral Health Certification (ACBHC). For more information, including registration, visit the event website here.",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online - Hybrid",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Instructor Varied",
+  "image": "https://continuingstudies.alaska.edu/upload/Ahec_DBH_CDC1.png",
+  "professions": [
+    "behavioral-health",
+    "dental"
+  ],
+  "topic_tags": [
+    "substance-use-disorders"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Behavioral Health",
+    "Dental",
+    "Substance Use Disorders",
+    "Behavioral and Mental Health"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-04-15 by daily scrape pipeline.",
+  "last_verified_at": "2026-04-15"
+}

@@ -1,0 +1,88 @@
+# ──────────────────────────────────────────────────────────────
+#  CACHE Course Scraper, Genius Feed Sync & Enricher
+# ──────────────────────────────────────────────────────────────
+#  Runs every hour on the top of the hour to keep the catalog fresh.
+
+#  Pipeline:
+#  1. Fetches the Genius SIS JSON feed (coursesJson from the public page).
+#  2. Merges new sections into events.all.json (historical archive).
+#  3. Regenerates pastEvents.json (ended events for Past scope).
+#  4. Updates ahecCourses.json (active scraped snapshot).
+#  5. Diffs against existing catalog & enriches NEW courses.
+#  6. Syncs active/archived event snapshot files.
+#  7. Regenerates sitemap.xml.
+#  8. Commits & pushes changes back to main (only if data changed).
+#  9. Publishes active.json + past.json to UAA-CACHE-Public-Listing repo.
+# ──────────────────────────────────────────────────────────────
+
+name: Course Scrape & Genius Feed Sync (hourly)
+
+on:
+  schedule:
+    # UTC cron — every hour on the top of the hour
+    - cron: "0 * * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch: # allow manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-enrich:
+    runs-on: ubuntu-latest
+    steps:
+      # ── 1. Checkout ──
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: false
+
+      # ── 2. Setup Node ──
+      - name: Setup Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      # ── 3. Fetch Genius JSON feed (primary data source) ──
+      - name: Fetch Genius SIS feed & regenerate past events
+        run: node scripts/fetchGeniusFeed.js
+
+      # ── 4. Detect changes & enrich ──
+      - name: Diff, enrich new courses & update catalog
+        run: node scripts/dailyEnrich.js
+
+      - name: Refresh active and archived event snapshots
+        run: node scripts/syncEventSnapshots.js
+
+      # ── 5. Regenerate sitemap ──
+      - name: Regenerate sitemap.xml
+        run: node scripts/generateSitemap.js
+
+      # ── 6. Update Metadata ──
+      - name: Update README last updated time
+        run: node scripts/updateTimestamp.js
+
+      # ── 7. Commit & push ──
+      - name: Commit and push data updates
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name  "cache-bot[bot]"
+          git config user.email "cache-bot[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No data changes; nothing to commit."
+          else
+            # We use --amend and force push to keep the history at 1 commit for security/privacy
+            git commit --amend -m "data: official CACHE enrichment sync ($(date +%Y-%m-%d))" || git commit -m "data: official CACHE enrichment sync ($(date +%Y-%m-%d))"
+            git push -f origin main
+            echo "Pushed updated data to main."
+          fi

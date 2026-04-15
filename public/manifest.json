@@ -1,0 +1,16 @@
+{
+  "name": "CACHE — Alaska CE Training Hub",
+  "short_name": "CACHE",
+  "description": "Discover continuing education and health training opportunities across Alaska.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#005738",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

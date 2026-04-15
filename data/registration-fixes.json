@@ -1,0 +1,82 @@
+[
+  {
+    "id": "rural-emergency-trauma-update",
+    "title": "Rural Emergency Trauma Update",
+    "file": "events.ts",
+    "found": true,
+    "direct": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4076",
+    "sourceCourseName": "Addressing Substance Use in Rural Alaska"
+  },
+  {
+    "id": "behavioral-health-integration-summit",
+    "title": "Behavioral Health Integration Summit",
+    "file": "events.ts",
+    "found": true,
+    "direct": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1322",
+    "sourceCourseName": "Alaska Commission for Behavioral Health Certification - Curated Resource List"
+  },
+  {
+    "id": "telehealth-best-practices-2026",
+    "title": "Telehealth Best Practices for Rural Alaska",
+    "file": "events.ts",
+    "found": true,
+    "direct": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3571",
+    "sourceCourseName": "Implementing MOUD: Pain Management, Opioid Use, and Addiction in Alaska"
+  },
+  {
+    "id": "community-health-aide-advanced-training",
+    "title": "Community Health Aide Advanced Training",
+    "file": "events.ts",
+    "found": true,
+    "direct": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1322",
+    "sourceCourseName": "Alaska Commission for Behavioral Health Certification - Curated Resource List"
+  },
+  {
+    "id": "pharmacy-ce-medication-safety",
+    "title": "Medication Safety in Remote Pharmacies",
+    "file": "events.ts",
+    "found": true,
+    "direct": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4538",
+    "sourceCourseName": "ACFTA Live Sessions 2026 - August (dates TBD) (Remote via Zoom)"
+  },
+  {
+    "id": "public-health-emergency-preparedness",
+    "title": "Public Health Emergency Preparedness Workshop",
+    "file": "events.ts",
+    "found": true,
+    "direct": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3717",
+    "sourceCourseName": "AHHA - OB Care in the Emergency Department: How the ED Nurse Can “Deliver”"
+  },
+  {
+    "id": "dental-health-village-clinics",
+    "title": "Dental Health Strategies for Village Clinics",
+    "file": "events.ts",
+    "found": true,
+    "direct": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=1322",
+    "sourceCourseName": "Alaska Commission for Behavioral Health Certification - Curated Resource List"
+  },
+  {
+    "id": "opioid-response-training",
+    "title": "Alaska Opioid Response & Harm Reduction",
+    "file": "events.ts",
+    "found": true,
+    "direct": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3571",
+    "sourceCourseName": "Implementing MOUD: Pain Management, Opioid Use, and Addiction in Alaska"
+  },
+  {
+    "id": "rural-wound-care-on-demand",
+    "title": "Rural Wound Care Fundamentals",
+    "file": "events.ts",
+    "found": true,
+    "direct": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4076",
+    "sourceCourseName": "Addressing Substance Use in Rural Alaska"
+  },
+  {
+    "id": "cultural-humility-alaska-on-demand",
+    "title": "Cultural Humility in Alaska Healthcare",
+    "file": "events.ts",
+    "found": true,
+    "direct": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=3571",
+    "sourceCourseName": "Implementing MOUD: Pain Management, Opioid Use, and Addiction in Alaska"
+  }
+]

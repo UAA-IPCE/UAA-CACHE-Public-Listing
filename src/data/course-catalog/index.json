@@ -1,0 +1,649 @@
+{
+  "generated_at": "2026-04-15T21:17:09.580Z",
+  "source": "UAA CACHE live title master list",
+  "total_courses": 107,
+  "courses": [
+    {
+      "id": 1,
+      "title": "Implementing MOUD: Pain Management, Opioid Use, and Addiction in Alaska",
+      "slug": "implementing-moud-pain-management-opioid-use-and-addiction-in-alaska",
+      "file": "src/data/course-catalog/courses/course-001-implementing-moud-pain-management-opioid-use-and-addiction-in-alaska.json"
+    },
+    {
+      "id": 2,
+      "title": "Presentation and Management of Pediatric Acute-Onset Neuropsychiatric Syndrome (PANS)",
+      "slug": "presentation-and-management-of-pediatric-acute-onset-neuropsychiatric-",
+      "file": "src/data/course-catalog/courses/course-002-presentation-and-management-of-pediatric-acute-onset-neuropsychiatric-.json"
+    },
+    {
+      "id": 3,
+      "title": "A Narrow Window of Opportunity: Diagnosis and Management of Rheumatoid Arthritis in Underserved Populations",
+      "slug": "a-narrow-window-of-opportunity-diagnosis-and-management-of-rheumatoid-",
+      "file": "src/data/course-catalog/courses/course-003-a-narrow-window-of-opportunity-diagnosis-and-management-of-rheumatoid-.json"
+    },
+    {
+      "id": 4,
+      "title": "ACFTA Live Sessions 2026 - August (dates TBD) (Remote via Zoom)",
+      "slug": "acfta-live-sessions-2026-august-dates-tbd-remote-via-zoom",
+      "file": "src/data/course-catalog/courses/course-004-acfta-live-sessions-2026-august-dates-tbd-remote-via-zoom.json"
+    },
+    {
+      "id": 5,
+      "title": "Addiction Technology Transfer Center Network",
+      "slug": "addiction-technology-transfer-center-network",
+      "file": "src/data/course-catalog/courses/course-005-addiction-technology-transfer-center-network.json"
+    },
+    {
+      "id": 6,
+      "title": "Addressing COVID-19 Vaccine Hesitancy: Pregnant Individuals & Other Vulnerable Populations",
+      "slug": "addressing-covid-19-vaccine-hesitancy-pregnant-individuals-other-vulne",
+      "file": "src/data/course-catalog/courses/course-006-addressing-covid-19-vaccine-hesitancy-pregnant-individuals-other-vulne.json"
+    },
+    {
+      "id": 7,
+      "title": "Addressing Substance Use in Rural Alaska",
+      "slug": "addressing-substance-use-in-rural-alaska",
+      "file": "src/data/course-catalog/courses/course-007-addressing-substance-use-in-rural-alaska.json"
+    },
+    {
+      "id": 8,
+      "title": "AHHA - OB Care in the Emergency Department: How the ED Nurse Can Deliver",
+      "slug": "ahha-ob-care-in-the-emergency-department-how-the-ed-nurse-can-deliver",
+      "file": "src/data/course-catalog/courses/course-008-ahha-ob-care-in-the-emergency-department-how-the-ed-nurse-can-deliver.json"
+    },
+    {
+      "id": 9,
+      "title": "AHHA - Pediatric Assessment and Emergencies",
+      "slug": "ahha-pediatric-assessment-and-emergencies",
+      "file": "src/data/course-catalog/courses/course-009-ahha-pediatric-assessment-and-emergencies.json"
+    },
+    {
+      "id": 10,
+      "title": "Alaska Commission for Behavioral Health Certification - Curated Resource List",
+      "slug": "alaska-commission-for-behavioral-health-certification-curated-resource",
+      "file": "src/data/course-catalog/courses/course-010-alaska-commission-for-behavioral-health-certification-curated-resource.json"
+    },
+    {
+      "id": 11,
+      "title": "Alaska Mandatory Child Abuse Reporter Training",
+      "slug": "alaska-mandatory-child-abuse-reporter-training",
+      "file": "src/data/course-catalog/courses/course-011-alaska-mandatory-child-abuse-reporter-training.json"
+    },
+    {
+      "id": 12,
+      "title": "Alaska Medical Library",
+      "slug": "alaska-medical-library",
+      "file": "src/data/course-catalog/courses/course-012-alaska-medical-library.json"
+    },
+    {
+      "id": 13,
+      "title": "Alaska Medication for Addiction Treatment Guide 3rd Edition Training Modules",
+      "slug": "alaska-medication-for-addiction-treatment-guide-3rd-edition-training-m",
+      "file": "src/data/course-catalog/courses/course-013-alaska-medication-for-addiction-treatment-guide-3rd-edition-training-m.json"
+    },
+    {
+      "id": 14,
+      "title": "Alaska Peer Specialist Training and Support",
+      "slug": "alaska-peer-specialist-training-and-support",
+      "file": "src/data/course-catalog/courses/course-014-alaska-peer-specialist-training-and-support.json"
+    },
+    {
+      "id": 15,
+      "title": "Alaska Pharmacy Association - Home Study CE",
+      "slug": "alaska-pharmacy-association-home-study-ce",
+      "file": "src/data/course-catalog/courses/course-015-alaska-pharmacy-association-home-study-ce.json"
+    },
+    {
+      "id": 16,
+      "title": "Alaska Primary Care Association Community Health Worker ECHO",
+      "slug": "alaska-primary-care-association-community-health-worker-echo",
+      "file": "src/data/course-catalog/courses/course-016-alaska-primary-care-association-community-health-worker-echo.json"
+    },
+    {
+      "id": 17,
+      "title": "Alaska Tribal Perspective on COVID-19 Vaccination Efforts",
+      "slug": "alaska-tribal-perspective-on-covid-19-vaccination-efforts",
+      "file": "src/data/course-catalog/courses/course-017-alaska-tribal-perspective-on-covid-19-vaccination-efforts.json"
+    },
+    {
+      "id": 18,
+      "title": "Alaskan Mobile Crisis Responder: Essential Skills and Strategies for Challenging Conditions",
+      "slug": "alaskan-mobile-crisis-responder-essential-skills-and-strategies-for-ch",
+      "file": "src/data/course-catalog/courses/course-018-alaskan-mobile-crisis-responder-essential-skills-and-strategies-for-ch.json"
+    },
+    {
+      "id": 19,
+      "title": "American Dental Association - Continuing Education Learning Platform",
+      "slug": "american-dental-association-continuing-education-learning-platform",
+      "file": "src/data/course-catalog/courses/course-019-american-dental-association-continuing-education-learning-platform.json"
+    },
+    {
+      "id": 20,
+      "title": "American Nurses Credentialing Center - GeroNursePrep",
+      "slug": "american-nurses-credentialing-center-geronurseprep",
+      "file": "src/data/course-catalog/courses/course-020-american-nurses-credentialing-center-geronurseprep.json"
+    },
+    {
+      "id": 21,
+      "title": "American Society of Addiction Medicine (ASAM) E-Learning Center",
+      "slug": "american-society-of-addiction-medicine-asam-e-learning-center",
+      "file": "src/data/course-catalog/courses/course-021-american-society-of-addiction-medicine-asam-e-learning-center.json"
+    },
+    {
+      "id": 22,
+      "title": "An Introduction to Academic Detailing",
+      "slug": "an-introduction-to-academic-detailing",
+      "file": "src/data/course-catalog/courses/course-022-an-introduction-to-academic-detailing.json"
+    },
+    {
+      "id": 23,
+      "title": "ANTHC Presents: AK ID ECHO: HCV, HIV, PrEP and common STIs",
+      "slug": "anthc-presents-ak-id-echo-hcv-hiv-prep-and-common-stis",
+      "file": "src/data/course-catalog/courses/course-023-anthc-presents-ak-id-echo-hcv-hiv-prep-and-common-stis.json"
+    },
+    {
+      "id": 24,
+      "title": "ANTHC Presents: LiverConnect ECHO",
+      "slug": "anthc-presents-liverconnect-echo",
+      "file": "src/data/course-catalog/courses/course-024-anthc-presents-liverconnect-echo.json"
+    },
+    {
+      "id": 25,
+      "title": "APCA Presents: No-Cost Employer Opportunities in APCA Workforce Training Program",
+      "slug": "apca-presents-no-cost-employer-opportunities-in-apca-workforce-trainin",
+      "file": "src/data/course-catalog/courses/course-025-apca-presents-no-cost-employer-opportunities-in-apca-workforce-trainin.json"
+    },
+    {
+      "id": 26,
+      "title": "Building Vaccine Confidence in Alaska",
+      "slug": "building-vaccine-confidence-in-alaska",
+      "file": "src/data/course-catalog/courses/course-026-building-vaccine-confidence-in-alaska.json"
+    },
+    {
+      "id": 27,
+      "title": "CALS 2026 - MD/DO/PA/NP - October 2026",
+      "slug": "cals-2026-mddopanp-october-2026",
+      "file": "src/data/course-catalog/courses/course-027-cals-2026-mddopanp-october-2026.json"
+    },
+    {
+      "id": 28,
+      "title": "CALS 2026 - RN/Paramedic - October 2026",
+      "slug": "cals-2026-rnparamedic-october-2026",
+      "file": "src/data/course-catalog/courses/course-028-cals-2026-rnparamedic-october-2026.json"
+    },
+    {
+      "id": 29,
+      "title": "Center for Human Development Presents: Project ECHO",
+      "slug": "center-for-human-development-presents-project-echo",
+      "file": "src/data/course-catalog/courses/course-029-center-for-human-development-presents-project-echo.json"
+    },
+    {
+      "id": 30,
+      "title": "Chronic Pain Core Curriculum - PCSS",
+      "slug": "chronic-pain-core-curriculum-pcss",
+      "file": "src/data/course-catalog/courses/course-030-chronic-pain-core-curriculum-pcss.json"
+    },
+    {
+      "id": 31,
+      "title": "Cultural Foundations for Healthcare Providers in Alaska",
+      "slug": "cultural-foundations-for-healthcare-providers-in-alaska",
+      "file": "src/data/course-catalog/courses/course-031-cultural-foundations-for-healthcare-providers-in-alaska.json"
+    },
+    {
+      "id": 32,
+      "title": "Cultural Humility in Behavioral Health Care",
+      "slug": "cultural-humility-in-behavioral-health-care",
+      "file": "src/data/course-catalog/courses/course-032-cultural-humility-in-behavioral-health-care.json"
+    },
+    {
+      "id": 33,
+      "title": "Empowering Recovery: Ethics & Collaborative Decision-Making in Behavioral Health",
+      "slug": "empowering-recovery-ethics-collaborative-decision-making-in-behavioral",
+      "file": "src/data/course-catalog/courses/course-033-empowering-recovery-ethics-collaborative-decision-making-in-behavioral.json"
+    },
+    {
+      "id": 34,
+      "title": "Ethics and Confidentiality For Peer Supervisors",
+      "slug": "ethics-and-confidentiality-for-peer-supervisors",
+      "file": "src/data/course-catalog/courses/course-034-ethics-and-confidentiality-for-peer-supervisors.json"
+    },
+    {
+      "id": 35,
+      "title": "Facility Assessments 101: The Driver of Resources, Training, and Competencies",
+      "slug": "facility-assessments-101-the-driver-of-resources-training-and-competen",
+      "file": "src/data/course-catalog/courses/course-035-facility-assessments-101-the-driver-of-resources-training-and-competen.json"
+    },
+    {
+      "id": 36,
+      "title": "FASD Basics: Presented by the State of Alaska Department of Public Health",
+      "slug": "fasd-basics-presented-by-the-state-of-alaska-department-of-public-heal",
+      "file": "src/data/course-catalog/courses/course-036-fasd-basics-presented-by-the-state-of-alaska-department-of-public-heal.json"
+    },
+    {
+      "id": 37,
+      "title": "FASD: DSM Diagnoses: Presented by the State of Alaska Department of Health",
+      "slug": "fasd-dsm-diagnoses-presented-by-the-state-of-alaska-department-of-heal",
+      "file": "src/data/course-catalog/courses/course-037-fasd-dsm-diagnoses-presented-by-the-state-of-alaska-department-of-heal.json"
+    },
+    {
+      "id": 38,
+      "title": "FASD: How to Provide Accommodations in Behavioral Health Services: Presented by the State of Alaska Department of Health",
+      "slug": "fasd-how-to-provide-accommodations-in-behavioral-health-services-prese",
+      "file": "src/data/course-catalog/courses/course-038-fasd-how-to-provide-accommodations-in-behavioral-health-services-prese.json"
+    },
+    {
+      "id": 39,
+      "title": "FASD: How to Screen for Prenatal Alcohol Exposure: Presented by the State of Alaska Department of Public Health",
+      "slug": "fasd-how-to-screen-for-prenatal-alcohol-exposure-presented-by-the-stat",
+      "file": "src/data/course-catalog/courses/course-039-fasd-how-to-screen-for-prenatal-alcohol-exposure-presented-by-the-stat.json"
+    },
+    {
+      "id": 40,
+      "title": "Foundation of Peer Support Professionals",
+      "slug": "foundation-of-peer-support-professionals",
+      "file": "src/data/course-catalog/courses/course-040-foundation-of-peer-support-professionals.json"
+    },
+    {
+      "id": 41,
+      "title": "Gero Nurse Prep - AHCA/NCAL",
+      "slug": "gero-nurse-prep-ahcancal",
+      "file": "src/data/course-catalog/courses/course-041-gero-nurse-prep-ahcancal.json"
+    },
+    {
+      "id": 42,
+      "title": "Grief Literacy for School Social Workers: Supporting Students Experiencing Grief and Loss",
+      "slug": "grief-literacy-for-school-social-workers-supporting-students-experienc",
+      "file": "src/data/course-catalog/courses/course-042-grief-literacy-for-school-social-workers-supporting-students-experienc.json"
+    },
+    {
+      "id": 43,
+      "title": "Healthcare Provider Burnout: Prevalence, Consequences, and Solutions with Dr. Kari Bernard",
+      "slug": "healthcare-provider-burnout-prevalence-consequences-and-solutions-with",
+      "file": "src/data/course-catalog/courses/course-043-healthcare-provider-burnout-prevalence-consequences-and-solutions-with.json"
+    },
+    {
+      "id": 44,
+      "title": "How Peripheral Infection Triggers Brain Inflammation",
+      "slug": "how-peripheral-infection-triggers-brain-inflammation",
+      "file": "src/data/course-catalog/courses/course-044-how-peripheral-infection-triggers-brain-inflammation.json"
+    },
+    {
+      "id": 45,
+      "title": "Human Services Practicum Connection",
+      "slug": "human-services-practicum-connection",
+      "file": "src/data/course-catalog/courses/course-045-human-services-practicum-connection.json"
+    },
+    {
+      "id": 46,
+      "title": "Interprofessional Approaches to Fetal Alcohol Spectrum Disorders (FASD): Best Practices in Alaska",
+      "slug": "interprofessional-approaches-to-fetal-alcohol-spectrum-disorders-fasd-",
+      "file": "src/data/course-catalog/courses/course-046-interprofessional-approaches-to-fetal-alcohol-spectrum-disorders-fasd-.json"
+    },
+    {
+      "id": 47,
+      "title": "Medications for Addiction Treatment (MAT) Guide, 3rd Edition",
+      "slug": "medications-for-addiction-treatment-mat-guide-3rd-edition",
+      "file": "src/data/course-catalog/courses/course-047-medications-for-addiction-treatment-mat-guide-3rd-edition.json"
+    },
+    {
+      "id": 48,
+      "title": "Missing and Murdered Indigenous People Compassion Fatigue Training",
+      "slug": "missing-and-murdered-indigenous-people-compassion-fatigue-training",
+      "file": "src/data/course-catalog/courses/course-048-missing-and-murdered-indigenous-people-compassion-fatigue-training.json"
+    },
+    {
+      "id": 49,
+      "title": "MOUD in Alaska: From Theory to Practice",
+      "slug": "moud-in-alaska-from-theory-to-practice",
+      "file": "src/data/course-catalog/courses/course-049-moud-in-alaska-from-theory-to-practice.json"
+    },
+    {
+      "id": 50,
+      "title": "NAADAC On-Demand Webinar Series",
+      "slug": "naadac-on-demand-webinar-series",
+      "file": "src/data/course-catalog/courses/course-050-naadac-on-demand-webinar-series.json"
+    },
+    {
+      "id": 51,
+      "title": "National Association of Social Workers - Alaska CE Opportunities",
+      "slug": "national-association-of-social-workers-alaska-ce-opportunities",
+      "file": "src/data/course-catalog/courses/course-051-national-association-of-social-workers-alaska-ce-opportunities.json"
+    },
+    {
+      "id": 52,
+      "title": "NC AHEC Diversity, Equity, and Inclusion (DEI) Modules for Primary Care Clinical and Non-Clinical Staff",
+      "slug": "nc-ahec-diversity-equity-and-inclusion-dei-modules-for-primary-care-cl",
+      "file": "src/data/course-catalog/courses/course-052-nc-ahec-diversity-equity-and-inclusion-dei-modules-for-primary-care-cl.json"
+    },
+    {
+      "id": 53,
+      "title": "New England Public Health Training Center - Introduction to HIPAA for CHWs",
+      "slug": "new-england-public-health-training-center-introduction-to-hipaa-for-ch",
+      "file": "src/data/course-catalog/courses/course-053-new-england-public-health-training-center-introduction-to-hipaa-for-ch.json"
+    },
+    {
+      "id": 54,
+      "title": "NWCPHP Seven Directions Indigenous Evaluation Toolkit Training",
+      "slug": "nwcphp-seven-directions-indigenous-evaluation-toolkit-training",
+      "file": "src/data/course-catalog/courses/course-054-nwcphp-seven-directions-indigenous-evaluation-toolkit-training.json"
+    },
+    {
+      "id": 55,
+      "title": "P.A.C.T. Practical Approaches to Comprehensive Treatment of Pain",
+      "slug": "pact-practical-approaches-to-comprehensive-treatment-of-pain",
+      "file": "src/data/course-catalog/courses/course-055-pact-practical-approaches-to-comprehensive-treatment-of-pain.json"
+    },
+    {
+      "id": 56,
+      "title": "PANDAS - Northwest Grand Rounds",
+      "slug": "pandas-northwest-grand-rounds",
+      "file": "src/data/course-catalog/courses/course-056-pandas-northwest-grand-rounds.json"
+    },
+    {
+      "id": 57,
+      "title": "Part 1: Online Self Study Course - Alaska Comprehensive Forensic Training Academy (ACFTA)",
+      "slug": "part-1-online-self-study-course-alaska-comprehensive-forensic-training",
+      "file": "src/data/course-catalog/courses/course-057-part-1-online-self-study-course-alaska-comprehensive-forensic-training.json"
+    },
+    {
+      "id": 58,
+      "title": "Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections (PANDAS)",
+      "slug": "pediatric-autoimmune-neuropsychiatric-disorders-associated-with-strept",
+      "file": "src/data/course-catalog/courses/course-058-pediatric-autoimmune-neuropsychiatric-disorders-associated-with-strept.json"
+    },
+    {
+      "id": 59,
+      "title": "Poetic Record: A Writing Workshop for Healthcare Workers",
+      "slug": "poetic-record-a-writing-workshop-for-healthcare-workers",
+      "file": "src/data/course-catalog/courses/course-059-poetic-record-a-writing-workshop-for-healthcare-workers.json"
+    },
+    {
+      "id": 60,
+      "title": "Program Evaluation in Public Health",
+      "slug": "program-evaluation-in-public-health",
+      "file": "src/data/course-catalog/courses/course-060-program-evaluation-in-public-health.json"
+    },
+    {
+      "id": 61,
+      "title": "Project Firstline - Infection Control Training for You",
+      "slug": "project-firstline-infection-control-training-for-you",
+      "file": "src/data/course-catalog/courses/course-061-project-firstline-infection-control-training-for-you.json"
+    },
+    {
+      "id": 62,
+      "title": "Providence Alaska Learning Institute",
+      "slug": "providence-alaska-learning-institute",
+      "file": "src/data/course-catalog/courses/course-062-providence-alaska-learning-institute.json"
+    },
+    {
+      "id": 63,
+      "title": "Provider Clinical Support System & Training Portal",
+      "slug": "provider-clinical-support-system-training-portal",
+      "file": "src/data/course-catalog/courses/course-063-provider-clinical-support-system-training-portal.json"
+    },
+    {
+      "id": 64,
+      "title": "Regulations and Standards of Billable Peer Support Services in Alaska",
+      "slug": "regulations-and-standards-of-billable-peer-support-services-in-alaska",
+      "file": "src/data/course-catalog/courses/course-064-regulations-and-standards-of-billable-peer-support-services-in-alaska.json"
+    },
+    {
+      "id": 65,
+      "title": "Rural Primary Care Institute - On-Demand Webinar",
+      "slug": "rural-primary-care-institute-on-demand-webinar",
+      "file": "src/data/course-catalog/courses/course-065-rural-primary-care-institute-on-demand-webinar.json"
+    },
+    {
+      "id": 66,
+      "title": "State of Alaska Presents: Tobacco Prevention and Control Program",
+      "slug": "state-of-alaska-presents-tobacco-prevention-and-control-program",
+      "file": "src/data/course-catalog/courses/course-066-state-of-alaska-presents-tobacco-prevention-and-control-program.json"
+    },
+    {
+      "id": 67,
+      "title": "SUITE Alaska - Module 1: Introduction to Alcohol and Substance Use Disorders",
+      "slug": "suite-alaska-module-1-introduction-to-alcohol-and-substance-use-disord",
+      "file": "src/data/course-catalog/courses/course-067-suite-alaska-module-1-introduction-to-alcohol-and-substance-use-disord.json"
+    },
+    {
+      "id": 68,
+      "title": "SUITE Alaska - Module 2: Overview of Opioids",
+      "slug": "suite-alaska-module-2-overview-of-opioids",
+      "file": "src/data/course-catalog/courses/course-068-suite-alaska-module-2-overview-of-opioids.json"
+    },
+    {
+      "id": 69,
+      "title": "SUITE Alaska - Module 3: Intoxication, Detoxification, and Withdrawal",
+      "slug": "suite-alaska-module-3-intoxication-detoxification-and-withdrawal",
+      "file": "src/data/course-catalog/courses/course-069-suite-alaska-module-3-intoxication-detoxification-and-withdrawal.json"
+    },
+    {
+      "id": 70,
+      "title": "SUITE Alaska - Module 4: Screening and Assessment",
+      "slug": "suite-alaska-module-4-screening-and-assessment",
+      "file": "src/data/course-catalog/courses/course-070-suite-alaska-module-4-screening-and-assessment.json"
+    },
+    {
+      "id": 71,
+      "title": "SUITE Alaska - Module 5: Motivational Interviewing and the Stages of Change",
+      "slug": "suite-alaska-module-5-motivational-interviewing-and-the-stages-of-chan",
+      "file": "src/data/course-catalog/courses/course-071-suite-alaska-module-5-motivational-interviewing-and-the-stages-of-chan.json"
+    },
+    {
+      "id": 72,
+      "title": "SUITE Alaska - Module 6: Relapse Prevention",
+      "slug": "suite-alaska-module-6-relapse-prevention",
+      "file": "src/data/course-catalog/courses/course-072-suite-alaska-module-6-relapse-prevention.json"
+    },
+    {
+      "id": 73,
+      "title": "SUITE Alaska - Module 7: Recovery Ethics in Substance Use Treatment",
+      "slug": "suite-alaska-module-7-recovery-ethics-in-substance-use-treatment",
+      "file": "src/data/course-catalog/courses/course-073-suite-alaska-module-7-recovery-ethics-in-substance-use-treatment.json"
+    },
+    {
+      "id": 74,
+      "title": "SUITE Alaska - Module 8: Culture and Culturally Informed Substance Use Treatment Practice",
+      "slug": "suite-alaska-module-8-culture-and-culturally-informed-substance-use-tr",
+      "file": "src/data/course-catalog/courses/course-074-suite-alaska-module-8-culture-and-culturally-informed-substance-use-tr.json"
+    },
+    {
+      "id": 75,
+      "title": "SUITE Alaska - Strengthening Families Framework sec. 2",
+      "slug": "suite-alaska-strengthening-families-framework-sec-2",
+      "file": "src/data/course-catalog/courses/course-075-suite-alaska-strengthening-families-framework-sec-2.json"
+    },
+    {
+      "id": 76,
+      "title": "The Menopause Transition: Optimally Protecting Emotional Health",
+      "slug": "the-menopause-transition-optimally-protecting-emotional-health",
+      "file": "src/data/course-catalog/courses/course-076-the-menopause-transition-optimally-protecting-emotional-health.json"
+    },
+    {
+      "id": 77,
+      "title": "University of Washington presents: Leadership Foundations Courses & Certificate Program",
+      "slug": "university-of-washington-presents-leadership-foundations-courses-certi",
+      "file": "src/data/course-catalog/courses/course-077-university-of-washington-presents-leadership-foundations-courses-certi.json"
+    },
+    {
+      "id": 78,
+      "title": "University of Washington presents: Occupational Diseases Online Course (ODOC) Series: Compressive Neuropathies",
+      "slug": "university-of-washington-presents-occupational-diseases-online-course-",
+      "file": "src/data/course-catalog/courses/course-078-university-of-washington-presents-occupational-diseases-online-course-.json"
+    },
+    {
+      "id": 79,
+      "title": "Weight Inclusive Care",
+      "slug": "weight-inclusive-care",
+      "file": "src/data/course-catalog/courses/course-079-weight-inclusive-care.json"
+    },
+    {
+      "id": 80,
+      "title": "Workforce Empowerment & Engagement: Addressing Burnout and Compassion Fatigue",
+      "slug": "workforce-empowerment-engagement-addressing-burnout-and-compassion-fat",
+      "file": "src/data/course-catalog/courses/course-080-workforce-empowerment-engagement-addressing-burnout-and-compassion-fat.json"
+    },
+    {
+      "id": 81,
+      "title": "Workforce Empowerment & Engagement: An Intergenerational Workforce",
+      "slug": "workforce-empowerment-engagement-an-intergenerational-workforce",
+      "file": "src/data/course-catalog/courses/course-081-workforce-empowerment-engagement-an-intergenerational-workforce.json"
+    },
+    {
+      "id": 82,
+      "title": "Workforce Empowerment & Engagement: Boundaries for Workplace Wellness",
+      "slug": "workforce-empowerment-engagement-boundaries-for-workplace-wellness",
+      "file": "src/data/course-catalog/courses/course-082-workforce-empowerment-engagement-boundaries-for-workplace-wellness.json"
+    },
+    {
+      "id": 83,
+      "title": "Workforce Empowerment & Engagement: Defining Needs and Requests",
+      "slug": "workforce-empowerment-engagement-defining-needs-and-requests",
+      "file": "src/data/course-catalog/courses/course-083-workforce-empowerment-engagement-defining-needs-and-requests.json"
+    },
+    {
+      "id": 84,
+      "title": "Workforce Empowerment & Engagement: Exploring Communication in the Workplace",
+      "slug": "workforce-empowerment-engagement-exploring-communication-in-the-workpl",
+      "file": "src/data/course-catalog/courses/course-084-workforce-empowerment-engagement-exploring-communication-in-the-workpl.json"
+    },
+    {
+      "id": 85,
+      "title": "Workforce Empowerment & Engagement: Exploring Healthy Conflict",
+      "slug": "workforce-empowerment-engagement-exploring-healthy-conflict",
+      "file": "src/data/course-catalog/courses/course-085-workforce-empowerment-engagement-exploring-healthy-conflict.json"
+    },
+    {
+      "id": 86,
+      "title": "Workforce Empowerment & Engagement: Personalities and Work Styles",
+      "slug": "workforce-empowerment-engagement-personalities-and-work-styles",
+      "file": "src/data/course-catalog/courses/course-086-workforce-empowerment-engagement-personalities-and-work-styles.json"
+    },
+    {
+      "id": 87,
+      "title": "DHA Presents: Nursing Grand Rounds On Demand",
+      "slug": "dha-presents-nursing-grand-rounds-on-demand",
+      "file": "src/data/course-catalog/courses/course-087-dha-presents-nursing-grand-rounds-on-demand.json"
+    },
+    {
+      "id": 88,
+      "title": "Ethics in DSM Practice - March 20 2026 - Rasmuson Hall",
+      "slug": "ethics-in-dsm-practice-march-20-2026-rasmuson-hall",
+      "file": "src/data/course-catalog/courses/course-088-ethics-in-dsm-practice-march-20-2026-rasmuson-hall.json"
+    },
+    {
+      "id": 89,
+      "title": "Mental Health First Aid for Older Adults - March 23 2026 - Fairbanks",
+      "slug": "mental-health-first-aid-for-older-adults-march-23-2026-fairbanks",
+      "file": "src/data/course-catalog/courses/course-089-mental-health-first-aid-for-older-adults-march-23-2026-fairbanks.json"
+    },
+    {
+      "id": 90,
+      "title": "Coronal Polishing Course - March 2026",
+      "slug": "coronal-polishing-course-march-2026",
+      "file": "src/data/course-catalog/courses/course-090-coronal-polishing-course-march-2026.json"
+    },
+    {
+      "id": 91,
+      "title": "Transforming Touch - Part 1 - April 8-13, 2026",
+      "slug": "transforming-touch-part-1-april-8-13-2026",
+      "file": "src/data/course-catalog/courses/course-091-transforming-touch-part-1-april-8-13-2026.json"
+    },
+    {
+      "id": 92,
+      "title": "Adult Mental Health First Aid 2026 - April 27 2026 - Bethel",
+      "slug": "adult-mental-health-first-aid-2026-april-27-2026-bethel",
+      "file": "src/data/course-catalog/courses/course-092-adult-mental-health-first-aid-2026-april-27-2026-bethel.json"
+    },
+    {
+      "id": 93,
+      "title": "ACFTA Live Sessions 2026 - May 5-7, 2026 (Remote via Zoom)",
+      "slug": "acfta-live-sessions-2026-may-5-7-2026-remote-via-zoom",
+      "file": "src/data/course-catalog/courses/course-093-acfta-live-sessions-2026-may-5-7-2026-remote-via-zoom.json"
+    },
+    {
+      "id": 94,
+      "title": "Adult Mental Health First Aid 2026 - May 18 2026 - Kodiak",
+      "slug": "adult-mental-health-first-aid-2026-may-18-2026-kodiak",
+      "file": "src/data/course-catalog/courses/course-094-adult-mental-health-first-aid-2026-may-18-2026-kodiak.json"
+    },
+    {
+      "id": 95,
+      "title": "Youth Mental Health First Aid 2026 - June 22 2026 - Virtual",
+      "slug": "youth-mental-health-first-aid-2026-june-22-2026-virtual",
+      "file": "src/data/course-catalog/courses/course-095-youth-mental-health-first-aid-2026-june-22-2026-virtual.json"
+    },
+    {
+      "id": 96,
+      "title": "Transforming Touch - Part 2 - October 7-12, 2026",
+      "slug": "transforming-touch-part-2-october-7-12-2026",
+      "file": "src/data/course-catalog/courses/course-096-transforming-touch-part-2-october-7-12-2026.json"
+    },
+    {
+      "id": 97,
+      "title": "Alaska Psychiatric Association Annual CME Conference 2026",
+      "slug": "alaska-psychiatric-association-annual-cme-conference-2026",
+      "file": "src/data/course-catalog/courses/course-097-alaska-psychiatric-association-annual-cme-conference-2026.json"
+    },
+    {
+      "id": 98,
+      "title": "Ethics in Telehealth - April 3 2026 - Online",
+      "slug": "ethics-in-telehealth-april-3-2026-online",
+      "file": "src/data/course-catalog/courses/course-098-ethics-in-telehealth-april-3-2026-online.json"
+    },
+    {
+      "id": 99,
+      "title": "Ethics in DSM Practice - April 6 2026 - Online",
+      "slug": "ethics-in-dsm-practice-april-6-2026-online",
+      "file": "src/data/course-catalog/courses/course-099-ethics-in-dsm-practice-april-6-2026-online.json"
+    },
+    {
+      "id": 100,
+      "title": "Mindfulness and Secondary Trauma - April 10 2026 - Online",
+      "slug": "mindfulness-and-secondary-trauma-april-10-2026-online",
+      "file": "src/data/course-catalog/courses/course-100-mindfulness-and-secondary-trauma-april-10-2026-online.json"
+    },
+    {
+      "id": 101,
+      "title": "ALPHA Webinar - Understanding Dementia: Public Health Interventions for Brain Health",
+      "slug": "alpha-webinar-understanding-dementia-public-health-interventions-for-b",
+      "file": "src/data/course-catalog/courses/course-101-alpha-webinar-understanding-dementia-public-health-interventions-for-b.json"
+    },
+    {
+      "id": 102,
+      "title": "Ethics in Telehealth - April 17 2026 - Online",
+      "slug": "ethics-in-telehealth-april-17-2026-online",
+      "file": "src/data/course-catalog/courses/course-102-ethics-in-telehealth-april-17-2026-online.json"
+    },
+    {
+      "id": 103,
+      "title": "An Introduction to 15 Minute Clinical Briefings",
+      "slug": "an-introduction-to-15-minute-clinical-briefings",
+      "file": "src/data/course-catalog/courses/course-103-an-introduction-to-15-minute-clinical-briefings.json"
+    },
+    {
+      "id": 104,
+      "title": "State of Alaska Division of Behavioral Health - May 2026 CDC 1 Level 1",
+      "slug": "state-of-alaska-division-of-behavioral-health-may-2026-cdc-1-level-1",
+      "file": "src/data/course-catalog/courses/course-104-state-of-alaska-division-of-behavioral-health-may-2026-cdc-1-level-1.json"
+    },
+    {
+      "id": 105,
+      "title": "Adult Mental Health First Aid 2026 - June 1 2026 - Kodiak",
+      "slug": "adult-mental-health-first-aid-2026-june-1-2026-kodiak",
+      "file": "src/data/course-catalog/courses/course-105-adult-mental-health-first-aid-2026-june-1-2026-kodiak.json"
+    },
+    {
+      "id": 106,
+      "title": "CALS 2026 - MD/DO/PA/NP - October 9 - 11 2026",
+      "slug": "cals-2026-md-do-pa-np-october-9-11-2026",
+      "file": "src/data/course-catalog/courses/course-106-cals-2026-md-do-pa-np-october-9-11-2026.json"
+    },
+    {
+      "id": 107,
+      "title": "CALS 2026 - RN/Paramedic - October 9 - 11 2026",
+      "slug": "cals-2026-rn-paramedic-october-9-11-2026",
+      "file": "src/data/course-catalog/courses/course-107-cals-2026-rn-paramedic-october-9-11-2026.json"
+    }
+  ]
+}

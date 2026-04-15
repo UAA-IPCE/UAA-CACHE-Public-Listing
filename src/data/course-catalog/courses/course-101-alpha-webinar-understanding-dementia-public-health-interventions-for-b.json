@@ -1,0 +1,43 @@
+{
+  "id": 101,
+  "title": "ALPHA Webinar - Understanding Dementia: Public Health Interventions for Brain Health",
+  "slug": "alpha-webinar-understanding-dementia-public-health-interventions-for-b",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4665,
+  "summary": "ALPHA Presents: Online webinar about dementia",
+  "description": "When: April 8, 2026 | 12:00pm Where: Online via Zoom For more information, including registration, visit the event website here. Join us for an overview of dementia and discover evidence-based strategies to lower risk and protect brain health in your practice. Speakers include: Mara McKown, MPH, MSW, CPH Mara McKown is currently an evaluator and epidemiologist in the State of Alaska’s Section of Chronic Disease Prevention and Health Promotion. Mara focuses on dementia, cardiovascular health, cancer, and diabetes.",
+  "delivery_method": "live",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Instructor Varied",
+  "image": "https://continuingstudies.alaska.edu/upload/ahec_alpha.jpg",
+  "professions": [
+    "public-health"
+  ],
+  "topic_tags": [
+    "substance-use-disorders",
+    "chronic-disease"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Substance Use Disorders",
+    "Aging/Senior Services"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-03-25 by daily scrape pipeline.",
+  "last_verified_at": "2026-03-25"
+}
