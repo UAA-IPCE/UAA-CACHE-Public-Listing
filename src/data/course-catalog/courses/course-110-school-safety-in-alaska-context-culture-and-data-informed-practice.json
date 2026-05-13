@@ -1,0 +1,39 @@
+{
+  "id": 110,
+  "title": "School Safety in Alaska: Context, Culture, and Data-Informed Practice",
+  "slug": "school-safety-in-alaska-context-culture-and-data-informed-practice",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4728,
+  "summary": "School safety strategies for Alaska's diverse communities",
+  "description": "Credit Hour for Social Work available (through April 2029). To register for this class, click the register button below to add it to your cart, and then check out. The School Safety in Alaska course was created to strengthen understanding of how Alaskan schools can create and sustain safe, supportive learning environments through collaboration, data-informed practices, and cultural responsiveness.",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Instructor Varied, Dustin Muse",
+  "image": "https://continuingstudies.alaska.edu/upload/ahec_SchoolSafety.png",
+  "professions": [
+    "social-work"
+  ],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Social Work"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-05-13 by daily scrape pipeline.",
+  "last_verified_at": "2026-05-13"
+}

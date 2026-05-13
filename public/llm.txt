@@ -1,0 +1,53 @@
+# CACHE (Clearinghouse for Alaska's Continuing Health Education)
+
+## Project Overview
+CACHE is a statewide directory of continuing education (CE) opportunities for Alaska's health workforce. It is operated by the Alaska Center for Rural Health & Health Workforce (ACRHHW) at the University of Alaska Anchorage.
+
+## Mission
+To improve access to continuing education for healthcare providers across Alaska, especially those serving rural and remote communities where training opportunities can be difficult to find.
+
+## Core Features
+- **Event Calendar**: Searchable statewide calendar of CE events across all health professions
+- **Event Listings**: Browse and filter by profession, credit type, and Alaska region
+- **Course Database**: Continuing studies and professional development opportunities
+- **Resource Directory**: Links to education providers and healthcare organizations
+- **Event Details**: Comprehensive information about each continuing education opportunity
+
+## Technology Stack
+- **Frontend**: React + TypeScript with Vite
+- **UI Framework**: Shadcn/ui components + Tailwind CSS
+- **State Management**: TanStack React Query
+- **Routing**: React Router v6
+- **Testing**: Vitest
+- **Build**: Vite with production optimization
+
+## Key Pages
+- `/` - Home page
+- `/events` - Browse all continuing education events
+- `/events/:id` - Detailed event information
+- `/calendar` - Calendar view of events
+- `/about` - Information about CACHE
+- `/resources` - Continuing education resources and providers
+
+## Data Sources
+- `src/data/events.ts` - Event listings
+- `src/data/ahecCourses.json` - AHEC course information
+- `src/data/resources.ts` - Educational resources
+- `scripts/scrapeContinuingStudies.js` - Data scraping script
+
+## Target Audience
+- Healthcare professionals in Alaska
+- Rural and remote healthcare providers
+- Continuing education administrators
+- Health workforce development specialists
+
+## Organization
+- University of Alaska Anchorage
+- Alaska Center for Rural Health & Health Workforce (ACRHHW)
+
+## Notes for AI Models
+- This is a static site generator with React frontend
+- Focus on healthcare continuing education in Alaska
+- Special emphasis on rural and remote community access
+- Event data is dynamically loaded from TypeScript/JSON sources
+- The site uses modern React patterns with hooks and functional components

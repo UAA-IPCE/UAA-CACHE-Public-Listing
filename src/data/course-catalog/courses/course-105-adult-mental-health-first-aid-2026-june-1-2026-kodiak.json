@@ -1,0 +1,46 @@
+{
+  "id": 105,
+  "title": "Adult Mental Health First Aid 2026 - June 1 2026 - Kodiak",
+  "slug": "adult-mental-health-first-aid-2026-june-1-2026-kodiak",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4276,
+  "summary": "CE Available. Join this Adult Mental Health First Aid training!",
+  "description": "Join the UAA College of Health to attend Adult Mental Health First Aid training. This class will teach you how to identify, understand, and respond to signs of mental illness and substance use disorders. This 8 hour training gives you the skills you need to reach out and provide initial support to someone who may be developing a mental health or substance use problem and help connect them to appropriate care. Special instructions: Participants must successfully complete self-paced prerequisite work in MHFA Connect BEFORE admission into classroom.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Kodiak",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Instructor Varied",
+  "image": "https://continuingstudies.alaska.edu/upload/chd-mhfa.png",
+  "professions": [
+    "behavioral-health",
+    "first-responder"
+  ],
+  "topic_tags": [
+    "substance-use-disorders"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Behavioral Health",
+    "First Responders",
+    "Substance Use Disorders",
+    "Behavioral and Mental Health",
+    "Emergency and Medical"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-04-15 by daily scrape pipeline.",
+  "last_verified_at": "2026-04-15"
+}

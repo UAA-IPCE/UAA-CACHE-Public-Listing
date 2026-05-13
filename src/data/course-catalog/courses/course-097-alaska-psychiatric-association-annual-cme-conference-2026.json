@@ -1,0 +1,39 @@
+{
+  "id": 97,
+  "title": "Alaska Psychiatric Association Annual CME Conference 2026",
+  "slug": "alaska-psychiatric-association-annual-cme-conference-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4652,
+  "summary": "Advancing Psychiatric Care Across Alaska: CE Available",
+  "description": "When: April 10-11, 2026 Where: Aloft Hotel, 310 W 36th Avenue, Anchorage, AK 99503 Continuing Education: Available, see event website for more details. For more information, including registration, visit the event website here . Join us for the Alaska Psychiatric Association's 27th Annual CME Conference, taking place April 10–11, 2026 in Anchorage, featuring expert speakers from leading institutions across the country.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Anchorage",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": 9999,
+  "seats_snapshot_date": "2026-03-18",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Instructor Varied",
+  "image": "https://continuingstudies.alaska.edu/upload/ahec_AlaskaPsychiatricAssociation.jpg",
+  "professions": [],
+  "topic_tags": [
+    "substance-use-disorders"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Substance Use Disorders"
+  ],
+  "credits": [
+    "CME"
+  ],
+  "notes": "Auto-discovered on 2026-03-12 by daily scrape pipeline.",
+  "last_verified_at": "2026-03-18"
+}

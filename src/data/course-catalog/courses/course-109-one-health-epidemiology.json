@@ -1,0 +1,44 @@
+{
+  "id": 109,
+  "title": "One Health Epidemiology",
+  "slug": "one-health-epidemiology",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4704,
+  "summary": "Learn to analyze data, assess risk, and respond to outbreaks",
+  "description": "The Arctic is warming three to four times faster than the rest of the planet, and rural communities in Alaska rely on and live closely with animals. This makes our communities particularly vulnerable to climate change impacts, including emerging infectious diseases in both animal and human populations. In today's landscape, clinicians able to apply a One Health framework—the understanding that the health of humans, animals, and ecosystems are interconnected—will be better prepared to meet the challenges ahead.",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Dustin Muse, Mary McQuilkin",
+  "image": "https://marymcquilkin.com/wp-content/uploads/2026/04/OneHealthEpiThumbnail2.png",
+  "professions": [
+    "public-health",
+    "first-responder"
+  ],
+  "topic_tags": [
+    "substance-use-disorders",
+    "health-equity"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "First Responders",
+    "Substance Use Disorders"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-05-13 by daily scrape pipeline.",
+  "last_verified_at": "2026-05-13"
+}
