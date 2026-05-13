@@ -83,8 +83,9 @@ jobs:
           if git diff --cached --quiet; then
             echo "No data changes; nothing to commit."
           else
-            # We use --amend and force push to keep the history at 1 commit for security/privacy
-            git commit --amend -m "data: official CACHE enrichment sync ($(date +%Y-%m-%d))" || git commit -m "data: official CACHE enrichment sync ($(date +%Y-%m-%d))"
-            git push -f origin main
+            # Standard commit and push with rebase to prevent branch collisions
+            git commit -m "data: official CACHE enrichment sync ($(date +%Y-%m-%d %H:%M))"
+            git pull --rebase origin main
+            git push origin main
             echo "Pushed updated data to main."
           fi
