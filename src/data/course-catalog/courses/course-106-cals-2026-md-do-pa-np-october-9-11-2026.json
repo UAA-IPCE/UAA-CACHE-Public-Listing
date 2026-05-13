@@ -1,0 +1,49 @@
+{
+  "id": 106,
+  "title": "CALS 2026 - MD/DO/PA/NP - October 9 - 11 2026",
+  "slug": "cals-2026-md-do-pa-np-october-9-11-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4498,
+  "summary": "Register for CALS Training, January 23-25, 2026",
+  "description": "Comprehensive Advanced Life Support This course consists of interactive sessions in cardiac, traumatic, pediatric, obstetrical, neonatal and medical advanced life support. Course materials establish the CALS Universal Approach to critically ill or injured patients, which defines the manner by which care providers evaluate and treat emergency patients. The CALS Course was designed to provide physicians, registered nurses, physician assistants, nurse practitioners and paramedics with the opportunity to learn and practice infrequently used lifesaving skills.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Anchorage",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Dustin Muse, Charles Wengenroth",
+  "image": "https://continuingstudies.alaska.edu/upload/ahec_CALS.jpg",
+  "professions": [
+    "physician",
+    "nurse",
+    "first-responder"
+  ],
+  "topic_tags": [
+    "substance-use-disorders",
+    "trauma-informed-care"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Nursing",
+    "Physicians",
+    "First Responders",
+    "Substance Use Disorders",
+    "Trauma Informed Care",
+    "Emergency and Medical"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-04-15 by daily scrape pipeline.",
+  "last_verified_at": "2026-04-15"
+}

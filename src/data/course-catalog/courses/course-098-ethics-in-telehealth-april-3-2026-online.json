@@ -1,0 +1,44 @@
+{
+  "id": 98,
+  "title": "Ethics in Telehealth - April 3 2026 - Online",
+  "slug": "ethics-in-telehealth-april-3-2026-online",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4660,
+  "summary": "Join us for these learning opportunities by Dr. Meade ",
+  "description": "Continuing Education: 3 Credit Hours Available. See training for more details. Vanessa Meade, PsyD, LCSW (she/her), is an assistant professor at the University of Alaska Anchorage's School of Social Work. She is also a U.S. Army/Gulf War Veteran and a former Alaska State Trooper. Dr. Meade is a licensed clinical social worker and psychologist in Alaska. She has also worked as a clinician/therapist in rural community mental health agencies and juvenile justice.",
+  "delivery_method": "live",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Vanessa Meade",
+  "image": "https://continuingstudies.alaska.edu/upload/AHEC_Camp.jpg",
+  "professions": [
+    "behavioral-health",
+    "social-work"
+  ],
+  "topic_tags": [
+    "health-equity"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Social Work",
+    "Behavioral Health",
+    "Behavioral and Mental Health"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-03-20 by daily scrape pipeline.",
+  "last_verified_at": "2026-03-20"
+}

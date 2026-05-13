@@ -1,0 +1,37 @@
+{
+  "id": 111,
+  "title": "Facilitating Attuned Interactions - FAN for Practitioners",
+  "slug": "facilitating-attuned-interactions-fan-for-practitioners",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4724,
+  "summary": "Practical tools for relationship building. ",
+  "description": "UAA Child Welfare Academy is offering a virtual training on Facilitating Attuned Interactions, FAN for Practitioners--a powerful, relationship-based model that helps professionals meet families where they are with compassion and insight.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Anchorage",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Instructor Varied",
+  "image": "https://continuingstudies.alaska.edu/upload/ahec_CWA_FAN.png",
+  "professions": [],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Students"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-05-13 by daily scrape pipeline.",
+  "last_verified_at": "2026-05-13"
+}

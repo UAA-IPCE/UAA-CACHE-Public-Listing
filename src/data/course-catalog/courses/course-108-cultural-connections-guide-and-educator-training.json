@@ -1,0 +1,39 @@
+{
+  "id": 108,
+  "title": "Cultural Connections Guide and Educator Training",
+  "slug": "cultural-connections-guide-and-educator-training",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4781,
+  "summary": "Be better equipped to share about Alaska Culture!",
+  "description": "For more information, including registration to the class, visit the link here. An interactive training for Alaska guides and educators. This course explores Alaska Native cultures and how to respectfully share information with summer visitors.",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Instructor Varied",
+  "image": "https://continuingstudies.alaska.edu/upload/ahec_culturalguide.png",
+  "professions": [],
+  "topic_tags": [
+    "substance-use-disorders"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Substance Use Disorders"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-05-13 by daily scrape pipeline.",
+  "last_verified_at": "2026-05-13"
+}
