@@ -1,6 +1,6 @@
 # UAA CACHE Public Listing
 
-> **Last Updated:** May 18, 2026 at 6:28 AM AKDT (Hourly Sync)
+> **Last Updated:** May 18, 2026 at 9:25 AM AKDT (Hourly Sync)
 
 
 **Public JSON feeds for the University of Alaska Anchorage CACHE continuing education catalog.**
