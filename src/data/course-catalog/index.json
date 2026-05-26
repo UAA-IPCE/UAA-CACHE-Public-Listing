@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-26T17:21:00.557Z",
+  "generated_at": "2026-05-26T19:55:59.696Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 113,
+  "total_courses": 114,
   "courses": [
     {
       "id": 1,
@@ -680,6 +680,12 @@
       "title": "CALS 2026 - RN/Paramedic - October 9 - 10 2026",
       "slug": "cals-2026-rn-paramedic-october-9-10-2026",
       "file": "src/data/course-catalog/courses/course-113-cals-2026-rn-paramedic-october-9-10-2026.json"
+    },
+    {
+      "id": 114,
+      "title": "ACFTA Live Sessions 2026 - October 27-29 (Remote via Zoom)",
+      "slug": "acfta-live-sessions-2026-october-27-29-remote-via-zoom",
+      "file": "src/data/course-catalog/courses/course-114-acfta-live-sessions-2026-october-27-29-remote-via-zoom.json"
     }
   ]
 }

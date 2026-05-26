@@ -1,0 +1,42 @@
+{
+  "id": 114,
+  "title": "ACFTA Live Sessions 2026 - October 27-29 (Remote via Zoom)",
+  "slug": "acfta-live-sessions-2026-october-27-29-remote-via-zoom",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4538,
+  "summary": "Learn trauma informed forensic evidence collection.",
+  "description": "Each victim of violence deserves to be treated with dignity and respect, and to have evidence of the crimes committed against them preserved for future prosecution. Unfortunately, many areas of the state lack the ability to document and collect medical evidence to help protect victims of crime. Forensic evidence collection requires the necessary knowledge, skills, and abilities to do so from the onset of patient care.",
+  "delivery_method": "live",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Angelia  Trujillo",
+  "image": "https://continuingstudies.alaska.edu/upload/acfta2.png",
+  "professions": [
+    "physician"
+  ],
+  "topic_tags": [
+    "trauma-informed-care"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Physicians",
+    "Trauma Informed Care"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-05-26 by daily scrape pipeline.",
+  "last_verified_at": "2026-05-26"
+}
