@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "genius-4724",
+    "title": "Facilitating Attuned Interactions - FAN for Practitioners",
+    "organization": "UAA Continuing Studies",
+    "location": "Anchorage",
+    "format": "In-Person",
+    "start_date": "2026-05-27",
+    "end_date": "2026-05-28",
+    "credits": [],
+    "description": "Practical tools for relationship building.",
+    "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4724",
+    "region": "Southcentral",
+    "image": "https://continuingstudies.alaska.edu/upload/ahec_CWA_FAN.png",
+    "event_type": "live",
+    "instructor_name": "Instructor Varied, Varied, Instructor",
+    "seats_total": 24,
+    "genius_section_index": 4724,
+    "genius_course_index": 1483,
+    "category": "Health and Behavioral Health",
+    "price_usd": 450
+  }
+]
