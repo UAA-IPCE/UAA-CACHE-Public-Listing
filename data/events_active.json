@@ -1908,7 +1908,7 @@
     "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4704",
     "affiliate_id": "6Q68Q3",
     "host_organization": "University of Alaska Anchorage Continuing Studies",
-    "credits": 0,
+    "credits": 14,
     "category": "Health and Behavioral Health",
     "tags": [
       "Health and Behavioral Health",
@@ -1922,7 +1922,7 @@
     "last_updated": "2026-06-02",
     "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4704",
     "available_for_registration": true,
-    "seats_available": 9490,
+    "seats_available": 9488,
     "delivery": "On-Demand",
     "meeting_time_display": null,
     "public_notes": null,
