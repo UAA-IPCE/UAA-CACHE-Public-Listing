@@ -1,5 +1,25 @@
 [
   {
+    "id": "genius-4276",
+    "title": "Adult Mental Health First Aid 2026 - June 1 2026 - Kodiak",
+    "organization": "UAA Continuing Studies",
+    "location": "Kodiak",
+    "format": "In-Person",
+    "start_date": "2026-06-01",
+    "end_date": "2026-06-01",
+    "credits": [],
+    "description": "CE Available. Join this Adult Mental Health First Aid training!",
+    "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4276",
+    "region": "Kodiak",
+    "image": "https://continuingstudies.alaska.edu/upload/chd-mhfa.png",
+    "event_type": "live",
+    "instructor_name": "Instructor Varied, Varied, Instructor",
+    "seats_total": 30,
+    "genius_section_index": 4276,
+    "genius_course_index": 1404,
+    "category": "Health and Behavioral Health"
+  },
+  {
     "id": "genius-4724",
     "title": "Facilitating Attuned Interactions - FAN for Practitioners",
     "organization": "UAA Continuing Studies",
