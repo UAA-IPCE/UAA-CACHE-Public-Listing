@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-17T17:59:24.150Z",
+  "generated_at": "2026-06-17T19:04:39.643Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 114,
+  "total_courses": 115,
   "courses": [
     {
       "id": 1,
@@ -686,6 +686,12 @@
       "title": "ACFTA Live Sessions 2026 - October 27-29 (Remote via Zoom)",
       "slug": "acfta-live-sessions-2026-october-27-29-remote-via-zoom",
       "file": "src/data/course-catalog/courses/course-114-acfta-live-sessions-2026-october-27-29-remote-via-zoom.json"
+    },
+    {
+      "id": 115,
+      "title": "2026 AHHA Annual Conference - Girdwood",
+      "slug": "2026-ahha-annual-conference-girdwood",
+      "file": "src/data/course-catalog/courses/course-115-2026-ahha-annual-conference-girdwood.json"
     }
   ]
 }

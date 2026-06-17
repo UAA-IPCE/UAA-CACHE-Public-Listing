@@ -1,0 +1,42 @@
+{
+  "id": 115,
+  "title": "2026 AHHA Annual Conference - Girdwood",
+  "slug": "2026-ahha-annual-conference-girdwood",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4813,
+  "summary": "Join us in Girdwood for AHHA's Annual Conference",
+  "description": "When: September 15-16, 2026 Where: Alyeska Resort, Girdwood For more information, including registration, visit the event website here. Welcome to the 2026 AHHA Annual Conference — the premier gathering for healthcare leaders, partners, and innovators from across Alaska. ​Join us to learn from industry experts, share proven resources, and network with like-minded professionals dedicated to elevating care throughout our state.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Girdwood",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Instructor Varied",
+  "image": "https://continuingstudies.alaska.edu/upload/ahec_ahha.png",
+  "professions": [
+    "nurse"
+  ],
+  "topic_tags": [
+    "substance-use-disorders"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Nursing",
+    "Substance Use Disorders"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-06-17 by daily scrape pipeline.",
+  "last_verified_at": "2026-06-17"
+}
