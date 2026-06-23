@@ -495,5 +495,42 @@
     "public_notes": "When: April 8-13, 2026",
     "section_index": 4263,
     "archived_date": "2026-04-15"
+  },
+  {
+    "event_id": "uaa-cache-4277",
+    "title": "Youth Mental Health First Aid 2026 - June 22 2026 - Virtual",
+    "description": "Join the UAA College of Health to attend Youth Mental Health First Aid training. This class will teach you how to identify, understand, and respond to signs of mental illness and substance use disorders. This 8 hour training gives you the skills you need to reach out and provide initial support to someone who may be developing a mental health or substance use problem and help connect them to appropriate care. By registering here you will be receiving access to the MHFA Connect portal and additional details regarding the course. 7.5 Nursing Contact Hours available Alaska Nurses Association is approved as a provider of nursing continuing professional development by Montana Nurses Association, an accredited approver with distinction by the American Nurses Credentialing Center’s Commission on Accreditation.",
+    "location": "Online",
+    "city": null,
+    "state": null,
+    "latitude": null,
+    "longitude": null,
+    "start_date": "2026-06-22",
+    "end_date": "2026-06-22",
+    "start_time": null,
+    "end_time": null,
+    "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4277",
+    "affiliate_id": "6Q68Q3",
+    "host_organization": "University of Alaska Anchorage Continuing Studies",
+    "credits": 0,
+    "category": "Health and Behavioral Health",
+    "tags": [
+      "Health and Behavioral Health",
+      "YMHFA",
+      "MHFA",
+      "Mental Health",
+      "First Aid",
+      "Youth"
+    ],
+    "cost": null,
+    "last_updated": "2026-06-22",
+    "source_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4277",
+    "available_for_registration": true,
+    "seats_available": 0,
+    "delivery": "Live / Online",
+    "meeting_time_display": null,
+    "public_notes": "When: June 22 2026 | 9:00am - 4:00pm\nWhere: Virtual via Zoom",
+    "section_index": 4277,
+    "archived_date": "2026-06-23"
   }
 ]
