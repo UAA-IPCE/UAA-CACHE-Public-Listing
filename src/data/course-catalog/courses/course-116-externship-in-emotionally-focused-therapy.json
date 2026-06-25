@@ -1,0 +1,45 @@
+{
+  "id": 116,
+  "title": "Externship in Emotionally Focused Therapy",
+  "slug": "externship-in-emotionally-focused-therapy",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4826,
+  "summary": "The Mental Health Co-Op presents Alaska EFT!",
+  "description": "When: Aug 26-29, 2026 | 9:00 am-5:00 pm Where: UAA, Anchorage, AK (Change from previous venue, also in Anchorage) Host: The Mental Health Co-Op in support of Alaska EFT CE Credits: 28 credits. NBCC credits through The Mental Health Co-Op The Mental Health Co-Op has been approved by NBCC as an Approved Continuing Education Provider, ACEP No. 7982. Programs that do not qualify for NBCC credit are clearly identified. The Mental Health Co-Op is solely responsible for all aspects of the programs. For more information, including registration, visit the event website here.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Anchorage",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Instructor Varied",
+  "image": "https://continuingstudies.alaska.edu/upload/alaskaEFT.jpeg",
+  "professions": [
+    "physician",
+    "behavioral-health"
+  ],
+  "topic_tags": [
+    "substance-use-disorders"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Physicians",
+    "Behavioral Health",
+    "Substance Use Disorders",
+    "Behavioral and Mental Health"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-06-25 by daily scrape pipeline.",
+  "last_verified_at": "2026-06-25"
+}

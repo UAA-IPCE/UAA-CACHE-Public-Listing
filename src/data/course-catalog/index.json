@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-24T23:24:09.164Z",
+  "generated_at": "2026-06-25T00:31:15.882Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 115,
+  "total_courses": 116,
   "courses": [
     {
       "id": 1,
@@ -692,6 +692,12 @@
       "title": "2026 AHHA Annual Conference - Girdwood",
       "slug": "2026-ahha-annual-conference-girdwood",
       "file": "src/data/course-catalog/courses/course-115-2026-ahha-annual-conference-girdwood.json"
+    },
+    {
+      "id": 116,
+      "title": "Externship in Emotionally Focused Therapy",
+      "slug": "externship-in-emotionally-focused-therapy",
+      "file": "src/data/course-catalog/courses/course-116-externship-in-emotionally-focused-therapy.json"
     }
   ]
 }
