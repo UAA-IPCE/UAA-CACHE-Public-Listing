@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-26T21:27:58.372Z",
+  "generated_at": "2026-06-26T22:24:42.768Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 116,
+  "total_courses": 117,
   "courses": [
     {
       "id": 1,
@@ -698,6 +698,12 @@
       "title": "Externship in Emotionally Focused Therapy",
       "slug": "externship-in-emotionally-focused-therapy",
       "file": "src/data/course-catalog/courses/course-116-externship-in-emotionally-focused-therapy.json"
+    },
+    {
+      "id": 117,
+      "title": "Summer 2026 Full Embrace Doula Training Birth Support Skills Workshop",
+      "slug": "summer-2026-full-embrace-doula-training-birth-support-skills-workshop",
+      "file": "src/data/course-catalog/courses/course-117-summer-2026-full-embrace-doula-training-birth-support-skills-workshop.json"
     }
   ]
 }
