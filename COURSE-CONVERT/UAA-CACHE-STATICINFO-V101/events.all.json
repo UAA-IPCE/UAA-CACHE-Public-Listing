@@ -3727,7 +3727,7 @@
     "start_date": "2026-10-07",
     "end_date": "2026-10-12",
     "enrollments": 0,
-    "cap": 30,
+    "cap": 9999,
     "credits": 0,
     "contact_hours": null,
     "term": "2026",
