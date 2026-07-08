@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T00:23:19.281Z",
+  "generated_at": "2026-07-08T01:32:41.568Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 117,
+  "total_courses": 118,
   "courses": [
     {
       "id": 1,
@@ -704,6 +704,12 @@
       "title": "Summer 2026 Full Embrace Doula Training Birth Support Skills Workshop",
       "slug": "summer-2026-full-embrace-doula-training-birth-support-skills-workshop",
       "file": "src/data/course-catalog/courses/course-117-summer-2026-full-embrace-doula-training-birth-support-skills-workshop.json"
+    },
+    {
+      "id": 118,
+      "title": "Adult Mental Health First Aid - August 26 2026 - Anchorage",
+      "slug": "adult-mental-health-first-aid-august-26-2026-anchorage",
+      "file": "src/data/course-catalog/courses/course-118-adult-mental-health-first-aid-august-26-2026-anchorage.json"
     }
   ]
 }
