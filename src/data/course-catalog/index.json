@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T19:29:08.384Z",
+  "generated_at": "2026-07-14T20:23:42.037Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 118,
+  "total_courses": 120,
   "courses": [
     {
       "id": 1,
@@ -710,6 +710,18 @@
       "title": "Adult Mental Health First Aid - August 26 2026 - Anchorage",
       "slug": "adult-mental-health-first-aid-august-26-2026-anchorage",
       "file": "src/data/course-catalog/courses/course-118-adult-mental-health-first-aid-august-26-2026-anchorage.json"
+    },
+    {
+      "id": 119,
+      "title": "Transforming Touch - Part 1 - October 7-12, 2026",
+      "slug": "transforming-touch-part-1-october-7-12-2026",
+      "file": "src/data/course-catalog/courses/course-119-transforming-touch-part-1-october-7-12-2026.json"
+    },
+    {
+      "id": 120,
+      "title": "Transforming Touch - Part 2 - April 21-26, 2027",
+      "slug": "transforming-touch-part-2-april-21-26-2027",
+      "file": "src/data/course-catalog/courses/course-120-transforming-touch-part-2-april-21-26-2027.json"
     }
   ]
 }

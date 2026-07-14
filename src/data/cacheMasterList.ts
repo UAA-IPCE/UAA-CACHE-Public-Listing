@@ -5,4 +5,6 @@ export const cacheMasterList: string[] = [
   "Externship in Emotionally Focused Therapy",
   "Summer 2026 Full Embrace Doula Training Birth Support Skills Workshop",
   "Adult Mental Health First Aid - August 26 2026 - Anchorage",
+  "Transforming Touch - Part 1 - October 7-12, 2026",
+  "Transforming Touch - Part 2 - April 21-26, 2027",
 ];
