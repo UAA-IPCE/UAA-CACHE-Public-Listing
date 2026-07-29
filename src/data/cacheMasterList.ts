@@ -391,4 +391,5 @@ export const cacheMasterList: string[] = [
   "Alaska Core Competency #9 & 10 June 03, 2027",
   "First Aid / CPR - American Heart Association - Jun. 4",
   "Basic Concepts of Care Coordination June 08, 2027",
+  "Alaska WWAMI Pre-Med",
 ];

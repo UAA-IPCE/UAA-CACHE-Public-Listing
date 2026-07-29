@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-29T19:28:50.263Z",
+  "generated_at": "2026-07-29T20:20:09.528Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 504,
+  "total_courses": 505,
   "courses": [
     {
       "id": 1,
@@ -3026,6 +3026,12 @@
       "title": "Basic Concepts of Care Coordination June 08, 2027",
       "slug": "basic-concepts-of-care-coordination-june-08-2027",
       "file": "src/data/course-catalog/courses/course-504-basic-concepts-of-care-coordination-june-08-2027.json"
+    },
+    {
+      "id": 505,
+      "title": "Alaska WWAMI Pre-Med",
+      "slug": "alaska-wwami-pre-med",
+      "file": "src/data/course-catalog/courses/course-505-alaska-wwami-pre-med.json"
     }
   ]
 }
