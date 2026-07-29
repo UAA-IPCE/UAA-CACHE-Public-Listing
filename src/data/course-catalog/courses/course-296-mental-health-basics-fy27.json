@@ -1,0 +1,42 @@
+{
+  "id": 296,
+  "title": "Mental Health Basics FY27",
+  "slug": "mental-health-basics-fy27",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4820,
+  "summary": "Mental Health Basics helps you be a better observer and partner",
+  "description": "Designed for direct care workers providing services to people with mental illness diagnoses, this two-hour course provides an overview of major mental health diagnoses (Axis I), symptoms, and associated pharmacology. This training is included in the accredited DSP Training Certification Program with AKTC. Learning objectives: Understand the various types of Mental Illness and treatments throughout history.",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Lorne Bailey, Brenda Overcast, Gloria Lumba, Hira Raja, Liz Gerken Miller",
+  "image": "https://continuingstudies.alaska.edu/upload/Mental%20Health%20Basics.jpg",
+  "professions": [
+    "behavioral-health",
+    "pharmacy"
+  ],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Pharmacy",
+    "Behavioral Health",
+    "Behavioral and Mental Health"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

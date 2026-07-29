@@ -1,0 +1,40 @@
+{
+  "id": 303,
+  "title": "SUITE Alaska - A Brief Overview of the Alaska Core Competencies for Direct Care Service Providers",
+  "slug": "suite-alaska-a-brief-overview-of-the-alaska-core-competencies-for-dire",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 3715,
+  "summary": "Overview of AK Core Competencies for Direct Care Workers",
+  "description": "This course consists of two modules covering the basics of the 10 core competencies for direct care workers in health and human services. The Alaska Core Competencies were developed to give care workers the tools and skills to do their jobs effectively. Students completing this course will gain a basic understanding of the principles and skills required for each competency as a foundation for more in depth instruction. This course is ideal for new direct care providers entering the workforce. It can also be used as a brief review of the competencies or as an onboarding tool for new hires.",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Eva Wilson",
+  "image": "https://continuingstudies.alaska.edu/upload/SUITE%20logo%20SUD%20BH%204%20genius.png",
+  "professions": [
+    "physician"
+  ],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Physicians",
+    "Students"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

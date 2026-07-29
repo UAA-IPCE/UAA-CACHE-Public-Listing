@@ -1,0 +1,42 @@
+{
+  "id": 133,
+  "title": "Aircraft Landing Gear Systems - Wheels, Brakes and Tires (3 hours)",
+  "slug": "aircraft-landing-gear-systems-wheels-brakes-and-tires-3-hours",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 218,
+  "summary": "Aircraft Landing Gear Systems - Wheels, Brakes and Tires",
+  "description": "This module covers basic information on the principles, fundamentals, and technical procedures in subject matter areas relating to aircraft wheels, brakes and tires. Introductory pricing. Access to online module for 1 month from receipt of payment.",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Wade Weiss",
+  "image": "https://continuingstudies.alaska.edu/upload/Wheels,%20brakes%20and%20tires.jpg",
+  "professions": [
+    "first-responder"
+  ],
+  "topic_tags": [
+    "substance-use-disorders"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "First Responders",
+    "Substance Use Disorders"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

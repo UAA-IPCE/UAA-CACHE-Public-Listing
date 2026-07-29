@@ -1,0 +1,45 @@
+{
+  "id": 488,
+  "title": "Alaska Core Competency #5, 7, & 8 April 14, 2027",
+  "slug": "alaska-core-competency-5-7-8-april-14-2027",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4922,
+  "summary": "Learn basic competencies to effectively provide services.",
+  "description": "The Alaska Core Competencies are a set of essential skills for DSPs (direct support providers or direct support professionals) who deliver services to persons with mental health and substance use conditions, intellectual and physical disabilities, and older adults who need long-term services and support. There are 10 broad competency categories which are broken down into 42 individual competencies, and then each competency is defined by behavioral descriptors.",
+  "delivery_method": "live",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Riki Chapman, Brenda Overcast, Lorne Bailey, Hira Raja",
+  "image": "https://continuingstudies.alaska.edu/upload/chd-akcc-7.8.jpeg",
+  "professions": [
+    "behavioral-health"
+  ],
+  "topic_tags": [
+    "substance-use-disorders",
+    "elder-care-senior-services"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Behavioral Health",
+    "Substance Use Disorders",
+    "Aging/Senior Services",
+    "Behavioral and Mental Health"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

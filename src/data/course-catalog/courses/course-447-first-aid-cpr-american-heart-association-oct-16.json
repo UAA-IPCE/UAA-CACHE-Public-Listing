@@ -1,0 +1,43 @@
+{
+  "id": 447,
+  "title": "First Aid / CPR - American Heart Association - Oct. 16",
+  "slug": "first-aid-cpr-american-heart-association-oct-16",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4940,
+  "summary": "First Aid / CPR Certification Course",
+  "description": "Upon successful completion, students receive certification from the American Heart Association. Valid for two years. Your certificate will be emailed to the student a few days after class completion. If you do not receive the email, please check your spam folder or contact PWSC at 907-834-1600. Students must officially drop the course at least two business days before the first class begins. There is no refund after this time.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Valdez",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Michael Bowden",
+  "image": "https://continuingstudies.alaska.edu/upload/firstaidcpr.jpg",
+  "professions": [
+    "physician",
+    "first-responder"
+  ],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Physicians",
+    "First Responders",
+    "Emergency and Medical",
+    "Students"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 230,
+  "title": "ED A571: Alaskans for Language Acquisition (AFLA) 2024 Conference: Engaging the Future-From New Technologies to Interpersonal Relationships",
+  "slug": "ed-a571-alaskans-for-language-acquisition-afla-2024-conference-engagin",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 2421,
+  "summary": "Letter Graded (A-F)",
+  "description": "Letter Graded (A-F)",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Palmer",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Jennifer Greene, Betsy Watson",
+  "image": "https://continuingstudies.alaska.edu/upload/PACE-UAA-Web-Logo.png",
+  "professions": [],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

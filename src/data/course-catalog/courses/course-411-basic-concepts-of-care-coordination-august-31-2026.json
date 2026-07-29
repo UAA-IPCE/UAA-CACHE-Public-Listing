@@ -1,0 +1,39 @@
+{
+  "id": 411,
+  "title": "Basic Concepts of Care Coordination August 31, 2026",
+  "slug": "basic-concepts-of-care-coordination-august-31-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4843,
+  "summary": "Care coordination ethics, advocacy and service.",
+  "description": "This training is designed for new care coordinators who are not yet certified. This course is required prior to taking Care Coordination Core Units offered by Senior and Disability Services. This five-hour course is designed to be interactive and provide attendees the opportunity to participate in discussions. Topics include Ethics, How to Serve Someone with a Disability, Skills of Interaction, Advocacy, and Person Centered Planning. Questions about the training? Please contact Riki Chapman, 907-264-6257, racook@alaska.",
+  "delivery_method": "live",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Lorne Bailey, Hira Raja, Riki Chapman, Brenda Overcast",
+  "image": "https://continuingstudies.alaska.edu/upload/carecoordinator.jpg",
+  "professions": [],
+  "topic_tags": [
+    "elder-care-senior-services"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Aging/Senior Services"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

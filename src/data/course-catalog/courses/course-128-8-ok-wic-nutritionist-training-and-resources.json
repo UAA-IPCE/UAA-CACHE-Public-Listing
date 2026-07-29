@@ -1,0 +1,38 @@
+{
+  "id": 128,
+  "title": "8 OK WIC - Nutritionist Training and Resources",
+  "slug": "8-ok-wic-nutritionist-training-and-resources",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4142,
+  "summary": "Oklahoma WIC Training Series",
+  "description": "Oklahoma WIC Training Series",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Danielle Rybicki, Nicole Carroll, Jennifer Guest, Mandy Jefferson, Wende Johnson, Amanda Thomas, Adrianna Halstead, Dustin Muse, Jenna Crider, Carrie Emberton, Karla Sigala, Laura Stout, Kira Hemphill, Amy Mauldin, Jennifer Ortiz, Jessica Sawatski, Christina Windrix, Miranda Manning, Brooke Bowlware",
+  "image": "https://continuingstudies.alaska.edu/upload/COH_WIC_Logo.png",
+  "professions": [
+    "dietetics"
+  ],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

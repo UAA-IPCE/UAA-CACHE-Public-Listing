@@ -1,0 +1,39 @@
+{
+  "id": 168,
+  "title": "ED A550K: Culturally Responsive Teaching and Alaska Studies: An Induction into Teaching in Alaskan Communities",
+  "slug": "ed-a550k-culturally-responsive-teaching-and-alaska-studies-an-inductio",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4936,
+  "summary": "Pass/No Pass (P/NP)",
+  "description": "Pass/No Pass (P/NP)",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Kathleen Brennan Tollefson, Gwendolyn LeFebvre, Gwendolyn LeFebvre, Nicole Unser",
+  "image": "https://continuingstudies.alaska.edu/upload/PACE-UAA-Web-Logo.png",
+  "professions": [],
+  "topic_tags": [
+    "health-equity"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Health Equity"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

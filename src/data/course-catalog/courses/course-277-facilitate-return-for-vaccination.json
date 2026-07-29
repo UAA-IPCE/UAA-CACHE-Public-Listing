@@ -1,0 +1,39 @@
+{
+  "id": 277,
+  "title": "Facilitate Return for Vaccination",
+  "slug": "facilitate-return-for-vaccination",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 3653,
+  "summary": "Placeholder text for short description",
+  "description": "Placeholder text for short description",
+  "delivery_method": "live",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Danielle Dixon, Dustin Muse",
+  "image": "https://continuingstudies.alaska.edu/images/noImageAvalilable.png",
+  "professions": [
+    "nurse"
+  ],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Nursing"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 394,
+  "title": "EDSE A590: Evidence-Based Practices for K-12 Learners on the Autism Spectrum",
+  "slug": "edse-a590-evidence-based-practices-for-k-12-learners-on-the-autism-spe",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4707,
+  "summary": "Letter Graded (A-F)",
+  "description": "Letter Graded (A-F)",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Jennifer Greene, Ceann Murphy",
+  "image": "https://continuingstudies.alaska.edu/upload/PACE-UAA-Web-Logo.png",
+  "professions": [],
+  "topic_tags": [
+    "autism-spectrum-disorders"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Autism Spectrum Disorders"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

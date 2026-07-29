@@ -1,0 +1,42 @@
+{
+  "id": 431,
+  "title": "American Heart Association - First Aid CPR/AED - September 2026",
+  "slug": "american-heart-association-first-aid-cpr-aed-september-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4777,
+  "summary": "For Beginners to First Aid CPR and AED Course",
+  "description": "The Heartsaver First Aid CPR AED Course is designed for anyone with little or no medical training who needs an OSHA-compliant course completion card—or anyone who simply wants to be ready to respond in an emergency. Please contact your employer to ensure that you are selecting the correct course.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Palmer",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Stephen Robertson",
+  "image": "https://continuingstudies.alaska.edu/upload/MSC%20-%20CPR.jpeg",
+  "professions": [
+    "physician",
+    "first-responder"
+  ],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Physicians",
+    "First Responders",
+    "Emergency and Medical"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

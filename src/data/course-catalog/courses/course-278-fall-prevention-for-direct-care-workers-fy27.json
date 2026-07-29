@@ -1,0 +1,39 @@
+{
+  "id": 278,
+  "title": "Fall Prevention for Direct Care Workers FY27",
+  "slug": "fall-prevention-for-direct-care-workers-fy27",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4818,
+  "summary": "Implementing fall prevention in recipient's environment.",
+  "description": "Falls are a common and serious health threat to individuals with disabilities including adults 65 and older. Every year more than 1 in 4 older adults falls, but more than half of those who fall don’t tell their healthcare provider leading to high healthcare costs and hospitalization. This training and the resources shared will help direct service providers self-assess the environment of the assisted living home (ALH) or recipient's environment to put fall prevention strategies into practice. This training is offered exclusively online, on-demand and self-guided.",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Liz Gerken Miller, Lorne Bailey, Brenda Overcast, Gloria Lumba, Hira Raja",
+  "image": "https://continuingstudies.alaska.edu/upload/AKTC_Fall_Rug.png",
+  "professions": [],
+  "topic_tags": [
+    "elder-care-senior-services"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Aging/Senior Services"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

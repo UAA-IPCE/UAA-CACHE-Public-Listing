@@ -1,0 +1,42 @@
+{
+  "id": 292,
+  "title": "Make it Count - Documenting Medicaid Services FY27",
+  "slug": "make-it-count-documenting-medicaid-services-fy27",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4821,
+  "summary": "Gain knowledge about Medicaid Waiver & Community Based Services",
+  "description": "Gain knowledge about Medicaid Waiver Home and Community Based Services, and Long-Term Services and Supports. Learn to improve documentation as you: Recognize 3 authorities over the Alaska Home and Community Based Waiver Identify 3 common errors in service notes Recognize an example of a compliant service note State 2 ways correct documentation is important for Alaskans we serve This is a public offering, available at no cost through sponsorship by the UAA Center for Human Development's Alaska Training Cooperative (CHD AKTC) and the Alaska Mental Health Trust Authority.",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Lorne Bailey, Brenda Overcast, Gloria Lumba, Hira Raja, Liz Gerken Miller",
+  "image": "https://continuingstudies.alaska.edu/upload/Make%20it%20Count%20Documenting%20Medicaid.jpg",
+  "professions": [
+    "nurse",
+    "behavioral-health"
+  ],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Nursing",
+    "Behavioral Health",
+    "Behavioral and Mental Health"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

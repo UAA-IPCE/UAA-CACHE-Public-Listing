@@ -1,0 +1,37 @@
+{
+  "id": 482,
+  "title": "ESOL Intermediate Reading & Writing 2 - Mar 16 - May 6, 2027",
+  "slug": "esol-intermediate-reading-writing-2-mar-16-may-6-2027",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4804,
+  "summary": "English language learners, improve your reading & writing skill",
+  "description": "Building on Reading & Writing 1, this class focuses on increasing English reading and writing skills in academic and professional settings. Students will read and write on a variety of topics with a focus on the development and integration of academic vocabulary. Focuses on the development of reading comprehension and writing short academic texts.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Anchorage",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Jennifer McClung",
+  "image": "https://continuingstudies.alaska.edu/upload/ESOL%20RW2%20CTC.png",
+  "professions": [],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Students"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

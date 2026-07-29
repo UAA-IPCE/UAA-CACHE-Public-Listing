@@ -1,0 +1,36 @@
+{
+  "id": 341,
+  "title": "ED A565: Mastering Google Apps for Education (K-12)",
+  "slug": "ed-a565-mastering-google-apps-for-education-k-12",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4438,
+  "summary": "Letter Graded (A-F)",
+  "description": "Letter Graded (A-F)",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Jennifer Greene, Ceann Murphy",
+  "image": "https://continuingstudies.alaska.edu/upload/PACE-UAA-Web-Logo.png",
+  "professions": [],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

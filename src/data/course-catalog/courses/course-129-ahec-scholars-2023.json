@@ -1,0 +1,37 @@
+{
+  "id": 129,
+  "title": "AHEC Scholars 2023",
+  "slug": "ahec-scholars-2023",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 1163,
+  "summary": "Register here for the AHEC Scholars program!",
+  "description": "AHEC Scholars are undergraduate or graduate students who are currently enrolled in a healthcare certificate or degree program. The program provides students with academic training in healthcare topics and hands-on community-based experiential learning. Students who are required to complete community-based experiential learning as part of their academic program may double-count these hours towards their AHEC Scholars requirements. The academic training must be completed in addition to the student's regular coursework.",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Spencer Toft, Dustin Muse",
+  "image": "https://continuingstudies.alaska.edu/upload/NAO_AHEC_Scholars_Logo_AK.png",
+  "professions": [],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Students"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

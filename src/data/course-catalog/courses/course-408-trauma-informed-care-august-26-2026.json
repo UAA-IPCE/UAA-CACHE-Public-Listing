@@ -1,0 +1,49 @@
+{
+  "id": 408,
+  "title": "Trauma Informed Care August 26, 2026",
+  "slug": "trauma-informed-care-august-26-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4927,
+  "summary": "Learn strategies of a trauma-informed care approach.",
+  "description": "In this interactive training, participants will learn concepts associated with Trauma Informed Care, reflect on how to see their work through the lens of Trauma Informed Care, then discuss strategies to improve their practice with the people they serve. Complex and historical trauma will be discussed. An in-depth look at the Adverse Childhood Experiences Studies will help participants understand the impact of traumatic events on brain development. Examples of trauma-informed interventions for behavioral health consumers will be introduced.",
+  "delivery_method": "live",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Jill Ramsey, Lorne Bailey, Gloria Lumba, Brenda Overcast, Hira Raja",
+  "image": "https://continuingstudies.alaska.edu/upload/chd-sea-tic.jpg",
+  "professions": [
+    "nurse",
+    "behavioral-health",
+    "dental"
+  ],
+  "topic_tags": [
+    "substance-use-disorders",
+    "trauma-informed-care"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Nursing",
+    "Behavioral Health",
+    "Dental",
+    "Substance Use Disorders",
+    "Trauma Informed Care",
+    "Behavioral and Mental Health"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

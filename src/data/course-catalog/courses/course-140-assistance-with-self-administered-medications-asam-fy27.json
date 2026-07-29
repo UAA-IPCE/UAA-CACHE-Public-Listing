@@ -1,0 +1,44 @@
+{
+  "id": 140,
+  "title": "Assistance with Self-Administered Medications (ASAM) FY27",
+  "slug": "assistance-with-self-administered-medications-asam-fy27",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4816,
+  "summary": "Learn how to effectively assist recipients with medications",
+  "description": "Course Description: Upon completion of this course, staff will acquire the skills and techniques to effectively assist recipients with their medication. This training will meet the Senior and Disability Services Home and Community Based waiver regulations for staff training on Assistance with Self Administration of Medication. It is in compliance with state regulation 7 AAC 130.227 and 7 AAC 125.090 (d)(3). This training does NOT meet requirements for Medication Administration Training, which must be provided by a licensed professional (RN).",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Lorne Bailey, Brenda Overcast, Gloria Lumba, Hira Raja, Liz Gerken Miller",
+  "image": "https://continuingstudies.alaska.edu/upload/ASAM%20CHD.jpg",
+  "professions": [
+    "physician",
+    "pharmacy"
+  ],
+  "topic_tags": [
+    "elder-care-senior-services"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Physicians",
+    "Pharmacy",
+    "Aging/Senior Services"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

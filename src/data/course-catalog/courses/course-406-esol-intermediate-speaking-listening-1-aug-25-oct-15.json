@@ -1,0 +1,37 @@
+{
+  "id": 406,
+  "title": "ESOL Intermediate Speaking & Listening 1 - Aug 25 - Oct 15",
+  "slug": "esol-intermediate-speaking-listening-1-aug-25-oct-15",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4797,
+  "summary": "ESOL learners, improve your speaking & listening skills",
+  "description": "This class focuses on increasing fluency and accuracy in spoken English in academic and professional settings. Students discuss a variety of topics with a focus on the development and integration of academic vocabulary. Practice listening and speaking skills for participation in group discussions and giving short presentations. Class Dates: August 25th - October 15th, 2026 Class Days/Times: Tuesdays & Thursdays, 5:30pm - 7:30pm Class Location: Social Sciences Building Room 258, UAA Main Campus 3190 Alumni Dr.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Anchorage",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Jennifer McClung",
+  "image": "https://continuingstudies.alaska.edu/upload/ESOL%20SL1%20CTC.png",
+  "professions": [],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Students"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

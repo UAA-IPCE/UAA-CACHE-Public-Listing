@@ -1,0 +1,41 @@
+{
+  "id": 403,
+  "title": "CANCELED - Let's Dance - Introduction to Social Dancing",
+  "slug": "canceled-let-s-dance-introduction-to-social-dancing",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4734,
+  "summary": "Introduction to Social Dancing",
+  "description": "Learn easy steps in social dance so you can experience the joy of dancing. This beginner class is open to everyone; even experienced dancers can benefit from this class. After learning a few steps, you can feel confident enough to dance with someone. In eight weeks, you can learn the Cha Cha, Waltz, and Disco. These dances have basic steps which will enable you to continue to learn other styles of dance, such as Tango, Swing, Fox Trot, and a few Character dances. Meets on Thursdays from 5:30-7:00 p.m., in the Fred Machetanz Building, 2nd floor in Room 202. Dates: Aug. 20th & 27th, Sept.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Palmer",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Sharon Peek",
+  "image": "https://continuingstudies.alaska.edu/upload/MSC%20-%20Lets%20Dance%20-%20Intro%20to%20Social%20Dance.jpg",
+  "professions": [
+    "nurse",
+    "community-health-aide"
+  ],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Nursing",
+    "Allied Health"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 398,
+  "title": "CANCELED - Let's Dance - Your Own Spin - Fall 2026",
+  "slug": "canceled-let-s-dance-your-own-spin-fall-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4733,
+  "summary": "Continuing Dance Class",
+  "description": "This class is open to anyone who has some experience with standard traditional social dances such as Disco, Cha-Cha, Waltz, Tango, Swing, Fox Trot, Polka, Jig, and/or Can-Can. In this class, you will learn how to choreograph your own variations of these traditional social dances. Choreography helps to fire up the brain. Learning how to transition each step to the music and feeling comfortable with each movement will give you the confidence to dance with a partner in new ways. We keep it easy to learn, so join us, and have fun putting your own spin on these traditional social dances.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Palmer",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Sharon Peek",
+  "image": "https://continuingstudies.alaska.edu/upload/MSC%20-%20Lets%20Dance%20-%20Your%20Own%20Spin.jpg",
+  "professions": [
+    "nurse"
+  ],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Nursing"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

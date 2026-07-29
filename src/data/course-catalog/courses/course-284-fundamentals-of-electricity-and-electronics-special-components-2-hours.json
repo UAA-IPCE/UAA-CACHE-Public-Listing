@@ -1,0 +1,39 @@
+{
+  "id": 284,
+  "title": "Fundamentals of Electricity and Electronics - Special Components (2 hours)",
+  "slug": "fundamentals-of-electricity-and-electronics-special-components-2-hours",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 234,
+  "summary": "Fundamentals of Electricity and Electronics - Special Component",
+  "description": "This module covers the basic information on principles, fundamentals, and technical procedures relating to aircraft electricity and electronics special components. Introductory Pricing. Access to online module for one month from date payment is received.",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Wade Weiss",
+  "image": "https://continuingstudies.alaska.edu/upload/Electronics%20-%20Special%20Components.jpg",
+  "professions": [],
+  "topic_tags": [
+    "substance-use-disorders"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Substance Use Disorders"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

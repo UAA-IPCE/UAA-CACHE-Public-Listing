@@ -1,0 +1,39 @@
+{
+  "id": 401,
+  "title": "Trust-Based Relational Intervention (TBRI) August 2026",
+  "slug": "trust-based-relational-intervention-tbri-august-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4836,
+  "summary": "Click info for description and registration link",
+  "description": "Trust-Based Relational Intervention (TBRI®) is an evidence-based attachment-based, trauma-informed, whole-child approach to meeting the needs of children and youth who have experienced early adversity, toxic stress, and/or relational trauma. The TBRI® model was developed at TCU by Dr. Karyn Purvis and Dr. David Cross to address the effects of early adversity and relational trauma through three synergistic principles: Connecting, Empowering, and Correcting. TBRI® has been used throughout the world to heal children who “come from hard places”.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Anchorage",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Tami Eller, Lorne Bailey, Gloria Lumba, Brenda Overcast, Hira Raja",
+  "image": "https://continuingstudies.alaska.edu/upload/FSTC_Brain_Boy.png",
+  "professions": [],
+  "topic_tags": [
+    "trauma-informed-care"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Trauma Informed Care"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

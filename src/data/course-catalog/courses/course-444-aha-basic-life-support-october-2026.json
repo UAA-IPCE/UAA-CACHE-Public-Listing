@@ -1,0 +1,40 @@
+{
+  "id": 444,
+  "title": "AHA - Basic Life Support - October 2026",
+  "slug": "aha-basic-life-support-october-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4779,
+  "summary": "BLS for Heathcare professionals and trained first responders",
+  "description": "The BLS Provider Course is designed for healthcare professionals and trained first responders who provide care to patients in a wide variety of settings, as well as individuals enrolled in a healthcare training program. Upon successful completion of the course, students receive a course completion eCard, valid for two years. Please contact your employer to ensure that you are selecting the correct course.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Palmer",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Stephen Robertson",
+  "image": "https://continuingstudies.alaska.edu/upload/MSC%20-%20Basic%20Life%20Support.jpeg",
+  "professions": [
+    "first-responder"
+  ],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "First Responders",
+    "Students"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

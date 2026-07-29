@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-29T18:19:05.959Z",
+  "generated_at": "2026-07-29T19:28:50.263Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 120,
+  "total_courses": 504,
   "courses": [
     {
       "id": 1,
@@ -722,6 +722,2310 @@
       "title": "Transforming Touch - Part 2 - April 21-26, 2027",
       "slug": "transforming-touch-part-2-april-21-26-2027",
       "file": "src/data/course-catalog/courses/course-120-transforming-touch-part-2-april-21-26-2027.json"
+    },
+    {
+      "id": 121,
+      "title": "1 OK WIC- Quick Start WIC CPA",
+      "slug": "1-ok-wic-quick-start-wic-cpa",
+      "file": "src/data/course-catalog/courses/course-121-1-ok-wic-quick-start-wic-cpa.json"
+    },
+    {
+      "id": 122,
+      "title": "2 OK WIC- WIC CPA Competency Training",
+      "slug": "2-ok-wic-wic-cpa-competency-training",
+      "file": "src/data/course-catalog/courses/course-122-2-ok-wic-wic-cpa-competency-training.json"
+    },
+    {
+      "id": 123,
+      "title": "3 OK WIC- Midpoint Wellness Check Resources",
+      "slug": "3-ok-wic-midpoint-wellness-check-resources",
+      "file": "src/data/course-catalog/courses/course-123-3-ok-wic-midpoint-wellness-check-resources.json"
+    },
+    {
+      "id": 124,
+      "title": "4 OK WIC- WIC Nutrition Education (Group, Individual, and Approved NE Lessons)",
+      "slug": "4-ok-wic-wic-nutrition-education-group-individual-and-approved-ne-less",
+      "file": "src/data/course-catalog/courses/course-124-4-ok-wic-wic-nutrition-education-group-individual-and-approved-ne-less.json"
+    },
+    {
+      "id": 125,
+      "title": "5 OK WIC- Clerical Competency Training",
+      "slug": "5-ok-wic-clerical-competency-training",
+      "file": "src/data/course-catalog/courses/course-125-5-ok-wic-clerical-competency-training.json"
+    },
+    {
+      "id": 126,
+      "title": "6 OK WIC - Breast Pump Information Module",
+      "slug": "6-ok-wic-breast-pump-information-module",
+      "file": "src/data/course-catalog/courses/course-126-6-ok-wic-breast-pump-information-module.json"
+    },
+    {
+      "id": 127,
+      "title": "7 OK WIC - IBCLC Resource and Nipple Shield Training",
+      "slug": "7-ok-wic-ibclc-resource-and-nipple-shield-training",
+      "file": "src/data/course-catalog/courses/course-127-7-ok-wic-ibclc-resource-and-nipple-shield-training.json"
+    },
+    {
+      "id": 128,
+      "title": "8 OK WIC - Nutritionist Training and Resources",
+      "slug": "8-ok-wic-nutritionist-training-and-resources",
+      "file": "src/data/course-catalog/courses/course-128-8-ok-wic-nutritionist-training-and-resources.json"
+    },
+    {
+      "id": 129,
+      "title": "AHEC Scholars 2023",
+      "slug": "ahec-scholars-2023",
+      "file": "src/data/course-catalog/courses/course-129-ahec-scholars-2023.json"
+    },
+    {
+      "id": 130,
+      "title": "AHEC Scholars 2024",
+      "slug": "ahec-scholars-2024",
+      "file": "src/data/course-catalog/courses/course-130-ahec-scholars-2024.json"
+    },
+    {
+      "id": 131,
+      "title": "AHEC Scholars 2025",
+      "slug": "ahec-scholars-2025",
+      "file": "src/data/course-catalog/courses/course-131-ahec-scholars-2025.json"
+    },
+    {
+      "id": 132,
+      "title": "Aircraft Drawings (1 hour)",
+      "slug": "aircraft-drawings-1-hour",
+      "file": "src/data/course-catalog/courses/course-132-aircraft-drawings-1-hour.json"
+    },
+    {
+      "id": 133,
+      "title": "Aircraft Landing Gear Systems - Wheels, Brakes and Tires (3 hours)",
+      "slug": "aircraft-landing-gear-systems-wheels-brakes-and-tires-3-hours",
+      "file": "src/data/course-catalog/courses/course-133-aircraft-landing-gear-systems-wheels-brakes-and-tires-3-hours.json"
+    },
+    {
+      "id": 134,
+      "title": "Aircraft Landing Gear Systems (2 hours)",
+      "slug": "aircraft-landing-gear-systems-2-hours",
+      "file": "src/data/course-catalog/courses/course-134-aircraft-landing-gear-systems-2-hours.json"
+    },
+    {
+      "id": 135,
+      "title": "Aircraft Materials, Hardware, and Processes - Hardware (2 hours)",
+      "slug": "aircraft-materials-hardware-and-processes-hardware-2-hours",
+      "file": "src/data/course-catalog/courses/course-135-aircraft-materials-hardware-and-processes-hardware-2-hours.json"
+    },
+    {
+      "id": 136,
+      "title": "Aircraft Materials, Hardware, and Processes - Safety Wire (1 hour)",
+      "slug": "aircraft-materials-hardware-and-processes-safety-wire-1-hour",
+      "file": "src/data/course-catalog/courses/course-136-aircraft-materials-hardware-and-processes-safety-wire-1-hour.json"
+    },
+    {
+      "id": 137,
+      "title": "Aircraft Weight and Balance (3 hours)",
+      "slug": "aircraft-weight-and-balance-3-hours",
+      "file": "src/data/course-catalog/courses/course-137-aircraft-weight-and-balance-3-hours.json"
+    },
+    {
+      "id": 138,
+      "title": "Aircraft Welding (2 hours)",
+      "slug": "aircraft-welding-2-hours",
+      "file": "src/data/course-catalog/courses/course-138-aircraft-welding-2-hours.json"
+    },
+    {
+      "id": 139,
+      "title": "ART A590: Art Education: Introduction to Adobe Express and Adobe Creative Suite for Educators",
+      "slug": "art-a590-art-education-introduction-to-adobe-express-and-adobe-creativ",
+      "file": "src/data/course-catalog/courses/course-139-art-a590-art-education-introduction-to-adobe-express-and-adobe-creativ.json"
+    },
+    {
+      "id": 140,
+      "title": "Assistance with Self-Administered Medications (ASAM) FY27",
+      "slug": "assistance-with-self-administered-medications-asam-fy27",
+      "file": "src/data/course-catalog/courses/course-140-assistance-with-self-administered-medications-asam-fy27.json"
+    },
+    {
+      "id": 141,
+      "title": "BF1 OK WIC - Breastfeeding Curriculum 1: All WIC Staff, Including Support Staff",
+      "slug": "bf1-ok-wic-breastfeeding-curriculum-1-all-wic-staff-including-support-",
+      "file": "src/data/course-catalog/courses/course-141-bf1-ok-wic-breastfeeding-curriculum-1-all-wic-staff-including-support-.json"
+    },
+    {
+      "id": 142,
+      "title": "BF2 OK WIC - Breastfeeding Curriculum 2: WIC Peer Counselors and Other WIC Staff that Support New Mothers with Breastfeeding",
+      "slug": "bf2-ok-wic-breastfeeding-curriculum-2-wic-peer-counselors-and-other-wi",
+      "file": "src/data/course-catalog/courses/course-142-bf2-ok-wic-breastfeeding-curriculum-2-wic-peer-counselors-and-other-wi.json"
+    },
+    {
+      "id": 143,
+      "title": "BF3 OK WIC - Breastfeeding Curriculum 3: WIC Competent Professional Authorities (CPAs) and Breastfeeding Coordinators",
+      "slug": "bf3-ok-wic-breastfeeding-curriculum-3-wic-competent-professional-autho",
+      "file": "src/data/course-catalog/courses/course-143-bf3-ok-wic-breastfeeding-curriculum-3-wic-competent-professional-autho.json"
+    },
+    {
+      "id": 144,
+      "title": "BF4 OK WIC - Breastfeeding Curriculum 4: WIC Designated Breastfeeding Experts (DBEs) and IBCLCs",
+      "slug": "bf4-ok-wic-breastfeeding-curriculum-4-wic-designated-breastfeeding-exp",
+      "file": "src/data/course-catalog/courses/course-144-bf4-ok-wic-breastfeeding-curriculum-4-wic-designated-breastfeeding-exp.json"
+    },
+    {
+      "id": 145,
+      "title": "Cleaning and Corrosion Control (1 hour)",
+      "slug": "cleaning-and-corrosion-control-1-hour",
+      "file": "src/data/course-catalog/courses/course-145-cleaning-and-corrosion-control-1-hour.json"
+    },
+    {
+      "id": 146,
+      "title": "COUN A590: Child Abuse: Working with Abused & Neglected Children",
+      "slug": "coun-a590-child-abuse-working-with-abused-neglected-children",
+      "file": "src/data/course-catalog/courses/course-146-coun-a590-child-abuse-working-with-abused-neglected-children.json"
+    },
+    {
+      "id": 147,
+      "title": "COUN A590: Implementing a Comprehensive School Counseling Program Aligned to the ASCA National Model",
+      "slug": "coun-a590-implementing-a-comprehensive-school-counseling-program-align",
+      "file": "src/data/course-catalog/courses/course-147-coun-a590-implementing-a-comprehensive-school-counseling-program-align.json"
+    },
+    {
+      "id": 148,
+      "title": "COUN A590: Suicide Prevention Strategies for Educators",
+      "slug": "coun-a590-suicide-prevention-strategies-for-educators",
+      "file": "src/data/course-catalog/courses/course-148-coun-a590-suicide-prevention-strategies-for-educators.json"
+    },
+    {
+      "id": 149,
+      "title": "CTE A590: Exploring New CTE Curriculum",
+      "slug": "cte-a590-exploring-new-cte-curriculum",
+      "file": "src/data/course-catalog/courses/course-149-cte-a590-exploring-new-cte-curriculum.json"
+    },
+    {
+      "id": 150,
+      "title": "CTE A590: Learn to Teach: Introduction to Process Technology",
+      "slug": "cte-a590-learn-to-teach-introduction-to-process-technology",
+      "file": "src/data/course-catalog/courses/course-150-cte-a590-learn-to-teach-introduction-to-process-technology.json"
+    },
+    {
+      "id": 151,
+      "title": "CTE A590: Personalized Learning for CTE Educators",
+      "slug": "cte-a590-personalized-learning-for-cte-educators",
+      "file": "src/data/course-catalog/courses/course-151-cte-a590-personalized-learning-for-cte-educators.json"
+    },
+    {
+      "id": 152,
+      "title": "ECD A590: Early Childhood: Program Planning",
+      "slug": "ecd-a590-early-childhood-program-planning",
+      "file": "src/data/course-catalog/courses/course-152-ecd-a590-early-childhood-program-planning.json"
+    },
+    {
+      "id": 153,
+      "title": "ECD A590: Early Childhood: Typical & Atypical Development",
+      "slug": "ecd-a590-early-childhood-typical-atypical-development",
+      "file": "src/data/course-catalog/courses/course-153-ecd-a590-early-childhood-typical-atypical-development.json"
+    },
+    {
+      "id": 154,
+      "title": "ECD A591: AAEYC Conference 2025",
+      "slug": "ecd-a591-aaeyc-conference-2025",
+      "file": "src/data/course-catalog/courses/course-154-ecd-a591-aaeyc-conference-2025.json"
+    },
+    {
+      "id": 155,
+      "title": "ED 560: Teaching Secondary Math Conceptually: Meeting Mathematics Standards",
+      "slug": "ed-560-teaching-secondary-math-conceptually-meeting-mathematics-standa",
+      "file": "src/data/course-catalog/courses/course-155-ed-560-teaching-secondary-math-conceptually-meeting-mathematics-standa.json"
+    },
+    {
+      "id": 156,
+      "title": "ED 570: Effective Strategies for Writing and Reading",
+      "slug": "ed-570-effective-strategies-for-writing-and-reading",
+      "file": "src/data/course-catalog/courses/course-156-ed-570-effective-strategies-for-writing-and-reading.json"
+    },
+    {
+      "id": 157,
+      "title": "ED 570: Reading Foundations",
+      "slug": "ed-570-reading-foundations",
+      "file": "src/data/course-catalog/courses/course-157-ed-570-reading-foundations.json"
+    },
+    {
+      "id": 158,
+      "title": "ED A539: Adult SEL: Self-Awareness",
+      "slug": "ed-a539-adult-sel-self-awareness",
+      "file": "src/data/course-catalog/courses/course-158-ed-a539-adult-sel-self-awareness.json"
+    },
+    {
+      "id": 159,
+      "title": "ED A539: Adult SEL: Self-Management",
+      "slug": "ed-a539-adult-sel-self-management",
+      "file": "src/data/course-catalog/courses/course-159-ed-a539-adult-sel-self-management.json"
+    },
+    {
+      "id": 160,
+      "title": "ED A539: Adult SEL: Social-Awareness",
+      "slug": "ed-a539-adult-sel-social-awareness",
+      "file": "src/data/course-catalog/courses/course-160-ed-a539-adult-sel-social-awareness.json"
+    },
+    {
+      "id": 161,
+      "title": "ED A542D: Mentor Communication Skills",
+      "slug": "ed-a542d-mentor-communication-skills",
+      "file": "src/data/course-catalog/courses/course-161-ed-a542d-mentor-communication-skills.json"
+    },
+    {
+      "id": 162,
+      "title": "ED A545: Civics Skills for Today's Students",
+      "slug": "ed-a545-civics-skills-for-today-s-students",
+      "file": "src/data/course-catalog/courses/course-162-ed-a545-civics-skills-for-today-s-students.json"
+    },
+    {
+      "id": 163,
+      "title": "ED A545D: Cultural and History/Social Studies Institute: Yuuyaraq Cultural Immersion Camp/Traditional Yup'ik Knowledge",
+      "slug": "ed-a545d-cultural-and-history-social-studies-institute-yuuyaraq-cultur",
+      "file": "src/data/course-catalog/courses/course-163-ed-a545d-cultural-and-history-social-studies-institute-yuuyaraq-cultur.json"
+    },
+    {
+      "id": 164,
+      "title": "ED A545K: Alaska Studies for Educators: An Examination of Conflicting Perspectives",
+      "slug": "ed-a545k-alaska-studies-for-educators-an-examination-of-conflicting-pe",
+      "file": "src/data/course-catalog/courses/course-164-ed-a545k-alaska-studies-for-educators-an-examination-of-conflicting-pe.json"
+    },
+    {
+      "id": 165,
+      "title": "ED A545K: Alaska Studies for Teachers: An Examination of Conflicting Perspectives",
+      "slug": "ed-a545k-alaska-studies-for-teachers-an-examination-of-conflicting-per",
+      "file": "src/data/course-catalog/courses/course-165-ed-a545k-alaska-studies-for-teachers-an-examination-of-conflicting-per.json"
+    },
+    {
+      "id": 166,
+      "title": "ED A546: Impact of Social Media on Adolescent Behavior in the Middle School Classroom",
+      "slug": "ed-a546-impact-of-social-media-on-adolescent-behavior-in-the-middle-sc",
+      "file": "src/data/course-catalog/courses/course-166-ed-a546-impact-of-social-media-on-adolescent-behavior-in-the-middle-sc.json"
+    },
+    {
+      "id": 167,
+      "title": "ED A546: Alaska Studies Educator Summit",
+      "slug": "ed-a546-alaska-studies-educator-summit",
+      "file": "src/data/course-catalog/courses/course-167-ed-a546-alaska-studies-educator-summit.json"
+    },
+    {
+      "id": 168,
+      "title": "ED A550K: Culturally Responsive Teaching and Alaska Studies: An Induction into Teaching in Alaskan Communities",
+      "slug": "ed-a550k-culturally-responsive-teaching-and-alaska-studies-an-inductio",
+      "file": "src/data/course-catalog/courses/course-168-ed-a550k-culturally-responsive-teaching-and-alaska-studies-an-inductio.json"
+    },
+    {
+      "id": 169,
+      "title": "ED A555: Boosting Your Lessons for Student Engagement",
+      "slug": "ed-a555-boosting-your-lessons-for-student-engagement",
+      "file": "src/data/course-catalog/courses/course-169-ed-a555-boosting-your-lessons-for-student-engagement.json"
+    },
+    {
+      "id": 170,
+      "title": "ED A555: Build School Communities: Brain Smart Classroom Management",
+      "slug": "ed-a555-build-school-communities-brain-smart-classroom-management",
+      "file": "src/data/course-catalog/courses/course-170-ed-a555-build-school-communities-brain-smart-classroom-management.json"
+    },
+    {
+      "id": 171,
+      "title": "ED A555: Classroom Management and Positive Discipline",
+      "slug": "ed-a555-classroom-management-and-positive-discipline",
+      "file": "src/data/course-catalog/courses/course-171-ed-a555-classroom-management-and-positive-discipline.json"
+    },
+    {
+      "id": 172,
+      "title": "ED A555: Coaching Collaborative Teams",
+      "slug": "ed-a555-coaching-collaborative-teams",
+      "file": "src/data/course-catalog/courses/course-172-ed-a555-coaching-collaborative-teams.json"
+    },
+    {
+      "id": 173,
+      "title": "ED A555: Conscious Discipline Book Talk",
+      "slug": "ed-a555-conscious-discipline-book-talk",
+      "file": "src/data/course-catalog/courses/course-173-ed-a555-conscious-discipline-book-talk.json"
+    },
+    {
+      "id": 174,
+      "title": "ED A555: Creating a Positive and Organized Educational Environment",
+      "slug": "ed-a555-creating-a-positive-and-organized-educational-environment",
+      "file": "src/data/course-catalog/courses/course-174-ed-a555-creating-a-positive-and-organized-educational-environment.json"
+    },
+    {
+      "id": 175,
+      "title": "ED A555: Differentiated Learning: How to Teach to Varying Ability Levels",
+      "slug": "ed-a555-differentiated-learning-how-to-teach-to-varying-ability-levels",
+      "file": "src/data/course-catalog/courses/course-175-ed-a555-differentiated-learning-how-to-teach-to-varying-ability-levels.json"
+    },
+    {
+      "id": 176,
+      "title": "ED A555: Educational Assessment: Assessing Student Learning in the Classroom",
+      "slug": "ed-a555-educational-assessment-assessing-student-learning-in-the-class",
+      "file": "src/data/course-catalog/courses/course-176-ed-a555-educational-assessment-assessing-student-learning-in-the-class.json"
+    },
+    {
+      "id": 177,
+      "title": "ED A555: Elevating Instruction: Strategies from the Good Teaching Institute",
+      "slug": "ed-a555-elevating-instruction-strategies-from-the-good-teaching-instit",
+      "file": "src/data/course-catalog/courses/course-177-ed-a555-elevating-instruction-strategies-from-the-good-teaching-instit.json"
+    },
+    {
+      "id": 178,
+      "title": "ED A555: High Leverage Practices for Effective Classroom Management",
+      "slug": "ed-a555-high-leverage-practices-for-effective-classroom-management",
+      "file": "src/data/course-catalog/courses/course-178-ed-a555-high-leverage-practices-for-effective-classroom-management.json"
+    },
+    {
+      "id": 179,
+      "title": "ED A555: Love and Logic for Educators",
+      "slug": "ed-a555-love-and-logic-for-educators",
+      "file": "src/data/course-catalog/courses/course-179-ed-a555-love-and-logic-for-educators.json"
+    },
+    {
+      "id": 180,
+      "title": "ED A555: Maximizing Learning for All through Differentiation",
+      "slug": "ed-a555-maximizing-learning-for-all-through-differentiation",
+      "file": "src/data/course-catalog/courses/course-180-ed-a555-maximizing-learning-for-all-through-differentiation.json"
+    },
+    {
+      "id": 181,
+      "title": "ED A555: National Board Certification: Jump Start 3.0",
+      "slug": "ed-a555-national-board-certification-jump-start-3-0",
+      "file": "src/data/course-catalog/courses/course-181-ed-a555-national-board-certification-jump-start-3-0.json"
+    },
+    {
+      "id": 182,
+      "title": "ED A555: Powerful Partnerships",
+      "slug": "ed-a555-powerful-partnerships",
+      "file": "src/data/course-catalog/courses/course-182-ed-a555-powerful-partnerships.json"
+    },
+    {
+      "id": 183,
+      "title": "ED A555: Response to Intervention",
+      "slug": "ed-a555-response-to-intervention",
+      "file": "src/data/course-catalog/courses/course-183-ed-a555-response-to-intervention.json"
+    },
+    {
+      "id": 184,
+      "title": "ED A555: Strategies to Make Learning Stick",
+      "slug": "ed-a555-strategies-to-make-learning-stick",
+      "file": "src/data/course-catalog/courses/course-184-ed-a555-strategies-to-make-learning-stick.json"
+    },
+    {
+      "id": 185,
+      "title": "ED A555: The Brilliance of Playful Learning for All Ages",
+      "slug": "ed-a555-the-brilliance-of-playful-learning-for-all-ages",
+      "file": "src/data/course-catalog/courses/course-185-ed-a555-the-brilliance-of-playful-learning-for-all-ages.json"
+    },
+    {
+      "id": 186,
+      "title": "ED A555: The Ron Clark Academy House Mania: Student Engagement Through the House System",
+      "slug": "ed-a555-the-ron-clark-academy-house-mania-student-engagement-through-t",
+      "file": "src/data/course-catalog/courses/course-186-ed-a555-the-ron-clark-academy-house-mania-student-engagement-through-t.json"
+    },
+    {
+      "id": 187,
+      "title": "ED A555: Thinking and Study Skills for Student Success",
+      "slug": "ed-a555-thinking-and-study-skills-for-student-success",
+      "file": "src/data/course-catalog/courses/course-187-ed-a555-thinking-and-study-skills-for-student-success.json"
+    },
+    {
+      "id": 188,
+      "title": "ED A555: Waldorf-inspired Meaningful Learning",
+      "slug": "ed-a555-waldorf-inspired-meaningful-learning",
+      "file": "src/data/course-catalog/courses/course-188-ed-a555-waldorf-inspired-meaningful-learning.json"
+    },
+    {
+      "id": 189,
+      "title": "ED A555B: Multicultural Studies for Alaska's Teachers",
+      "slug": "ed-a555b-multicultural-studies-for-alaska-s-teachers",
+      "file": "src/data/course-catalog/courses/course-189-ed-a555b-multicultural-studies-for-alaska-s-teachers.json"
+    },
+    {
+      "id": 190,
+      "title": "ED A555K: Culturally Responsive Teaching: A Framework for Teaching and Learning in Alaska",
+      "slug": "ed-a555k-culturally-responsive-teaching-a-framework-for-teaching-and-l",
+      "file": "src/data/course-catalog/courses/course-190-ed-a555k-culturally-responsive-teaching-a-framework-for-teaching-and-l.json"
+    },
+    {
+      "id": 191,
+      "title": "ED A556: Classroom Embedded Performance Assessment",
+      "slug": "ed-a556-classroom-embedded-performance-assessment",
+      "file": "src/data/course-catalog/courses/course-191-ed-a556-classroom-embedded-performance-assessment.json"
+    },
+    {
+      "id": 192,
+      "title": "ED A556: Curating Content",
+      "slug": "ed-a556-curating-content",
+      "file": "src/data/course-catalog/courses/course-192-ed-a556-curating-content.json"
+    },
+    {
+      "id": 193,
+      "title": "ED A556: Curriculum Research and Development",
+      "slug": "ed-a556-curriculum-research-and-development",
+      "file": "src/data/course-catalog/courses/course-193-ed-a556-curriculum-research-and-development.json"
+    },
+    {
+      "id": 194,
+      "title": "ED A556: Descriptive Feedback for Student Learning",
+      "slug": "ed-a556-descriptive-feedback-for-student-learning",
+      "file": "src/data/course-catalog/courses/course-194-ed-a556-descriptive-feedback-for-student-learning.json"
+    },
+    {
+      "id": 195,
+      "title": "ED A556: Differentiated Coaching in Usage of Growth Mindset and Service",
+      "slug": "ed-a556-differentiated-coaching-in-usage-of-growth-mindset-and-service",
+      "file": "src/data/course-catalog/courses/course-195-ed-a556-differentiated-coaching-in-usage-of-growth-mindset-and-service.json"
+    },
+    {
+      "id": 196,
+      "title": "ED A556: Eliciting Accurate Evidence of Student Learning",
+      "slug": "ed-a556-eliciting-accurate-evidence-of-student-learning",
+      "file": "src/data/course-catalog/courses/course-196-ed-a556-eliciting-accurate-evidence-of-student-learning.json"
+    },
+    {
+      "id": 197,
+      "title": "ED A556: Formative Assessment in the Teaching and Learning Cycle",
+      "slug": "ed-a556-formative-assessment-in-the-teaching-and-learning-cycle",
+      "file": "src/data/course-catalog/courses/course-197-ed-a556-formative-assessment-in-the-teaching-and-learning-cycle.json"
+    },
+    {
+      "id": 198,
+      "title": "ED A556: Love & Logic - 9 Essential Skills",
+      "slug": "ed-a556-love-logic-9-essential-skills",
+      "file": "src/data/course-catalog/courses/course-198-ed-a556-love-logic-9-essential-skills.json"
+    },
+    {
+      "id": 199,
+      "title": "ED A556: Preparing to Teach Waldorf Education 2025-2026: Grades 1-8",
+      "slug": "ed-a556-preparing-to-teach-waldorf-education-2025-2026-grades-1-8",
+      "file": "src/data/course-catalog/courses/course-199-ed-a556-preparing-to-teach-waldorf-education-2025-2026-grades-1-8.json"
+    },
+    {
+      "id": 200,
+      "title": "ED A556: Transformative Teaching 2026: Growth Through Study and Reflection",
+      "slug": "ed-a556-transformative-teaching-2026-growth-through-study-and-reflecti",
+      "file": "src/data/course-catalog/courses/course-200-ed-a556-transformative-teaching-2026-growth-through-study-and-reflecti.json"
+    },
+    {
+      "id": 201,
+      "title": "ED A560: AGA MTSS Support Resources",
+      "slug": "ed-a560-aga-mtss-support-resources",
+      "file": "src/data/course-catalog/courses/course-201-ed-a560-aga-mtss-support-resources.json"
+    },
+    {
+      "id": 202,
+      "title": "ED A560: Exploring Real-World Connections in Math",
+      "slug": "ed-a560-exploring-real-world-connections-in-math",
+      "file": "src/data/course-catalog/courses/course-202-ed-a560-exploring-real-world-connections-in-math.json"
+    },
+    {
+      "id": 203,
+      "title": "ED A560: Promoting Problem Solving Strategies in Math",
+      "slug": "ed-a560-promoting-problem-solving-strategies-in-math",
+      "file": "src/data/course-catalog/courses/course-203-ed-a560-promoting-problem-solving-strategies-in-math.json"
+    },
+    {
+      "id": 204,
+      "title": "ED A561: Attend to Precision in Mathematics",
+      "slug": "ed-a561-attend-to-precision-in-mathematics",
+      "file": "src/data/course-catalog/courses/course-204-ed-a561-attend-to-precision-in-mathematics.json"
+    },
+    {
+      "id": 205,
+      "title": "ED A561: Construct Viable Arguments and Critique the Reasoning of Others",
+      "slug": "ed-a561-construct-viable-arguments-and-critique-the-reasoning-of-other",
+      "file": "src/data/course-catalog/courses/course-205-ed-a561-construct-viable-arguments-and-critique-the-reasoning-of-other.json"
+    },
+    {
+      "id": 206,
+      "title": "ED A561: Look for and Express Regularity in Repeated Reasoning",
+      "slug": "ed-a561-look-for-and-express-regularity-in-repeated-reasoning",
+      "file": "src/data/course-catalog/courses/course-206-ed-a561-look-for-and-express-regularity-in-repeated-reasoning.json"
+    },
+    {
+      "id": 207,
+      "title": "ED A561: Look for and Make Use of Mathematical Structure",
+      "slug": "ed-a561-look-for-and-make-use-of-mathematical-structure",
+      "file": "src/data/course-catalog/courses/course-207-ed-a561-look-for-and-make-use-of-mathematical-structure.json"
+    },
+    {
+      "id": 208,
+      "title": "ED A561: Make Sense of Mathematical Problems and Persevere in Solving Them",
+      "slug": "ed-a561-make-sense-of-mathematical-problems-and-persevere-in-solving-t",
+      "file": "src/data/course-catalog/courses/course-208-ed-a561-make-sense-of-mathematical-problems-and-persevere-in-solving-t.json"
+    },
+    {
+      "id": 209,
+      "title": "ED A561: Model with Mathematics",
+      "slug": "ed-a561-model-with-mathematics",
+      "file": "src/data/course-catalog/courses/course-209-ed-a561-model-with-mathematics.json"
+    },
+    {
+      "id": 210,
+      "title": "ED A561: Reason Abstractly and Quantitatively in Mathematics",
+      "slug": "ed-a561-reason-abstractly-and-quantitatively-in-mathematics",
+      "file": "src/data/course-catalog/courses/course-210-ed-a561-reason-abstractly-and-quantitatively-in-mathematics.json"
+    },
+    {
+      "id": 211,
+      "title": "ED A561: Strategies to Empower All Students for Success in Math – Student Camp",
+      "slug": "ed-a561-strategies-to-empower-all-students-for-success-in-math-student",
+      "file": "src/data/course-catalog/courses/course-211-ed-a561-strategies-to-empower-all-students-for-success-in-math-student.json"
+    },
+    {
+      "id": 212,
+      "title": "ED A561: Strategies to Empower All Students for Success in Math Part 1",
+      "slug": "ed-a561-strategies-to-empower-all-students-for-success-in-math-part-1",
+      "file": "src/data/course-catalog/courses/course-212-ed-a561-strategies-to-empower-all-students-for-success-in-math-part-1.json"
+    },
+    {
+      "id": 213,
+      "title": "ED A561: Use Appropriate Mathematical Tools Strategically",
+      "slug": "ed-a561-use-appropriate-mathematical-tools-strategically",
+      "file": "src/data/course-catalog/courses/course-213-ed-a561-use-appropriate-mathematical-tools-strategically.json"
+    },
+    {
+      "id": 214,
+      "title": "ED A565: AI for Educators",
+      "slug": "ed-a565-ai-for-educators",
+      "file": "src/data/course-catalog/courses/course-214-ed-a565-ai-for-educators.json"
+    },
+    {
+      "id": 215,
+      "title": "ED A565: AI in the Classroom",
+      "slug": "ed-a565-ai-in-the-classroom",
+      "file": "src/data/course-catalog/courses/course-215-ed-a565-ai-in-the-classroom.json"
+    },
+    {
+      "id": 216,
+      "title": "ED A565: Educational Technology: Effective Use of Technology in the Classroom",
+      "slug": "ed-a565-educational-technology-effective-use-of-technology-in-the-clas",
+      "file": "src/data/course-catalog/courses/course-216-ed-a565-educational-technology-effective-use-of-technology-in-the-clas.json"
+    },
+    {
+      "id": 217,
+      "title": "ED A565: Elevating Educational Technology Implementation",
+      "slug": "ed-a565-elevating-educational-technology-implementation",
+      "file": "src/data/course-catalog/courses/course-217-ed-a565-elevating-educational-technology-implementation.json"
+    },
+    {
+      "id": 218,
+      "title": "ED A565: Integrating Technology: Kami, Pear Deck, Google, & Adobe Express in the Classroom",
+      "slug": "ed-a565-integrating-technology-kami-pear-deck-google-adobe-express-in-",
+      "file": "src/data/course-catalog/courses/course-218-ed-a565-integrating-technology-kami-pear-deck-google-adobe-express-in-.json"
+    },
+    {
+      "id": 219,
+      "title": "ED A565: Level Up with Games in the Classroom",
+      "slug": "ed-a565-level-up-with-games-in-the-classroom",
+      "file": "src/data/course-catalog/courses/course-219-ed-a565-level-up-with-games-in-the-classroom.json"
+    },
+    {
+      "id": 220,
+      "title": "ED A565: Using FigJam Digital Whiteboards to Engage and Collaborate",
+      "slug": "ed-a565-using-figjam-digital-whiteboards-to-engage-and-collaborate",
+      "file": "src/data/course-catalog/courses/course-220-ed-a565-using-figjam-digital-whiteboards-to-engage-and-collaborate.json"
+    },
+    {
+      "id": 221,
+      "title": "ED A566: ASTE Conference 2026: CTRL+ALT+EDU",
+      "slug": "ed-a566-aste-conference-2026-ctrl-alt-edu",
+      "file": "src/data/course-catalog/courses/course-221-ed-a566-aste-conference-2026-ctrl-alt-edu.json"
+    },
+    {
+      "id": 222,
+      "title": "ED A566: Google Educator Certification",
+      "slug": "ed-a566-google-educator-certification",
+      "file": "src/data/course-catalog/courses/course-222-ed-a566-google-educator-certification.json"
+    },
+    {
+      "id": 223,
+      "title": "ED A569: Alaska Science of Reading Symposium 2025",
+      "slug": "ed-a569-alaska-science-of-reading-symposium-2025",
+      "file": "src/data/course-catalog/courses/course-223-ed-a569-alaska-science-of-reading-symposium-2025.json"
+    },
+    {
+      "id": 224,
+      "title": "ED A569: ED A569: Language Essentials for Teachers of Reading and Spelling (LETRS), Units 5-6",
+      "slug": "ed-a569-ed-a569-language-essentials-for-teachers-of-reading-and-spelli",
+      "file": "src/data/course-catalog/courses/course-224-ed-a569-ed-a569-language-essentials-for-teachers-of-reading-and-spelli.json"
+    },
+    {
+      "id": 225,
+      "title": "ED A569: Language Essentials for Teachers of Reading and Spelling (LETRS), Units 7-8",
+      "slug": "ed-a569-language-essentials-for-teachers-of-reading-and-spelling-letrs",
+      "file": "src/data/course-catalog/courses/course-225-ed-a569-language-essentials-for-teachers-of-reading-and-spelling-letrs.json"
+    },
+    {
+      "id": 226,
+      "title": "ED A569: The Science of Reading for Leaders",
+      "slug": "ed-a569-the-science-of-reading-for-leaders",
+      "file": "src/data/course-catalog/courses/course-226-ed-a569-the-science-of-reading-for-leaders.json"
+    },
+    {
+      "id": 227,
+      "title": "ED A570: Five Keys to Reading Instruction",
+      "slug": "ed-a570-five-keys-to-reading-instruction",
+      "file": "src/data/course-catalog/courses/course-227-ed-a570-five-keys-to-reading-instruction.json"
+    },
+    {
+      "id": 228,
+      "title": "ED A570: Reading Fundamentals 3: The Elements of Effective Reading Instruction & Assessment",
+      "slug": "ed-a570-reading-fundamentals-3-the-elements-of-effective-reading-instr",
+      "file": "src/data/course-catalog/courses/course-228-ed-a570-reading-fundamentals-3-the-elements-of-effective-reading-instr.json"
+    },
+    {
+      "id": 229,
+      "title": "ED A570: Transform Reading Instruction with Tech Tools",
+      "slug": "ed-a570-transform-reading-instruction-with-tech-tools",
+      "file": "src/data/course-catalog/courses/course-229-ed-a570-transform-reading-instruction-with-tech-tools.json"
+    },
+    {
+      "id": 230,
+      "title": "ED A571: Alaskans for Language Acquisition (AFLA) 2024 Conference: Engaging the Future-From New Technologies to Interpersonal Relationships",
+      "slug": "ed-a571-alaskans-for-language-acquisition-afla-2024-conference-engagin",
+      "file": "src/data/course-catalog/courses/course-230-ed-a571-alaskans-for-language-acquisition-afla-2024-conference-engagin.json"
+    },
+    {
+      "id": 231,
+      "title": "ED A571: Honoring Learners and Their Learning Through Evaluation and Equitable Grading Practices",
+      "slug": "ed-a571-honoring-learners-and-their-learning-through-evaluation-and-eq",
+      "file": "src/data/course-catalog/courses/course-231-ed-a571-honoring-learners-and-their-learning-through-evaluation-and-eq.json"
+    },
+    {
+      "id": 232,
+      "title": "ED A571: IPA's: The World Language teachers' guide to seamless blending of instruction and assessment, not your father's IPA!",
+      "slug": "ed-a571-ipa-s-the-world-language-teachers-guide-to-seamless-blending-o",
+      "file": "src/data/course-catalog/courses/course-232-ed-a571-ipa-s-the-world-language-teachers-guide-to-seamless-blending-o.json"
+    },
+    {
+      "id": 233,
+      "title": "ED A574: Cultural Classroom Adjustments and Trauma Awareness for Newcomer Students",
+      "slug": "ed-a574-cultural-classroom-adjustments-and-trauma-awareness-for-newcom",
+      "file": "src/data/course-catalog/courses/course-233-ed-a574-cultural-classroom-adjustments-and-trauma-awareness-for-newcom.json"
+    },
+    {
+      "id": 234,
+      "title": "ED A575: Addressing the Needs of Students for Behavior and Academic Success Through Restorative Practices",
+      "slug": "ed-a575-addressing-the-needs-of-students-for-behavior-and-academic-suc",
+      "file": "src/data/course-catalog/courses/course-234-ed-a575-addressing-the-needs-of-students-for-behavior-and-academic-suc.json"
+    },
+    {
+      "id": 235,
+      "title": "ED A575: Building Literacy and Social Emotional Learning through Read Alouds",
+      "slug": "ed-a575-building-literacy-and-social-emotional-learning-through-read-a",
+      "file": "src/data/course-catalog/courses/course-235-ed-a575-building-literacy-and-social-emotional-learning-through-read-a.json"
+    },
+    {
+      "id": 236,
+      "title": "ED A575: College & Career Exploration & Personal Finance Implementation",
+      "slug": "ed-a575-college-career-exploration-personal-finance-implementation",
+      "file": "src/data/course-catalog/courses/course-236-ed-a575-college-career-exploration-personal-finance-implementation.json"
+    },
+    {
+      "id": 237,
+      "title": "ED A575: College & Career Exploration & Personal Finance Implementation - Exploring Personal Finance Offerings",
+      "slug": "ed-a575-college-career-exploration-personal-finance-implementation-exp",
+      "file": "src/data/course-catalog/courses/course-237-ed-a575-college-career-exploration-personal-finance-implementation-exp.json"
+    },
+    {
+      "id": 238,
+      "title": "ED A575: Middle School SEL Curriculum Review Community of Practice",
+      "slug": "ed-a575-middle-school-sel-curriculum-review-community-of-practice",
+      "file": "src/data/course-catalog/courses/course-238-ed-a575-middle-school-sel-curriculum-review-community-of-practice.json"
+    },
+    {
+      "id": 239,
+      "title": "ED A575: Science, Literacy and the Arts Institute",
+      "slug": "ed-a575-science-literacy-and-the-arts-institute",
+      "file": "src/data/course-catalog/courses/course-239-ed-a575-science-literacy-and-the-arts-institute.json"
+    },
+    {
+      "id": 240,
+      "title": "ED A575: Second Order Change",
+      "slug": "ed-a575-second-order-change",
+      "file": "src/data/course-catalog/courses/course-240-ed-a575-second-order-change.json"
+    },
+    {
+      "id": 241,
+      "title": "ED A575: Self-Regulated Strategy Development in Writing with thinkSRSD",
+      "slug": "ed-a575-self-regulated-strategy-development-in-writing-with-thinksrsd",
+      "file": "src/data/course-catalog/courses/course-241-ed-a575-self-regulated-strategy-development-in-writing-with-thinksrsd.json"
+    },
+    {
+      "id": 242,
+      "title": "ED A575: Social & Emotional Learning: Optimizing Learning Environments with Life Skills",
+      "slug": "ed-a575-social-emotional-learning-optimizing-learning-environments-wit",
+      "file": "src/data/course-catalog/courses/course-242-ed-a575-social-emotional-learning-optimizing-learning-environments-wit.json"
+    },
+    {
+      "id": 243,
+      "title": "ED A575: Social Emotional Learning and the Arts Institute",
+      "slug": "ed-a575-social-emotional-learning-and-the-arts-institute",
+      "file": "src/data/course-catalog/courses/course-243-ed-a575-social-emotional-learning-and-the-arts-institute.json"
+    },
+    {
+      "id": 244,
+      "title": "ED A575: Strategies for Blending Financial Literacy into the Curriculum",
+      "slug": "ed-a575-strategies-for-blending-financial-literacy-into-the-curriculum",
+      "file": "src/data/course-catalog/courses/course-244-ed-a575-strategies-for-blending-financial-literacy-into-the-curriculum.json"
+    },
+    {
+      "id": 245,
+      "title": "ED A576: Innovating Teacher Retention in Alaska (I-TRAK)",
+      "slug": "ed-a576-innovating-teacher-retention-in-alaska-i-trak",
+      "file": "src/data/course-catalog/courses/course-245-ed-a576-innovating-teacher-retention-in-alaska-i-trak.json"
+    },
+    {
+      "id": 246,
+      "title": "ED A576: Student Support Services Design Institute",
+      "slug": "ed-a576-student-support-services-design-institute",
+      "file": "src/data/course-catalog/courses/course-246-ed-a576-student-support-services-design-institute.json"
+    },
+    {
+      "id": 247,
+      "title": "ED A580: Sounds of Our Changing Climate with the Anchorage Museum",
+      "slug": "ed-a580-sounds-of-our-changing-climate-with-the-anchorage-museum",
+      "file": "src/data/course-catalog/courses/course-247-ed-a580-sounds-of-our-changing-climate-with-the-anchorage-museum.json"
+    },
+    {
+      "id": 248,
+      "title": "ED A591: Alaska Music Educators Association Conference 2026",
+      "slug": "ed-a591-alaska-music-educators-association-conference-2026",
+      "file": "src/data/course-catalog/courses/course-248-ed-a591-alaska-music-educators-association-conference-2026.json"
+    },
+    {
+      "id": 249,
+      "title": "ED A591: Children's Literature Through Music: Bringing Children's Picture Books to Life Through Active Music Making",
+      "slug": "ed-a591-children-s-literature-through-music-bringing-children-s-pictur",
+      "file": "src/data/course-catalog/courses/course-249-ed-a591-children-s-literature-through-music-bringing-children-s-pictur.json"
+    },
+    {
+      "id": 250,
+      "title": "ED A591: Digital Storytelling with Chickaloonies (Part 1)",
+      "slug": "ed-a591-digital-storytelling-with-chickaloonies-part-1",
+      "file": "src/data/course-catalog/courses/course-250-ed-a591-digital-storytelling-with-chickaloonies-part-1.json"
+    },
+    {
+      "id": 251,
+      "title": "ED A591: Digital Tools for Teaching Digital Art and Design (Part 1)",
+      "slug": "ed-a591-digital-tools-for-teaching-digital-art-and-design-part-1",
+      "file": "src/data/course-catalog/courses/course-251-ed-a591-digital-tools-for-teaching-digital-art-and-design-part-1.json"
+    },
+    {
+      "id": 252,
+      "title": "ED A591: Learning to Invest – How to Diversify Your Teaching Portfolio for Long-Term Returns",
+      "slug": "ed-a591-learning-to-invest-how-to-diversify-your-teaching-portfolio-fo",
+      "file": "src/data/course-catalog/courses/course-252-ed-a591-learning-to-invest-how-to-diversify-your-teaching-portfolio-fo.json"
+    },
+    {
+      "id": 253,
+      "title": "ED A591: Prep and Planning for K-5 Art Pilot",
+      "slug": "ed-a591-prep-and-planning-for-k-5-art-pilot",
+      "file": "src/data/course-catalog/courses/course-253-ed-a591-prep-and-planning-for-k-5-art-pilot.json"
+    },
+    {
+      "id": 254,
+      "title": "ED A591: Scientific Inquiry into Orchestral Potential",
+      "slug": "ed-a591-scientific-inquiry-into-orchestral-potential",
+      "file": "src/data/course-catalog/courses/course-254-ed-a591-scientific-inquiry-into-orchestral-potential.json"
+    },
+    {
+      "id": 255,
+      "title": "ED A591: Strategies and Resources for the Elementary Music Classroom",
+      "slug": "ed-a591-strategies-and-resources-for-the-elementary-music-classroom",
+      "file": "src/data/course-catalog/courses/course-255-ed-a591-strategies-and-resources-for-the-elementary-music-classroom.json"
+    },
+    {
+      "id": 256,
+      "title": "ED A591: Systematically Developing your Choir Program",
+      "slug": "ed-a591-systematically-developing-your-choir-program",
+      "file": "src/data/course-catalog/courses/course-256-ed-a591-systematically-developing-your-choir-program.json"
+    },
+    {
+      "id": 257,
+      "title": "ED A592: Visual Arts Integration: Multimedia Object Story",
+      "slug": "ed-a592-visual-arts-integration-multimedia-object-story",
+      "file": "src/data/course-catalog/courses/course-257-ed-a592-visual-arts-integration-multimedia-object-story.json"
+    },
+    {
+      "id": 258,
+      "title": "EDL A550: Ethical Leadership & Leading Teams in Schools",
+      "slug": "edl-a550-ethical-leadership-leading-teams-in-schools",
+      "file": "src/data/course-catalog/courses/course-258-edl-a550-ethical-leadership-leading-teams-in-schools.json"
+    },
+    {
+      "id": 259,
+      "title": "EDL A550: Finding Resilience in Academic and Emotional Adversity",
+      "slug": "edl-a550-finding-resilience-in-academic-and-emotional-adversity",
+      "file": "src/data/course-catalog/courses/course-259-edl-a550-finding-resilience-in-academic-and-emotional-adversity.json"
+    },
+    {
+      "id": 260,
+      "title": "EDL A550: Lost at School: Why Our Kids with Behavioral Challenges are Falling Through the Cracks and How We Can Help Them",
+      "slug": "edl-a550-lost-at-school-why-our-kids-with-behavioral-challenges-are-fa",
+      "file": "src/data/course-catalog/courses/course-260-edl-a550-lost-at-school-why-our-kids-with-behavioral-challenges-are-fa.json"
+    },
+    {
+      "id": 261,
+      "title": "EDL A550: Nurturing Kindness in Classrooms, Schools, and Beyond",
+      "slug": "edl-a550-nurturing-kindness-in-classrooms-schools-and-beyond",
+      "file": "src/data/course-catalog/courses/course-261-edl-a550-nurturing-kindness-in-classrooms-schools-and-beyond.json"
+    },
+    {
+      "id": 262,
+      "title": "EDL A550: Trauma and the Brain: Strategies to Address Trauma with the Brain and Body in Mind",
+      "slug": "edl-a550-trauma-and-the-brain-strategies-to-address-trauma-with-the-br",
+      "file": "src/data/course-catalog/courses/course-262-edl-a550-trauma-and-the-brain-strategies-to-address-trauma-with-the-br.json"
+    },
+    {
+      "id": 263,
+      "title": "EDL A551: Project Transformed: Trauma Engaged Educators",
+      "slug": "edl-a551-project-transformed-trauma-engaged-educators",
+      "file": "src/data/course-catalog/courses/course-263-edl-a551-project-transformed-trauma-engaged-educators.json"
+    },
+    {
+      "id": 264,
+      "title": "EDL A551: Restorative Practices in Action",
+      "slug": "edl-a551-restorative-practices-in-action",
+      "file": "src/data/course-catalog/courses/course-264-edl-a551-restorative-practices-in-action.json"
+    },
+    {
+      "id": 265,
+      "title": "EDL A590: Ethical Leadership & Leading Teams in Schools",
+      "slug": "edl-a590-ethical-leadership-leading-teams-in-schools",
+      "file": "src/data/course-catalog/courses/course-265-edl-a590-ethical-leadership-leading-teams-in-schools.json"
+    },
+    {
+      "id": 266,
+      "title": "EDL A590: Leading with Awareness and Accountability",
+      "slug": "edl-a590-leading-with-awareness-and-accountability",
+      "file": "src/data/course-catalog/courses/course-266-edl-a590-leading-with-awareness-and-accountability.json"
+    },
+    {
+      "id": 267,
+      "title": "EDL A590: Learning Focused Supervision",
+      "slug": "edl-a590-learning-focused-supervision",
+      "file": "src/data/course-catalog/courses/course-267-edl-a590-learning-focused-supervision.json"
+    },
+    {
+      "id": 268,
+      "title": "EDL A591: Continuous Improvement: Cognia Schools/Systems",
+      "slug": "edl-a591-continuous-improvement-cognia-schools-systems",
+      "file": "src/data/course-catalog/courses/course-268-edl-a591-continuous-improvement-cognia-schools-systems.json"
+    },
+    {
+      "id": 269,
+      "title": "EDPE A590: Make it, Take it: Ready Made PE Games and Activities",
+      "slug": "edpe-a590-make-it-take-it-ready-made-pe-games-and-activities",
+      "file": "src/data/course-catalog/courses/course-269-edpe-a590-make-it-take-it-ready-made-pe-games-and-activities.json"
+    },
+    {
+      "id": 270,
+      "title": "EDPE A590: PE Games!",
+      "slug": "edpe-a590-pe-games",
+      "file": "src/data/course-catalog/courses/course-270-edpe-a590-pe-games.json"
+    },
+    {
+      "id": 271,
+      "title": "EDSE A536K: Alaska Statewide Special Education Conference (ASSEC) 2026",
+      "slug": "edse-a536k-alaska-statewide-special-education-conference-assec-2026",
+      "file": "src/data/course-catalog/courses/course-271-edse-a536k-alaska-statewide-special-education-conference-assec-2026.json"
+    },
+    {
+      "id": 272,
+      "title": "EDSE A590: Behavior is Language: Strategies for Managing Disruptive Behavior",
+      "slug": "edse-a590-behavior-is-language-strategies-for-managing-disruptive-beha",
+      "file": "src/data/course-catalog/courses/course-272-edse-a590-behavior-is-language-strategies-for-managing-disruptive-beha.json"
+    },
+    {
+      "id": 273,
+      "title": "EDSE A590: Behavior Support for Students with Autism",
+      "slug": "edse-a590-behavior-support-for-students-with-autism",
+      "file": "src/data/course-catalog/courses/course-273-edse-a590-behavior-support-for-students-with-autism.json"
+    },
+    {
+      "id": 274,
+      "title": "EDSE A590: Leadership in Neurodevelopmental and Related Disorders",
+      "slug": "edse-a590-leadership-in-neurodevelopmental-and-related-disorders",
+      "file": "src/data/course-catalog/courses/course-274-edse-a590-leadership-in-neurodevelopmental-and-related-disorders.json"
+    },
+    {
+      "id": 275,
+      "title": "EDSE A591: Introduction to the Executive Function Blueprint",
+      "slug": "edse-a591-introduction-to-the-executive-function-blueprint",
+      "file": "src/data/course-catalog/courses/course-275-edse-a591-introduction-to-the-executive-function-blueprint.json"
+    },
+    {
+      "id": 276,
+      "title": "Ethics and Boundaries for the Direct Care Worker FY27",
+      "slug": "ethics-and-boundaries-for-the-direct-care-worker-fy27",
+      "file": "src/data/course-catalog/courses/course-276-ethics-and-boundaries-for-the-direct-care-worker-fy27.json"
+    },
+    {
+      "id": 277,
+      "title": "Facilitate Return for Vaccination",
+      "slug": "facilitate-return-for-vaccination",
+      "file": "src/data/course-catalog/courses/course-277-facilitate-return-for-vaccination.json"
+    },
+    {
+      "id": 278,
+      "title": "Fall Prevention for Direct Care Workers FY27",
+      "slug": "fall-prevention-for-direct-care-workers-fy27",
+      "file": "src/data/course-catalog/courses/course-278-fall-prevention-for-direct-care-workers-fy27.json"
+    },
+    {
+      "id": 279,
+      "title": "Fluid Lines and Fittings (1 hour)",
+      "slug": "fluid-lines-and-fittings-1-hour",
+      "file": "src/data/course-catalog/courses/course-279-fluid-lines-and-fittings-1-hour.json"
+    },
+    {
+      "id": 280,
+      "title": "Fundamentals of Aircraft Gas Turbine Engines (1 hour)",
+      "slug": "fundamentals-of-aircraft-gas-turbine-engines-1-hour",
+      "file": "src/data/course-catalog/courses/course-280-fundamentals-of-aircraft-gas-turbine-engines-1-hour.json"
+    },
+    {
+      "id": 281,
+      "title": "Fundamentals of Aircraft Reciprocating Engines (2 hours)",
+      "slug": "fundamentals-of-aircraft-reciprocating-engines-2-hours",
+      "file": "src/data/course-catalog/courses/course-281-fundamentals-of-aircraft-reciprocating-engines-2-hours.json"
+    },
+    {
+      "id": 282,
+      "title": "Fundamentals of Electricity and Electronics - AC/DC Power Generation (3 hours)",
+      "slug": "fundamentals-of-electricity-and-electronics-ac-dc-power-generation-3-h",
+      "file": "src/data/course-catalog/courses/course-282-fundamentals-of-electricity-and-electronics-ac-dc-power-generation-3-h.json"
+    },
+    {
+      "id": 283,
+      "title": "Fundamentals of Electricity and Electronics - Intro to AC (3 hours)",
+      "slug": "fundamentals-of-electricity-and-electronics-intro-to-ac-3-hours",
+      "file": "src/data/course-catalog/courses/course-283-fundamentals-of-electricity-and-electronics-intro-to-ac-3-hours.json"
+    },
+    {
+      "id": 284,
+      "title": "Fundamentals of Electricity and Electronics - Special Components (2 hours)",
+      "slug": "fundamentals-of-electricity-and-electronics-special-components-2-hours",
+      "file": "src/data/course-catalog/courses/course-284-fundamentals-of-electricity-and-electronics-special-components-2-hours.json"
+    },
+    {
+      "id": 285,
+      "title": "Fundamentals of Electricity and Electronics (3 hours)",
+      "slug": "fundamentals-of-electricity-and-electronics-3-hours",
+      "file": "src/data/course-catalog/courses/course-285-fundamentals-of-electricity-and-electronics-3-hours.json"
+    },
+    {
+      "id": 286,
+      "title": "Hand Tools and Measuring Devices (1 hour)",
+      "slug": "hand-tools-and-measuring-devices-1-hour",
+      "file": "src/data/course-catalog/courses/course-286-hand-tools-and-measuring-devices-1-hour.json"
+    },
+    {
+      "id": 287,
+      "title": "Human Factors (2 hours)",
+      "slug": "human-factors-2-hours",
+      "file": "src/data/course-catalog/courses/course-287-human-factors-2-hours.json"
+    },
+    {
+      "id": 288,
+      "title": "Ice and Rain Protection (2 hours)",
+      "slug": "ice-and-rain-protection-2-hours",
+      "file": "src/data/course-catalog/courses/course-288-ice-and-rain-protection-2-hours.json"
+    },
+    {
+      "id": 289,
+      "title": "Inspection Concepts and Techniques - Nondestructive Inspection/Testing (1 hour)",
+      "slug": "inspection-concepts-and-techniques-nondestructive-inspection-testing-1",
+      "file": "src/data/course-catalog/courses/course-289-inspection-concepts-and-techniques-nondestructive-inspection-testing-1.json"
+    },
+    {
+      "id": 290,
+      "title": "Inspection Concepts and Techniques (2 hours)",
+      "slug": "inspection-concepts-and-techniques-2-hours",
+      "file": "src/data/course-catalog/courses/course-290-inspection-concepts-and-techniques-2-hours.json"
+    },
+    {
+      "id": 291,
+      "title": "Introduction to Disabilities FY27",
+      "slug": "introduction-to-disabilities-fy27",
+      "file": "src/data/course-catalog/courses/course-291-introduction-to-disabilities-fy27.json"
+    },
+    {
+      "id": 292,
+      "title": "Make it Count - Documenting Medicaid Services FY27",
+      "slug": "make-it-count-documenting-medicaid-services-fy27",
+      "file": "src/data/course-catalog/courses/course-292-make-it-count-documenting-medicaid-services-fy27.json"
+    },
+    {
+      "id": 293,
+      "title": "Mandatory Reporting - Protecting those we support FY27",
+      "slug": "mandatory-reporting-protecting-those-we-support-fy27",
+      "file": "src/data/course-catalog/courses/course-293-mandatory-reporting-protecting-those-we-support-fy27.json"
+    },
+    {
+      "id": 294,
+      "title": "Mathematics In Aviation Maintenance (1 hour)",
+      "slug": "mathematics-in-aviation-maintenance-1-hour",
+      "file": "src/data/course-catalog/courses/course-294-mathematics-in-aviation-maintenance-1-hour.json"
+    },
+    {
+      "id": 295,
+      "title": "Mechanic Privileges and Limitations (1 hour)",
+      "slug": "mechanic-privileges-and-limitations-1-hour",
+      "file": "src/data/course-catalog/courses/course-295-mechanic-privileges-and-limitations-1-hour.json"
+    },
+    {
+      "id": 296,
+      "title": "Mental Health Basics FY27",
+      "slug": "mental-health-basics-fy27",
+      "file": "src/data/course-catalog/courses/course-296-mental-health-basics-fy27.json"
+    },
+    {
+      "id": 297,
+      "title": "Physics - Aircraft Theory of Flight (1 hour)",
+      "slug": "physics-aircraft-theory-of-flight-1-hour",
+      "file": "src/data/course-catalog/courses/course-297-physics-aircraft-theory-of-flight-1-hour.json"
+    },
+    {
+      "id": 298,
+      "title": "Physics - Helicopter Aerodynamics (1 hour)",
+      "slug": "physics-helicopter-aerodynamics-1-hour",
+      "file": "src/data/course-catalog/courses/course-298-physics-helicopter-aerodynamics-1-hour.json"
+    },
+    {
+      "id": 299,
+      "title": "Physics for Aviation (2 hours)",
+      "slug": "physics-for-aviation-2-hours",
+      "file": "src/data/course-catalog/courses/course-299-physics-for-aviation-2-hours.json"
+    },
+    {
+      "id": 300,
+      "title": "Propellers (3 hours)",
+      "slug": "propellers-3-hours",
+      "file": "src/data/course-catalog/courses/course-300-propellers-3-hours.json"
+    },
+    {
+      "id": 301,
+      "title": "Regulations, Maintenance Forms, Records, and Publications (2 hours)",
+      "slug": "regulations-maintenance-forms-records-and-publications-2-hours",
+      "file": "src/data/course-catalog/courses/course-301-regulations-maintenance-forms-records-and-publications-2-hours.json"
+    },
+    {
+      "id": 302,
+      "title": "Safety, Ground Operations, and Servicing (2 hours)",
+      "slug": "safety-ground-operations-and-servicing-2-hours",
+      "file": "src/data/course-catalog/courses/course-302-safety-ground-operations-and-servicing-2-hours.json"
+    },
+    {
+      "id": 303,
+      "title": "SUITE Alaska - A Brief Overview of the Alaska Core Competencies for Direct Care Service Providers",
+      "slug": "suite-alaska-a-brief-overview-of-the-alaska-core-competencies-for-dire",
+      "file": "src/data/course-catalog/courses/course-303-suite-alaska-a-brief-overview-of-the-alaska-core-competencies-for-dire.json"
+    },
+    {
+      "id": 304,
+      "title": "Supported Decision Making for Alaskans FY27",
+      "slug": "supported-decision-making-for-alaskans-fy27",
+      "file": "src/data/course-catalog/courses/course-304-supported-decision-making-for-alaskans-fy27.json"
+    },
+    {
+      "id": 305,
+      "title": "Ultra Grade Schema Testing - 2",
+      "slug": "ultra-grade-schema-testing-2",
+      "file": "src/data/course-catalog/courses/course-305-ultra-grade-schema-testing-2.json"
+    },
+    {
+      "id": 306,
+      "title": "Ultra Grade Schema Testing- Ultra W/OverAll Grade",
+      "slug": "ultra-grade-schema-testing-ultra-w-overall-grade",
+      "file": "src/data/course-catalog/courses/course-306-ultra-grade-schema-testing-ultra-w-overall-grade.json"
+    },
+    {
+      "id": 307,
+      "title": "What is a Medicaid Waiver? Understanding the Medicaid Waiver Process FY27",
+      "slug": "what-is-a-medicaid-waiver-understanding-the-medicaid-waiver-process-fy",
+      "file": "src/data/course-catalog/courses/course-307-what-is-a-medicaid-waiver-understanding-the-medicaid-waiver-process-fy.json"
+    },
+    {
+      "id": 308,
+      "title": "COUN A590: Anxiety Awareness: Empowering Students with Help and Hope",
+      "slug": "coun-a590-anxiety-awareness-empowering-students-with-help-and-hope",
+      "file": "src/data/course-catalog/courses/course-308-coun-a590-anxiety-awareness-empowering-students-with-help-and-hope.json"
+    },
+    {
+      "id": 309,
+      "title": "COUN A590: Caring for Mental Health of Students",
+      "slug": "coun-a590-caring-for-mental-health-of-students",
+      "file": "src/data/course-catalog/courses/course-309-coun-a590-caring-for-mental-health-of-students.json"
+    },
+    {
+      "id": 310,
+      "title": "COUN A590: Grief and Your Students: Honoring, Sharing, Healing",
+      "slug": "coun-a590-grief-and-your-students-honoring-sharing-healing",
+      "file": "src/data/course-catalog/courses/course-310-coun-a590-grief-and-your-students-honoring-sharing-healing.json"
+    },
+    {
+      "id": 311,
+      "title": "COUN A590: Mental Health Matters",
+      "slug": "coun-a590-mental-health-matters",
+      "file": "src/data/course-catalog/courses/course-311-coun-a590-mental-health-matters.json"
+    },
+    {
+      "id": 312,
+      "title": "COUN A590: Tools for Today?s School Counselors",
+      "slug": "coun-a590-tools-for-today-s-school-counselors",
+      "file": "src/data/course-catalog/courses/course-312-coun-a590-tools-for-today-s-school-counselors.json"
+    },
+    {
+      "id": 313,
+      "title": "ECD A590: Early Childhood PK-2: A Moving Body, A Thinking Brain",
+      "slug": "ecd-a590-early-childhood-pk-2-a-moving-body-a-thinking-brain",
+      "file": "src/data/course-catalog/courses/course-313-ecd-a590-early-childhood-pk-2-a-moving-body-a-thinking-brain.json"
+    },
+    {
+      "id": 314,
+      "title": "ED A545: Exploring the Impact of Social Media on Students, Wellness and Society",
+      "slug": "ed-a545-exploring-the-impact-of-social-media-on-students-wellness-and-",
+      "file": "src/data/course-catalog/courses/course-314-ed-a545-exploring-the-impact-of-social-media-on-students-wellness-and-.json"
+    },
+    {
+      "id": 315,
+      "title": "ED A550: Addressing the Needs of Diverse Populations (K-5)",
+      "slug": "ed-a550-addressing-the-needs-of-diverse-populations-k-5",
+      "file": "src/data/course-catalog/courses/course-315-ed-a550-addressing-the-needs-of-diverse-populations-k-5.json"
+    },
+    {
+      "id": 316,
+      "title": "ED A550: Embracing Diversity and Equity through Culturally Responsive Teaching (K-12)",
+      "slug": "ed-a550-embracing-diversity-and-equity-through-culturally-responsive-t",
+      "file": "src/data/course-catalog/courses/course-316-ed-a550-embracing-diversity-and-equity-through-culturally-responsive-t.json"
+    },
+    {
+      "id": 317,
+      "title": "ED A555: A Multi-Tiered System of Support for Students who Challenge Us (K-5)",
+      "slug": "ed-a555-a-multi-tiered-system-of-support-for-students-who-challenge-us",
+      "file": "src/data/course-catalog/courses/course-317-ed-a555-a-multi-tiered-system-of-support-for-students-who-challenge-us.json"
+    },
+    {
+      "id": 318,
+      "title": "ED A555: Advanced Classroom Management: Children as Change Agents",
+      "slug": "ed-a555-advanced-classroom-management-children-as-change-agents",
+      "file": "src/data/course-catalog/courses/course-318-ed-a555-advanced-classroom-management-children-as-change-agents.json"
+    },
+    {
+      "id": 319,
+      "title": "ED A555: Boosting Classroom Creativity Through Canva",
+      "slug": "ed-a555-boosting-classroom-creativity-through-canva",
+      "file": "src/data/course-catalog/courses/course-319-ed-a555-boosting-classroom-creativity-through-canva.json"
+    },
+    {
+      "id": 320,
+      "title": "ED A555: Boosting Student Engagement Using Active Learning Strategies (PreK-5)",
+      "slug": "ed-a555-boosting-student-engagement-using-active-learning-strategies-p",
+      "file": "src/data/course-catalog/courses/course-320-ed-a555-boosting-student-engagement-using-active-learning-strategies-p.json"
+    },
+    {
+      "id": 321,
+      "title": "ED A555: Bridging the Gap: High-Yield Strategies to Recover from Learning Loss (K-12)",
+      "slug": "ed-a555-bridging-the-gap-high-yield-strategies-to-recover-from-learnin",
+      "file": "src/data/course-catalog/courses/course-321-ed-a555-bridging-the-gap-high-yield-strategies-to-recover-from-learnin.json"
+    },
+    {
+      "id": 322,
+      "title": "ED A555: Character Education for the 21st Century (K-12)",
+      "slug": "ed-a555-character-education-for-the-21st-century-k-12",
+      "file": "src/data/course-catalog/courses/course-322-ed-a555-character-education-for-the-21st-century-k-12.json"
+    },
+    {
+      "id": 323,
+      "title": "ED A555: Co-Teaching: Partners in Practice",
+      "slug": "ed-a555-co-teaching-partners-in-practice",
+      "file": "src/data/course-catalog/courses/course-323-ed-a555-co-teaching-partners-in-practice.json"
+    },
+    {
+      "id": 324,
+      "title": "ED A555: Data-Driven Instruction (K-12)",
+      "slug": "ed-a555-data-driven-instruction-k-12",
+      "file": "src/data/course-catalog/courses/course-324-ed-a555-data-driven-instruction-k-12.json"
+    },
+    {
+      "id": 325,
+      "title": "ED A555: Educating the Whole Student: Mindfulness and Social-Emotional Learning in the Classroom (K-12)",
+      "slug": "ed-a555-educating-the-whole-student-mindfulness-and-social-emotional-l",
+      "file": "src/data/course-catalog/courses/course-325-ed-a555-educating-the-whole-student-mindfulness-and-social-emotional-l.json"
+    },
+    {
+      "id": 326,
+      "title": "ED A555: Energize Your Classroom",
+      "slug": "ed-a555-energize-your-classroom",
+      "file": "src/data/course-catalog/courses/course-326-ed-a555-energize-your-classroom.json"
+    },
+    {
+      "id": 327,
+      "title": "ED A555: Engaging, Motivating, and Managing Your Students (Grades 4-8)",
+      "slug": "ed-a555-engaging-motivating-and-managing-your-students-grades-4-8",
+      "file": "src/data/course-catalog/courses/course-327-ed-a555-engaging-motivating-and-managing-your-students-grades-4-8.json"
+    },
+    {
+      "id": 328,
+      "title": "ED A555: Humor in the Classroom: To Teach and Reach Students",
+      "slug": "ed-a555-humor-in-the-classroom-to-teach-and-reach-students",
+      "file": "src/data/course-catalog/courses/course-328-ed-a555-humor-in-the-classroom-to-teach-and-reach-students.json"
+    },
+    {
+      "id": 329,
+      "title": "ED A555: Instilling a Growth Mindset in Students (K-12)",
+      "slug": "ed-a555-instilling-a-growth-mindset-in-students-k-12",
+      "file": "src/data/course-catalog/courses/course-329-ed-a555-instilling-a-growth-mindset-in-students-k-12.json"
+    },
+    {
+      "id": 330,
+      "title": "ED A555: Learning to Learn: Student Skills for School and for Life",
+      "slug": "ed-a555-learning-to-learn-student-skills-for-school-and-for-life",
+      "file": "src/data/course-catalog/courses/course-330-ed-a555-learning-to-learn-student-skills-for-school-and-for-life.json"
+    },
+    {
+      "id": 331,
+      "title": "ED A555: Living Your Happiest Life, Inside & Outside the Classroom",
+      "slug": "ed-a555-living-your-happiest-life-inside-outside-the-classroom",
+      "file": "src/data/course-catalog/courses/course-331-ed-a555-living-your-happiest-life-inside-outside-the-classroom.json"
+    },
+    {
+      "id": 332,
+      "title": "ED A555: Move, Grow, Play! Using Play to Teach and Learn",
+      "slug": "ed-a555-move-grow-play-using-play-to-teach-and-learn",
+      "file": "src/data/course-catalog/courses/course-332-ed-a555-move-grow-play-using-play-to-teach-and-learn.json"
+    },
+    {
+      "id": 333,
+      "title": "ED A555: Supporting Students Using a MTSS Framework (6-12)",
+      "slug": "ed-a555-supporting-students-using-a-mtss-framework-6-12",
+      "file": "src/data/course-catalog/courses/course-333-ed-a555-supporting-students-using-a-mtss-framework-6-12.json"
+    },
+    {
+      "id": 334,
+      "title": "ED A555: Teach Like a Champ: Effective Strategies for an Engaged Classroom",
+      "slug": "ed-a555-teach-like-a-champ-effective-strategies-for-an-engaged-classro",
+      "file": "src/data/course-catalog/courses/course-334-ed-a555-teach-like-a-champ-effective-strategies-for-an-engaged-classro.json"
+    },
+    {
+      "id": 335,
+      "title": "ED A555: Trust, Humor, Praise, and Connection for Meaningful Relationships with Students",
+      "slug": "ed-a555-trust-humor-praise-and-connection-for-meaningful-relationships",
+      "file": "src/data/course-catalog/courses/course-335-ed-a555-trust-humor-praise-and-connection-for-meaningful-relationships.json"
+    },
+    {
+      "id": 336,
+      "title": "ED A560: Math Fluency Beyond the Basic Facts",
+      "slug": "ed-a560-math-fluency-beyond-the-basic-facts",
+      "file": "src/data/course-catalog/courses/course-336-ed-a560-math-fluency-beyond-the-basic-facts.json"
+    },
+    {
+      "id": 337,
+      "title": "ED A560: Moving Math: How to Use Differentiated Mathematics Stations",
+      "slug": "ed-a560-moving-math-how-to-use-differentiated-mathematics-stations",
+      "file": "src/data/course-catalog/courses/course-337-ed-a560-moving-math-how-to-use-differentiated-mathematics-stations.json"
+    },
+    {
+      "id": 338,
+      "title": "ED A565: Docs, Slides, and Forms in the Classroom: Your Next Level Google Guide",
+      "slug": "ed-a565-docs-slides-and-forms-in-the-classroom-your-next-level-google-",
+      "file": "src/data/course-catalog/courses/course-338-ed-a565-docs-slides-and-forms-in-the-classroom-your-next-level-google-.json"
+    },
+    {
+      "id": 339,
+      "title": "ED A565: Effective Use of Technology in the Classroom",
+      "slug": "ed-a565-effective-use-of-technology-in-the-classroom",
+      "file": "src/data/course-catalog/courses/course-339-ed-a565-effective-use-of-technology-in-the-classroom.json"
+    },
+    {
+      "id": 340,
+      "title": "ED A565: Google as a Classroom Tool for Learning (K-12)",
+      "slug": "ed-a565-google-as-a-classroom-tool-for-learning-k-12",
+      "file": "src/data/course-catalog/courses/course-340-ed-a565-google-as-a-classroom-tool-for-learning-k-12.json"
+    },
+    {
+      "id": 341,
+      "title": "ED A565: Mastering Google Apps for Education (K-12)",
+      "slug": "ed-a565-mastering-google-apps-for-education-k-12",
+      "file": "src/data/course-catalog/courses/course-341-ed-a565-mastering-google-apps-for-education-k-12.json"
+    },
+    {
+      "id": 342,
+      "title": "ED A565: One Stop Shop: Online Docs, Spreadsheets, Slides and Forms for Your Classroom",
+      "slug": "ed-a565-one-stop-shop-online-docs-spreadsheets-slides-and-forms-for-yo",
+      "file": "src/data/course-catalog/courses/course-342-ed-a565-one-stop-shop-online-docs-spreadsheets-slides-and-forms-for-yo.json"
+    },
+    {
+      "id": 343,
+      "title": "ED A565: Technology Tools to Amplify Learning (K-12)",
+      "slug": "ed-a565-technology-tools-to-amplify-learning-k-12",
+      "file": "src/data/course-catalog/courses/course-343-ed-a565-technology-tools-to-amplify-learning-k-12.json"
+    },
+    {
+      "id": 344,
+      "title": "ED A565: Unlocking the Potential of Artificial Intelligence in Education",
+      "slug": "ed-a565-unlocking-the-potential-of-artificial-intelligence-in-educatio",
+      "file": "src/data/course-catalog/courses/course-344-ed-a565-unlocking-the-potential-of-artificial-intelligence-in-educatio.json"
+    },
+    {
+      "id": 345,
+      "title": "ED A565: Unveiling Efficiency & Engagement with the Magic School AI Tool",
+      "slug": "ed-a565-unveiling-efficiency-engagement-with-the-magic-school-ai-tool",
+      "file": "src/data/course-catalog/courses/course-345-ed-a565-unveiling-efficiency-engagement-with-the-magic-school-ai-tool.json"
+    },
+    {
+      "id": 346,
+      "title": "ED A570: A Closer Look at Dyslexia, Dysgraphia, and Dyscalculia",
+      "slug": "ed-a570-a-closer-look-at-dyslexia-dysgraphia-and-dyscalculia",
+      "file": "src/data/course-catalog/courses/course-346-ed-a570-a-closer-look-at-dyslexia-dysgraphia-and-dyscalculia.json"
+    },
+    {
+      "id": 347,
+      "title": "ED A570: Comprehension Strategies for Middle and Upper Grades (4-12)",
+      "slug": "ed-a570-comprehension-strategies-for-middle-and-upper-grades-4-12",
+      "file": "src/data/course-catalog/courses/course-347-ed-a570-comprehension-strategies-for-middle-and-upper-grades-4-12.json"
+    },
+    {
+      "id": 348,
+      "title": "ED A570: Comprehension: The Key to Successful Reading (K-3)",
+      "slug": "ed-a570-comprehension-the-key-to-successful-reading-k-3",
+      "file": "src/data/course-catalog/courses/course-348-ed-a570-comprehension-the-key-to-successful-reading-k-3.json"
+    },
+    {
+      "id": 349,
+      "title": "ED A570: Reading Foundations for Emergent and Early Readers (PreK-2)",
+      "slug": "ed-a570-reading-foundations-for-emergent-and-early-readers-prek-2",
+      "file": "src/data/course-catalog/courses/course-349-ed-a570-reading-foundations-for-emergent-and-early-readers-prek-2.json"
+    },
+    {
+      "id": 350,
+      "title": "ED A570: Reading to Learn: Developing Strategic Reading Skills",
+      "slug": "ed-a570-reading-to-learn-developing-strategic-reading-skills",
+      "file": "src/data/course-catalog/courses/course-350-ed-a570-reading-to-learn-developing-strategic-reading-skills.json"
+    },
+    {
+      "id": 351,
+      "title": "ED A570: Refresh Your Grammar Instruction",
+      "slug": "ed-a570-refresh-your-grammar-instruction",
+      "file": "src/data/course-catalog/courses/course-351-ed-a570-refresh-your-grammar-instruction.json"
+    },
+    {
+      "id": 352,
+      "title": "ED A570: Six Traits of Writing Model",
+      "slug": "ed-a570-six-traits-of-writing-model",
+      "file": "src/data/course-catalog/courses/course-352-ed-a570-six-traits-of-writing-model.json"
+    },
+    {
+      "id": 353,
+      "title": "ED A570: Systematic and Explicit Phonics Instruction for Early Reading and Writing Success",
+      "slug": "ed-a570-systematic-and-explicit-phonics-instruction-for-early-reading-",
+      "file": "src/data/course-catalog/courses/course-353-ed-a570-systematic-and-explicit-phonics-instruction-for-early-reading-.json"
+    },
+    {
+      "id": 354,
+      "title": "ED A570: Targeted Instruction and Interventions with Reading Strategy Groups (K-5)",
+      "slug": "ed-a570-targeted-instruction-and-interventions-with-reading-strategy-g",
+      "file": "src/data/course-catalog/courses/course-354-ed-a570-targeted-instruction-and-interventions-with-reading-strategy-g.json"
+    },
+    {
+      "id": 355,
+      "title": "ED A572: English Language Learner: Evaluation & Assessment",
+      "slug": "ed-a572-english-language-learner-evaluation-assessment",
+      "file": "src/data/course-catalog/courses/course-355-ed-a572-english-language-learner-evaluation-assessment.json"
+    },
+    {
+      "id": 356,
+      "title": "ED A572: English Language Learner: Language Acquisition",
+      "slug": "ed-a572-english-language-learner-language-acquisition",
+      "file": "src/data/course-catalog/courses/course-356-ed-a572-english-language-learner-language-acquisition.json"
+    },
+    {
+      "id": 357,
+      "title": "ED A572: English Language Learner: Linguistics",
+      "slug": "ed-a572-english-language-learner-linguistics",
+      "file": "src/data/course-catalog/courses/course-357-ed-a572-english-language-learner-linguistics.json"
+    },
+    {
+      "id": 358,
+      "title": "ED A572: English Language Learner: Methods & Materials",
+      "slug": "ed-a572-english-language-learner-methods-materials",
+      "file": "src/data/course-catalog/courses/course-358-ed-a572-english-language-learner-methods-materials.json"
+    },
+    {
+      "id": 359,
+      "title": "ED A572: Reading Instruction for Multilingual Learners",
+      "slug": "ed-a572-reading-instruction-for-multilingual-learners",
+      "file": "src/data/course-catalog/courses/course-359-ed-a572-reading-instruction-for-multilingual-learners.json"
+    },
+    {
+      "id": 360,
+      "title": "ED A575: Building Critical Social and Emotional Skills Using Literature (K-12)",
+      "slug": "ed-a575-building-critical-social-and-emotional-skills-using-literature",
+      "file": "src/data/course-catalog/courses/course-360-ed-a575-building-critical-social-and-emotional-skills-using-literature.json"
+    },
+    {
+      "id": 361,
+      "title": "ED A575: Building Strong Relationships in the Classroom: Care to Connect",
+      "slug": "ed-a575-building-strong-relationships-in-the-classroom-care-to-connect",
+      "file": "src/data/course-catalog/courses/course-361-ed-a575-building-strong-relationships-in-the-classroom-care-to-connect.json"
+    },
+    {
+      "id": 362,
+      "title": "ED A575: Connection and Calming Strategies for Today?s Teachers",
+      "slug": "ed-a575-connection-and-calming-strategies-for-today-s-teachers",
+      "file": "src/data/course-catalog/courses/course-362-ed-a575-connection-and-calming-strategies-for-today-s-teachers.json"
+    },
+    {
+      "id": 363,
+      "title": "ED A575: Goodbye Teacher Burnout, Welcome Teacher Wellness",
+      "slug": "ed-a575-goodbye-teacher-burnout-welcome-teacher-wellness",
+      "file": "src/data/course-catalog/courses/course-363-ed-a575-goodbye-teacher-burnout-welcome-teacher-wellness.json"
+    },
+    {
+      "id": 364,
+      "title": "ED A575: Teaching Critical SEL Skills Using Picture Books (PreK-3)",
+      "slug": "ed-a575-teaching-critical-sel-skills-using-picture-books-prek-3",
+      "file": "src/data/course-catalog/courses/course-364-ed-a575-teaching-critical-sel-skills-using-picture-books-prek-3.json"
+    },
+    {
+      "id": 365,
+      "title": "EDL A550: Dropout Prevention: Effective Education for At-Risk Youth",
+      "slug": "edl-a550-dropout-prevention-effective-education-for-at-risk-youth",
+      "file": "src/data/course-catalog/courses/course-365-edl-a550-dropout-prevention-effective-education-for-at-risk-youth.json"
+    },
+    {
+      "id": 366,
+      "title": "EDL A550: Drugs & Alcohol in Schools: Understanding Substance Use & Abuse",
+      "slug": "edl-a550-drugs-alcohol-in-schools-understanding-substance-use-abuse",
+      "file": "src/data/course-catalog/courses/course-366-edl-a550-drugs-alcohol-in-schools-understanding-substance-use-abuse.json"
+    },
+    {
+      "id": 367,
+      "title": "EDL A550: SEL and Empathy-Based Bullying Prevention",
+      "slug": "edl-a550-sel-and-empathy-based-bullying-prevention",
+      "file": "src/data/course-catalog/courses/course-367-edl-a550-sel-and-empathy-based-bullying-prevention.json"
+    },
+    {
+      "id": 368,
+      "title": "EDL A550: Supporting At-Risk Young Learners & Their Families",
+      "slug": "edl-a550-supporting-at-risk-young-learners-their-families",
+      "file": "src/data/course-catalog/courses/course-368-edl-a550-supporting-at-risk-young-learners-their-families.json"
+    },
+    {
+      "id": 369,
+      "title": "EDL A550: Trauma Sensitive Teaching",
+      "slug": "edl-a550-trauma-sensitive-teaching",
+      "file": "src/data/course-catalog/courses/course-369-edl-a550-trauma-sensitive-teaching.json"
+    },
+    {
+      "id": 370,
+      "title": "EDL A550: Trauma-Informed Teaching Strategies for All Learners (PreK-6)",
+      "slug": "edl-a550-trauma-informed-teaching-strategies-for-all-learners-prek-6",
+      "file": "src/data/course-catalog/courses/course-370-edl-a550-trauma-informed-teaching-strategies-for-all-learners-prek-6.json"
+    },
+    {
+      "id": 371,
+      "title": "EDL A550: Traumatized Child: The Effects of Stress & Trauma on Student Learning",
+      "slug": "edl-a550-traumatized-child-the-effects-of-stress-trauma-on-student-lea",
+      "file": "src/data/course-catalog/courses/course-371-edl-a550-traumatized-child-the-effects-of-stress-trauma-on-student-lea.json"
+    },
+    {
+      "id": 372,
+      "title": "EDL A550: Understanding Aggression: Coping With Aggressive Behavior in the Classroom",
+      "slug": "edl-a550-understanding-aggression-coping-with-aggressive-behavior-in-t",
+      "file": "src/data/course-catalog/courses/course-372-edl-a550-understanding-aggression-coping-with-aggressive-behavior-in-t.json"
+    },
+    {
+      "id": 373,
+      "title": "EDL A550: Violence in Schools: Identification & Prevention Strategies",
+      "slug": "edl-a550-violence-in-schools-identification-prevention-strategies",
+      "file": "src/data/course-catalog/courses/course-373-edl-a550-violence-in-schools-identification-prevention-strategies.json"
+    },
+    {
+      "id": 374,
+      "title": "EDL A590: Mindful Leadership in Schools",
+      "slug": "edl-a590-mindful-leadership-in-schools",
+      "file": "src/data/course-catalog/courses/course-374-edl-a590-mindful-leadership-in-schools.json"
+    },
+    {
+      "id": 375,
+      "title": "EDPE A590: Nutrition, Exercise, Wellness, and Sleep for Teachers",
+      "slug": "edpe-a590-nutrition-exercise-wellness-and-sleep-for-teachers",
+      "file": "src/data/course-catalog/courses/course-375-edpe-a590-nutrition-exercise-wellness-and-sleep-for-teachers.json"
+    },
+    {
+      "id": 376,
+      "title": "EDPE A590: Physical Education for Fitness and the Future",
+      "slug": "edpe-a590-physical-education-for-fitness-and-the-future",
+      "file": "src/data/course-catalog/courses/course-376-edpe-a590-physical-education-for-fitness-and-the-future.json"
+    },
+    {
+      "id": 377,
+      "title": "EDPE A590: Social, Emotional, and Physical Wellness for Students and Teachers (PreK-12)",
+      "slug": "edpe-a590-social-emotional-and-physical-wellness-for-students-and-teac",
+      "file": "src/data/course-catalog/courses/course-377-edpe-a590-social-emotional-and-physical-wellness-for-students-and-teac.json"
+    },
+    {
+      "id": 378,
+      "title": "EDSE A590: A Guide to Oppositional Defiant Disorder (ODD) and Similar Behavioral Challenges",
+      "slug": "edse-a590-a-guide-to-oppositional-defiant-disorder-odd-and-similar-beh",
+      "file": "src/data/course-catalog/courses/course-378-edse-a590-a-guide-to-oppositional-defiant-disorder-odd-and-similar-beh.json"
+    },
+    {
+      "id": 379,
+      "title": "EDSE A590: Across the Spectrum: Teaching Students with Autism",
+      "slug": "edse-a590-across-the-spectrum-teaching-students-with-autism",
+      "file": "src/data/course-catalog/courses/course-379-edse-a590-across-the-spectrum-teaching-students-with-autism.json"
+    },
+    {
+      "id": 380,
+      "title": "EDSE A590: Attention Deficit Disorder",
+      "slug": "edse-a590-attention-deficit-disorder",
+      "file": "src/data/course-catalog/courses/course-380-edse-a590-attention-deficit-disorder.json"
+    },
+    {
+      "id": 381,
+      "title": "EDSE A590: Autism Spectrum Disorder: Information & Effective Intervention Strategies",
+      "slug": "edse-a590-autism-spectrum-disorder-information-effective-intervention-",
+      "file": "src/data/course-catalog/courses/course-381-edse-a590-autism-spectrum-disorder-information-effective-intervention-.json"
+    },
+    {
+      "id": 382,
+      "title": "EDSE A590: Focused Interventions to Improve Executive Function Skills (K-12)",
+      "slug": "edse-a590-focused-interventions-to-improve-executive-function-skills-k",
+      "file": "src/data/course-catalog/courses/course-382-edse-a590-focused-interventions-to-improve-executive-function-skills-k.json"
+    },
+    {
+      "id": 383,
+      "title": "EDSE A590: How to Reach and Teach Students with Autism Spectrum Disorder (PreK-5)",
+      "slug": "edse-a590-how-to-reach-and-teach-students-with-autism-spectrum-disorde",
+      "file": "src/data/course-catalog/courses/course-383-edse-a590-how-to-reach-and-teach-students-with-autism-spectrum-disorde.json"
+    },
+    {
+      "id": 384,
+      "title": "EDSE A590: Learning Disabilities: Practical Information for Classroom Teachers",
+      "slug": "edse-a590-learning-disabilities-practical-information-for-classroom-te",
+      "file": "src/data/course-catalog/courses/course-384-edse-a590-learning-disabilities-practical-information-for-classroom-te.json"
+    },
+    {
+      "id": 385,
+      "title": "EDSE A590: Raise the Bar: Positive Interventions for Students Who Challenge Us",
+      "slug": "edse-a590-raise-the-bar-positive-interventions-for-students-who-challe",
+      "file": "src/data/course-catalog/courses/course-385-edse-a590-raise-the-bar-positive-interventions-for-students-who-challe.json"
+    },
+    {
+      "id": 386,
+      "title": "EDSE A590: Talented & Gifted: Working with High Achievers",
+      "slug": "edse-a590-talented-gifted-working-with-high-achievers",
+      "file": "src/data/course-catalog/courses/course-386-edse-a590-talented-gifted-working-with-high-achievers.json"
+    },
+    {
+      "id": 387,
+      "title": "ED A565: AI for Teachers: What You and Your Students Need to Know",
+      "slug": "ed-a565-ai-for-teachers-what-you-and-your-students-need-to-know",
+      "file": "src/data/course-catalog/courses/course-387-ed-a565-ai-for-teachers-what-you-and-your-students-need-to-know.json"
+    },
+    {
+      "id": 388,
+      "title": "ED A580: Science Education: Katmai Floating Teacher Workshop",
+      "slug": "ed-a580-science-education-katmai-floating-teacher-workshop",
+      "file": "src/data/course-catalog/courses/course-388-ed-a580-science-education-katmai-floating-teacher-workshop.json"
+    },
+    {
+      "id": 389,
+      "title": "EDL A550: Caught in the Drama",
+      "slug": "edl-a550-caught-in-the-drama",
+      "file": "src/data/course-catalog/courses/course-389-edl-a550-caught-in-the-drama.json"
+    },
+    {
+      "id": 390,
+      "title": "ED A581: Science Education: Bears of Denali",
+      "slug": "ed-a581-science-education-bears-of-denali",
+      "file": "src/data/course-catalog/courses/course-390-ed-a581-science-education-bears-of-denali.json"
+    },
+    {
+      "id": 391,
+      "title": "ED A581: Science Education: Off-Trail Hiking Fundamentals",
+      "slug": "ed-a581-science-education-off-trail-hiking-fundamentals",
+      "file": "src/data/course-catalog/courses/course-391-ed-a581-science-education-off-trail-hiking-fundamentals.json"
+    },
+    {
+      "id": 392,
+      "title": "ED A581: Science Education: Boreal Forest Ecology",
+      "slug": "ed-a581-science-education-boreal-forest-ecology",
+      "file": "src/data/course-catalog/courses/course-392-ed-a581-science-education-boreal-forest-ecology.json"
+    },
+    {
+      "id": 393,
+      "title": "ED A581: Science Education: Denali's Mosses and Lichens",
+      "slug": "ed-a581-science-education-denali-s-mosses-and-lichens",
+      "file": "src/data/course-catalog/courses/course-393-ed-a581-science-education-denali-s-mosses-and-lichens.json"
+    },
+    {
+      "id": 394,
+      "title": "EDSE A590: Evidence-Based Practices for K-12 Learners on the Autism Spectrum",
+      "slug": "edse-a590-evidence-based-practices-for-k-12-learners-on-the-autism-spe",
+      "file": "src/data/course-catalog/courses/course-394-edse-a590-evidence-based-practices-for-k-12-learners-on-the-autism-spe.json"
+    },
+    {
+      "id": 395,
+      "title": "Improvisation Theater - Fall 2026",
+      "slug": "improvisation-theater-fall-2026",
+      "file": "src/data/course-catalog/courses/course-395-improvisation-theater-fall-2026.json"
+    },
+    {
+      "id": 396,
+      "title": "Whittier Fall 2026 Fishing Vessel Training",
+      "slug": "whittier-fall-2026-fishing-vessel-training",
+      "file": "src/data/course-catalog/courses/course-396-whittier-fall-2026-fishing-vessel-training.json"
+    },
+    {
+      "id": 397,
+      "title": "Alaska Core Competency #1 August 18, 2026",
+      "slug": "alaska-core-competency-1-august-18-2026",
+      "file": "src/data/course-catalog/courses/course-397-alaska-core-competency-1-august-18-2026.json"
+    },
+    {
+      "id": 398,
+      "title": "CANCELED - Let's Dance - Your Own Spin - Fall 2026",
+      "slug": "canceled-let-s-dance-your-own-spin-fall-2026",
+      "file": "src/data/course-catalog/courses/course-398-canceled-let-s-dance-your-own-spin-fall-2026.json"
+    },
+    {
+      "id": 399,
+      "title": "Alaska Core Competency #2 August 19, 2026",
+      "slug": "alaska-core-competency-2-august-19-2026",
+      "file": "src/data/course-catalog/courses/course-399-alaska-core-competency-2-august-19-2026.json"
+    },
+    {
+      "id": 400,
+      "title": "Taking the Stage: Scene Work - Fall 2026",
+      "slug": "taking-the-stage-scene-work-fall-2026",
+      "file": "src/data/course-catalog/courses/course-400-taking-the-stage-scene-work-fall-2026.json"
+    },
+    {
+      "id": 401,
+      "title": "Trust-Based Relational Intervention (TBRI) August 2026",
+      "slug": "trust-based-relational-intervention-tbri-august-2026",
+      "file": "src/data/course-catalog/courses/course-401-trust-based-relational-intervention-tbri-august-2026.json"
+    },
+    {
+      "id": 402,
+      "title": "Alaska Core Competency #3 & 6 August 20, 2026",
+      "slug": "alaska-core-competency-3-6-august-20-2026",
+      "file": "src/data/course-catalog/courses/course-402-alaska-core-competency-3-6-august-20-2026.json"
+    },
+    {
+      "id": 403,
+      "title": "CANCELED - Let's Dance - Introduction to Social Dancing",
+      "slug": "canceled-let-s-dance-introduction-to-social-dancing",
+      "file": "src/data/course-catalog/courses/course-403-canceled-let-s-dance-introduction-to-social-dancing.json"
+    },
+    {
+      "id": 404,
+      "title": "ED A581: Science Education: Mushrooms in Denali",
+      "slug": "ed-a581-science-education-mushrooms-in-denali",
+      "file": "src/data/course-catalog/courses/course-404-ed-a581-science-education-mushrooms-in-denali.json"
+    },
+    {
+      "id": 405,
+      "title": "Alaska Core Competency #4 August 25, 2026",
+      "slug": "alaska-core-competency-4-august-25-2026",
+      "file": "src/data/course-catalog/courses/course-405-alaska-core-competency-4-august-25-2026.json"
+    },
+    {
+      "id": 406,
+      "title": "ESOL Intermediate Speaking & Listening 1 - Aug 25 - Oct 15",
+      "slug": "esol-intermediate-speaking-listening-1-aug-25-oct-15",
+      "file": "src/data/course-catalog/courses/course-406-esol-intermediate-speaking-listening-1-aug-25-oct-15.json"
+    },
+    {
+      "id": 407,
+      "title": "Alaska Core Competency #5, 7, & 8 August 26, 2026",
+      "slug": "alaska-core-competency-5-7-8-august-26-2026",
+      "file": "src/data/course-catalog/courses/course-407-alaska-core-competency-5-7-8-august-26-2026.json"
+    },
+    {
+      "id": 408,
+      "title": "Trauma Informed Care August 26, 2026",
+      "slug": "trauma-informed-care-august-26-2026",
+      "file": "src/data/course-catalog/courses/course-408-trauma-informed-care-august-26-2026.json"
+    },
+    {
+      "id": 409,
+      "title": "Alaska Core Competency #9 & 10 August 27, 2026",
+      "slug": "alaska-core-competency-9-10-august-27-2026",
+      "file": "src/data/course-catalog/courses/course-409-alaska-core-competency-9-10-august-27-2026.json"
+    },
+    {
+      "id": 410,
+      "title": "Community Relationship Building and Key Concepts of Support for DSPs (PRIVATE) August 27, 2026",
+      "slug": "community-relationship-building-and-key-concepts-of-support-for-dsps-p",
+      "file": "src/data/course-catalog/courses/course-410-community-relationship-building-and-key-concepts-of-support-for-dsps-p.json"
+    },
+    {
+      "id": 411,
+      "title": "Basic Concepts of Care Coordination August 31, 2026",
+      "slug": "basic-concepts-of-care-coordination-august-31-2026",
+      "file": "src/data/course-catalog/courses/course-411-basic-concepts-of-care-coordination-august-31-2026.json"
+    },
+    {
+      "id": 412,
+      "title": "Foundations of a Behavioral Approach September 01, 2026",
+      "slug": "foundations-of-a-behavioral-approach-september-01-2026",
+      "file": "src/data/course-catalog/courses/course-412-foundations-of-a-behavioral-approach-september-01-2026.json"
+    },
+    {
+      "id": 413,
+      "title": "Professionalism and Ethics: Be the change September 01, 2026",
+      "slug": "professionalism-and-ethics-be-the-change-september-01-2026",
+      "file": "src/data/course-catalog/courses/course-413-professionalism-and-ethics-be-the-change-september-01-2026.json"
+    },
+    {
+      "id": 414,
+      "title": "Professionalism and Ethics: Be the change September 02, 2026",
+      "slug": "professionalism-and-ethics-be-the-change-september-02-2026",
+      "file": "src/data/course-catalog/courses/course-414-professionalism-and-ethics-be-the-change-september-02-2026.json"
+    },
+    {
+      "id": 415,
+      "title": "Professionalism and Ethics: Be the change September 03, 2026",
+      "slug": "professionalism-and-ethics-be-the-change-september-03-2026",
+      "file": "src/data/course-catalog/courses/course-415-professionalism-and-ethics-be-the-change-september-03-2026.json"
+    },
+    {
+      "id": 416,
+      "title": "ED A556: Great Teaching by Design",
+      "slug": "ed-a556-great-teaching-by-design",
+      "file": "src/data/course-catalog/courses/course-416-ed-a556-great-teaching-by-design.json"
+    },
+    {
+      "id": 417,
+      "title": "ED A556: Mindframes for Belonging, Identities and Equity",
+      "slug": "ed-a556-mindframes-for-belonging-identities-and-equity",
+      "file": "src/data/course-catalog/courses/course-417-ed-a556-mindframes-for-belonging-identities-and-equity.json"
+    },
+    {
+      "id": 418,
+      "title": "ED A556: The Ten Mindframes for Visible Learning",
+      "slug": "ed-a556-the-ten-mindframes-for-visible-learning",
+      "file": "src/data/course-catalog/courses/course-418-ed-a556-the-ten-mindframes-for-visible-learning.json"
+    },
+    {
+      "id": 419,
+      "title": "Professionalism and Ethics: Be the change September 08, 2026",
+      "slug": "professionalism-and-ethics-be-the-change-september-08-2026",
+      "file": "src/data/course-catalog/courses/course-419-professionalism-and-ethics-be-the-change-september-08-2026.json"
+    },
+    {
+      "id": 420,
+      "title": "Professionalism and Ethics: Be the change September 09, 2026",
+      "slug": "professionalism-and-ethics-be-the-change-september-09-2026",
+      "file": "src/data/course-catalog/courses/course-420-professionalism-and-ethics-be-the-change-september-09-2026.json"
+    },
+    {
+      "id": 421,
+      "title": "Professionalism and Ethics: Be the change September 10, 2026",
+      "slug": "professionalism-and-ethics-be-the-change-september-10-2026",
+      "file": "src/data/course-catalog/courses/course-421-professionalism-and-ethics-be-the-change-september-10-2026.json"
+    },
+    {
+      "id": 422,
+      "title": "First Aid / CPR - American Heart Association - Sept. 11",
+      "slug": "first-aid-cpr-american-heart-association-sept-11",
+      "file": "src/data/course-catalog/courses/course-422-first-aid-cpr-american-heart-association-sept-11.json"
+    },
+    {
+      "id": 423,
+      "title": "Professionalism and Ethics: Be the change September 12, 2026",
+      "slug": "professionalism-and-ethics-be-the-change-september-12-2026",
+      "file": "src/data/course-catalog/courses/course-423-professionalism-and-ethics-be-the-change-september-12-2026.json"
+    },
+    {
+      "id": 424,
+      "title": "Professionalism and Ethics: Be the change September 13, 2026",
+      "slug": "professionalism-and-ethics-be-the-change-september-13-2026",
+      "file": "src/data/course-catalog/courses/course-424-professionalism-and-ethics-be-the-change-september-13-2026.json"
+    },
+    {
+      "id": 425,
+      "title": "Basic Concepts of Care Coordination September 15, 2026",
+      "slug": "basic-concepts-of-care-coordination-september-15-2026",
+      "file": "src/data/course-catalog/courses/course-425-basic-concepts-of-care-coordination-september-15-2026.json"
+    },
+    {
+      "id": 426,
+      "title": "Professionalism and Ethics: Be the change September 15, 2026",
+      "slug": "professionalism-and-ethics-be-the-change-september-15-2026",
+      "file": "src/data/course-catalog/courses/course-426-professionalism-and-ethics-be-the-change-september-15-2026.json"
+    },
+    {
+      "id": 427,
+      "title": "Professionalism and Ethics: Be the change September 17, 2026",
+      "slug": "professionalism-and-ethics-be-the-change-september-17-2026",
+      "file": "src/data/course-catalog/courses/course-427-professionalism-and-ethics-be-the-change-september-17-2026.json"
+    },
+    {
+      "id": 428,
+      "title": "Professionalism and Ethics: Be the change September 20, 2026",
+      "slug": "professionalism-and-ethics-be-the-change-september-20-2026",
+      "file": "src/data/course-catalog/courses/course-428-professionalism-and-ethics-be-the-change-september-20-2026.json"
+    },
+    {
+      "id": 429,
+      "title": "Professionalism and Ethics: Be the change September 21, 2026",
+      "slug": "professionalism-and-ethics-be-the-change-september-21-2026",
+      "file": "src/data/course-catalog/courses/course-429-professionalism-and-ethics-be-the-change-september-21-2026.json"
+    },
+    {
+      "id": 430,
+      "title": "ED A556: Bringing Educators & Underrepresented Families Together",
+      "slug": "ed-a556-bringing-educators-underrepresented-families-together",
+      "file": "src/data/course-catalog/courses/course-430-ed-a556-bringing-educators-underrepresented-families-together.json"
+    },
+    {
+      "id": 431,
+      "title": "American Heart Association - First Aid CPR/AED - September 2026",
+      "slug": "american-heart-association-first-aid-cpr-aed-september-2026",
+      "file": "src/data/course-catalog/courses/course-431-american-heart-association-first-aid-cpr-aed-september-2026.json"
+    },
+    {
+      "id": 432,
+      "title": "Dementia Care Skills September 25, 2026",
+      "slug": "dementia-care-skills-september-25-2026",
+      "file": "src/data/course-catalog/courses/course-432-dementia-care-skills-september-25-2026.json"
+    },
+    {
+      "id": 433,
+      "title": "Professionalism and Ethics: Be the change September 25, 2026",
+      "slug": "professionalism-and-ethics-be-the-change-september-25-2026",
+      "file": "src/data/course-catalog/courses/course-433-professionalism-and-ethics-be-the-change-september-25-2026.json"
+    },
+    {
+      "id": 434,
+      "title": "Professionalism and Ethics: Be the change September 26, 2026",
+      "slug": "professionalism-and-ethics-be-the-change-september-26-2026",
+      "file": "src/data/course-catalog/courses/course-434-professionalism-and-ethics-be-the-change-september-26-2026.json"
+    },
+    {
+      "id": 435,
+      "title": "Alaska Core Competency #1 September 29, 2026",
+      "slug": "alaska-core-competency-1-september-29-2026",
+      "file": "src/data/course-catalog/courses/course-435-alaska-core-competency-1-september-29-2026.json"
+    },
+    {
+      "id": 436,
+      "title": "Alaska Core Competency #2 September 30, 2026",
+      "slug": "alaska-core-competency-2-september-30-2026",
+      "file": "src/data/course-catalog/courses/course-436-alaska-core-competency-2-september-30-2026.json"
+    },
+    {
+      "id": 437,
+      "title": "Professionalism and Ethics: Be the change September 30, 2026",
+      "slug": "professionalism-and-ethics-be-the-change-september-30-2026",
+      "file": "src/data/course-catalog/courses/course-437-professionalism-and-ethics-be-the-change-september-30-2026.json"
+    },
+    {
+      "id": 438,
+      "title": "Alaska Core Competency #3 & 6 October 1, 2026",
+      "slug": "alaska-core-competency-3-6-october-1-2026",
+      "file": "src/data/course-catalog/courses/course-438-alaska-core-competency-3-6-october-1-2026.json"
+    },
+    {
+      "id": 439,
+      "title": "Foundations of a Behavioral Approach October 02, 2026",
+      "slug": "foundations-of-a-behavioral-approach-october-02-2026",
+      "file": "src/data/course-catalog/courses/course-439-foundations-of-a-behavioral-approach-october-02-2026.json"
+    },
+    {
+      "id": 440,
+      "title": "First Steps in Preventing Problem Behaviors October 04, 2026",
+      "slug": "first-steps-in-preventing-problem-behaviors-october-04-2026",
+      "file": "src/data/course-catalog/courses/course-440-first-steps-in-preventing-problem-behaviors-october-04-2026.json"
+    },
+    {
+      "id": 441,
+      "title": "Alaska Core Competency #4 October 06, 2026",
+      "slug": "alaska-core-competency-4-october-06-2026",
+      "file": "src/data/course-catalog/courses/course-441-alaska-core-competency-4-october-06-2026.json"
+    },
+    {
+      "id": 442,
+      "title": "Alaska Core Competency #5, 7, & 8 October 7, 2026",
+      "slug": "alaska-core-competency-5-7-8-october-7-2026",
+      "file": "src/data/course-catalog/courses/course-442-alaska-core-competency-5-7-8-october-7-2026.json"
+    },
+    {
+      "id": 443,
+      "title": "Alaska Core Competency #9 & 10 October 08, 2026",
+      "slug": "alaska-core-competency-9-10-october-08-2026",
+      "file": "src/data/course-catalog/courses/course-443-alaska-core-competency-9-10-october-08-2026.json"
+    },
+    {
+      "id": 444,
+      "title": "AHA - Basic Life Support - October 2026",
+      "slug": "aha-basic-life-support-october-2026",
+      "file": "src/data/course-catalog/courses/course-444-aha-basic-life-support-october-2026.json"
+    },
+    {
+      "id": 445,
+      "title": "Fundamentals of Arctic Engineering - Fall 2026",
+      "slug": "fundamentals-of-arctic-engineering-fall-2026",
+      "file": "src/data/course-catalog/courses/course-445-fundamentals-of-arctic-engineering-fall-2026.json"
+    },
+    {
+      "id": 446,
+      "title": "Basic Concepts of Care Coordination October 13, 2026",
+      "slug": "basic-concepts-of-care-coordination-october-13-2026",
+      "file": "src/data/course-catalog/courses/course-446-basic-concepts-of-care-coordination-october-13-2026.json"
+    },
+    {
+      "id": 447,
+      "title": "First Aid / CPR - American Heart Association - Oct. 16",
+      "slug": "first-aid-cpr-american-heart-association-oct-16",
+      "file": "src/data/course-catalog/courses/course-447-first-aid-cpr-american-heart-association-oct-16.json"
+    },
+    {
+      "id": 448,
+      "title": "ESOL Intermediate Reading & Writing 1 - Oct 27 - Dec 17",
+      "slug": "esol-intermediate-reading-writing-1-oct-27-dec-17",
+      "file": "src/data/course-catalog/courses/course-448-esol-intermediate-reading-writing-1-oct-27-dec-17.json"
+    },
+    {
+      "id": 449,
+      "title": "Foundations of a Behavioral Approach October 28, 2026",
+      "slug": "foundations-of-a-behavioral-approach-october-28-2026",
+      "file": "src/data/course-catalog/courses/course-449-foundations-of-a-behavioral-approach-october-28-2026.json"
+    },
+    {
+      "id": 450,
+      "title": "Foundations of a Behavioral Approach November 02, 2026",
+      "slug": "foundations-of-a-behavioral-approach-november-02-2026",
+      "file": "src/data/course-catalog/courses/course-450-foundations-of-a-behavioral-approach-november-02-2026.json"
+    },
+    {
+      "id": 451,
+      "title": "Basic Concepts of Care Coordination November 03, 2026",
+      "slug": "basic-concepts-of-care-coordination-november-03-2026",
+      "file": "src/data/course-catalog/courses/course-451-basic-concepts-of-care-coordination-november-03-2026.json"
+    },
+    {
+      "id": 452,
+      "title": "AHA - Advanced Life Support - November 2026",
+      "slug": "aha-advanced-life-support-november-2026",
+      "file": "src/data/course-catalog/courses/course-452-aha-advanced-life-support-november-2026.json"
+    },
+    {
+      "id": 453,
+      "title": "First Aid / CPR - American Heart Association - Nov. 13",
+      "slug": "first-aid-cpr-american-heart-association-nov-13",
+      "file": "src/data/course-catalog/courses/course-453-first-aid-cpr-american-heart-association-nov-13.json"
+    },
+    {
+      "id": 454,
+      "title": "First Steps in Preventing Problem Behaviors November 19, 2026",
+      "slug": "first-steps-in-preventing-problem-behaviors-november-19-2026",
+      "file": "src/data/course-catalog/courses/course-454-first-steps-in-preventing-problem-behaviors-november-19-2026.json"
+    },
+    {
+      "id": 455,
+      "title": "Alaska Core Competency #1 December 01, 2026",
+      "slug": "alaska-core-competency-1-december-01-2026",
+      "file": "src/data/course-catalog/courses/course-455-alaska-core-competency-1-december-01-2026.json"
+    },
+    {
+      "id": 456,
+      "title": "Alaska Core Competency #2 December 02, 2026",
+      "slug": "alaska-core-competency-2-december-02-2026",
+      "file": "src/data/course-catalog/courses/course-456-alaska-core-competency-2-december-02-2026.json"
+    },
+    {
+      "id": 457,
+      "title": "Alaska Core Competency #3 & 6 December 3, 2026",
+      "slug": "alaska-core-competency-3-6-december-3-2026",
+      "file": "src/data/course-catalog/courses/course-457-alaska-core-competency-3-6-december-3-2026.json"
+    },
+    {
+      "id": 458,
+      "title": "American Heart Association - First Aid CPR/AED - December 2026",
+      "slug": "american-heart-association-first-aid-cpr-aed-december-2026",
+      "file": "src/data/course-catalog/courses/course-458-american-heart-association-first-aid-cpr-aed-december-2026.json"
+    },
+    {
+      "id": 459,
+      "title": "Alaska Core Competency #4 December 08, 2026",
+      "slug": "alaska-core-competency-4-december-08-2026",
+      "file": "src/data/course-catalog/courses/course-459-alaska-core-competency-4-december-08-2026.json"
+    },
+    {
+      "id": 460,
+      "title": "Alaska Core Competency #5, 7, & 8 December 9, 2026",
+      "slug": "alaska-core-competency-5-7-8-december-9-2026",
+      "file": "src/data/course-catalog/courses/course-460-alaska-core-competency-5-7-8-december-9-2026.json"
+    },
+    {
+      "id": 461,
+      "title": "Alaska Core Competency #9 & 10 December 10, 2026",
+      "slug": "alaska-core-competency-9-10-december-10-2026",
+      "file": "src/data/course-catalog/courses/course-461-alaska-core-competency-9-10-december-10-2026.json"
+    },
+    {
+      "id": 462,
+      "title": "First Aid / CPR - American Heart Association - Dec. 11",
+      "slug": "first-aid-cpr-american-heart-association-dec-11",
+      "file": "src/data/course-catalog/courses/course-462-first-aid-cpr-american-heart-association-dec-11.json"
+    },
+    {
+      "id": 463,
+      "title": "Basic Concepts of Care Coordination December 15, 2026",
+      "slug": "basic-concepts-of-care-coordination-december-15-2026",
+      "file": "src/data/course-catalog/courses/course-463-basic-concepts-of-care-coordination-december-15-2026.json"
+    },
+    {
+      "id": 464,
+      "title": "Foundations of a Behavioral Approach December 19, 2026",
+      "slug": "foundations-of-a-behavioral-approach-december-19-2026",
+      "file": "src/data/course-catalog/courses/course-464-foundations-of-a-behavioral-approach-december-19-2026.json"
+    },
+    {
+      "id": 465,
+      "title": "First Steps in Preventing Problem Behaviors December 20, 2026",
+      "slug": "first-steps-in-preventing-problem-behaviors-december-20-2026",
+      "file": "src/data/course-catalog/courses/course-465-first-steps-in-preventing-problem-behaviors-december-20-2026.json"
+    },
+    {
+      "id": 466,
+      "title": "Basic Concepts of Care Coordination January 12, 2027",
+      "slug": "basic-concepts-of-care-coordination-january-12-2027",
+      "file": "src/data/course-catalog/courses/course-466-basic-concepts-of-care-coordination-january-12-2027.json"
+    },
+    {
+      "id": 467,
+      "title": "ESOL Intermediate Speaking & Listening 2 - Jan 12 - Mar 4, 2027",
+      "slug": "esol-intermediate-speaking-listening-2-jan-12-mar-4-2027",
+      "file": "src/data/course-catalog/courses/course-467-esol-intermediate-speaking-listening-2-jan-12-mar-4-2027.json"
+    },
+    {
+      "id": 468,
+      "title": "First Steps in Preventing Problem Behaviors January 21, 2027",
+      "slug": "first-steps-in-preventing-problem-behaviors-january-21-2027",
+      "file": "src/data/course-catalog/courses/course-468-first-steps-in-preventing-problem-behaviors-january-21-2027.json"
+    },
+    {
+      "id": 469,
+      "title": "First Aid / CPR - American Heart Association - Jan. 22",
+      "slug": "first-aid-cpr-american-heart-association-jan-22",
+      "file": "src/data/course-catalog/courses/course-469-first-aid-cpr-american-heart-association-jan-22.json"
+    },
+    {
+      "id": 470,
+      "title": "Community Relationship Building and Key Concepts of Support for DSPs (PRIVATE) January 30, 2027",
+      "slug": "community-relationship-building-and-key-concepts-of-support-for-dsps-p",
+      "file": "src/data/course-catalog/courses/course-470-community-relationship-building-and-key-concepts-of-support-for-dsps-p.json"
+    },
+    {
+      "id": 471,
+      "title": "Basic Concepts of Care Coordination February 02, 2027",
+      "slug": "basic-concepts-of-care-coordination-february-02-2027",
+      "file": "src/data/course-catalog/courses/course-471-basic-concepts-of-care-coordination-february-02-2027.json"
+    },
+    {
+      "id": 472,
+      "title": "Alaska Core Competency #1 February 09, 2027",
+      "slug": "alaska-core-competency-1-february-09-2027",
+      "file": "src/data/course-catalog/courses/course-472-alaska-core-competency-1-february-09-2027.json"
+    },
+    {
+      "id": 473,
+      "title": "Alaska Core Competency #1 February 10, 2027",
+      "slug": "alaska-core-competency-1-february-10-2027",
+      "file": "src/data/course-catalog/courses/course-473-alaska-core-competency-1-february-10-2027.json"
+    },
+    {
+      "id": 474,
+      "title": "Foundations of a Behavioral Approach February 10, 2027",
+      "slug": "foundations-of-a-behavioral-approach-february-10-2027",
+      "file": "src/data/course-catalog/courses/course-474-foundations-of-a-behavioral-approach-february-10-2027.json"
+    },
+    {
+      "id": 475,
+      "title": "Alaska Core Competency #3 & 6 February 11, 2027",
+      "slug": "alaska-core-competency-3-6-february-11-2027",
+      "file": "src/data/course-catalog/courses/course-475-alaska-core-competency-3-6-february-11-2027.json"
+    },
+    {
+      "id": 476,
+      "title": "Alaska Core Competency #4 February 16, 2027",
+      "slug": "alaska-core-competency-4-february-16-2027",
+      "file": "src/data/course-catalog/courses/course-476-alaska-core-competency-4-february-16-2027.json"
+    },
+    {
+      "id": 477,
+      "title": "Alaska Core Competency #5, 7, & 8 February 17, 2027",
+      "slug": "alaska-core-competency-5-7-8-february-17-2027",
+      "file": "src/data/course-catalog/courses/course-477-alaska-core-competency-5-7-8-february-17-2027.json"
+    },
+    {
+      "id": 478,
+      "title": "Alaska Core Competency #9 & 10 February 18, 2027",
+      "slug": "alaska-core-competency-9-10-february-18-2027",
+      "file": "src/data/course-catalog/courses/course-478-alaska-core-competency-9-10-february-18-2027.json"
+    },
+    {
+      "id": 479,
+      "title": "First Aid / CPR - American Heart Association - Feb. 19",
+      "slug": "first-aid-cpr-american-heart-association-feb-19",
+      "file": "src/data/course-catalog/courses/course-479-first-aid-cpr-american-heart-association-feb-19.json"
+    },
+    {
+      "id": 480,
+      "title": "First Aid / CPR - American Heart Association - Mar. 5",
+      "slug": "first-aid-cpr-american-heart-association-mar-5",
+      "file": "src/data/course-catalog/courses/course-480-first-aid-cpr-american-heart-association-mar-5.json"
+    },
+    {
+      "id": 481,
+      "title": "Basic Concepts of Care Coordination March 16, 2027",
+      "slug": "basic-concepts-of-care-coordination-march-16-2027",
+      "file": "src/data/course-catalog/courses/course-481-basic-concepts-of-care-coordination-march-16-2027.json"
+    },
+    {
+      "id": 482,
+      "title": "ESOL Intermediate Reading & Writing 2 - Mar 16 - May 6, 2027",
+      "slug": "esol-intermediate-reading-writing-2-mar-16-may-6-2027",
+      "file": "src/data/course-catalog/courses/course-482-esol-intermediate-reading-writing-2-mar-16-may-6-2027.json"
+    },
+    {
+      "id": 483,
+      "title": "First Steps in Preventing Problem Behaviors March 17, 2027",
+      "slug": "first-steps-in-preventing-problem-behaviors-march-17-2027",
+      "file": "src/data/course-catalog/courses/course-483-first-steps-in-preventing-problem-behaviors-march-17-2027.json"
+    },
+    {
+      "id": 484,
+      "title": "Alaska Core Competency #1 April 06, 2027",
+      "slug": "alaska-core-competency-1-april-06-2027",
+      "file": "src/data/course-catalog/courses/course-484-alaska-core-competency-1-april-06-2027.json"
+    },
+    {
+      "id": 485,
+      "title": "Alaska Core Competency #2 April 07, 2027",
+      "slug": "alaska-core-competency-2-april-07-2027",
+      "file": "src/data/course-catalog/courses/course-485-alaska-core-competency-2-april-07-2027.json"
+    },
+    {
+      "id": 486,
+      "title": "Alaska Core Competency #3 & 6 April 8, 2027",
+      "slug": "alaska-core-competency-3-6-april-8-2027",
+      "file": "src/data/course-catalog/courses/course-486-alaska-core-competency-3-6-april-8-2027.json"
+    },
+    {
+      "id": 487,
+      "title": "Alaska Core Competency #4 April 13, 2027",
+      "slug": "alaska-core-competency-4-april-13-2027",
+      "file": "src/data/course-catalog/courses/course-487-alaska-core-competency-4-april-13-2027.json"
+    },
+    {
+      "id": 488,
+      "title": "Alaska Core Competency #5, 7, & 8 April 14, 2027",
+      "slug": "alaska-core-competency-5-7-8-april-14-2027",
+      "file": "src/data/course-catalog/courses/course-488-alaska-core-competency-5-7-8-april-14-2027.json"
+    },
+    {
+      "id": 489,
+      "title": "Alaska Core Competency #9 & 10 April 15, 2027",
+      "slug": "alaska-core-competency-9-10-april-15-2027",
+      "file": "src/data/course-catalog/courses/course-489-alaska-core-competency-9-10-april-15-2027.json"
+    },
+    {
+      "id": 490,
+      "title": "First Aid / CPR - American Heart Association - Apr. 16",
+      "slug": "first-aid-cpr-american-heart-association-apr-16",
+      "file": "src/data/course-catalog/courses/course-490-first-aid-cpr-american-heart-association-apr-16.json"
+    },
+    {
+      "id": 491,
+      "title": "Basic Concepts of Care Coordination April 20, 2027",
+      "slug": "basic-concepts-of-care-coordination-april-20-2027",
+      "file": "src/data/course-catalog/courses/course-491-basic-concepts-of-care-coordination-april-20-2027.json"
+    },
+    {
+      "id": 492,
+      "title": "Basic Concepts of Care Coordination May 04, 2027",
+      "slug": "basic-concepts-of-care-coordination-may-04-2027",
+      "file": "src/data/course-catalog/courses/course-492-basic-concepts-of-care-coordination-may-04-2027.json"
+    },
+    {
+      "id": 493,
+      "title": "First Aid / CPR - American Heart Association - May 7",
+      "slug": "first-aid-cpr-american-heart-association-may-7",
+      "file": "src/data/course-catalog/courses/course-493-first-aid-cpr-american-heart-association-may-7.json"
+    },
+    {
+      "id": 494,
+      "title": "Foundations of a Behavioral Approach May 11, 2027",
+      "slug": "foundations-of-a-behavioral-approach-may-11-2027",
+      "file": "src/data/course-catalog/courses/course-494-foundations-of-a-behavioral-approach-may-11-2027.json"
+    },
+    {
+      "id": 495,
+      "title": "First Aid / CPR - American Heart Association - May 21",
+      "slug": "first-aid-cpr-american-heart-association-may-21",
+      "file": "src/data/course-catalog/courses/course-495-first-aid-cpr-american-heart-association-may-21.json"
+    },
+    {
+      "id": 496,
+      "title": "First Steps in Preventing Problem Behaviors May 22, 2027",
+      "slug": "first-steps-in-preventing-problem-behaviors-may-22-2027",
+      "file": "src/data/course-catalog/courses/course-496-first-steps-in-preventing-problem-behaviors-may-22-2027.json"
+    },
+    {
+      "id": 497,
+      "title": "Alaska Core Competency #1 May 25, 2027",
+      "slug": "alaska-core-competency-1-may-25-2027",
+      "file": "src/data/course-catalog/courses/course-497-alaska-core-competency-1-may-25-2027.json"
+    },
+    {
+      "id": 498,
+      "title": "Alaska Core Competency #2 May 26, 2027",
+      "slug": "alaska-core-competency-2-may-26-2027",
+      "file": "src/data/course-catalog/courses/course-498-alaska-core-competency-2-may-26-2027.json"
+    },
+    {
+      "id": 499,
+      "title": "Alaska Core Competency #3 & 6 May 27, 2027",
+      "slug": "alaska-core-competency-3-6-may-27-2027",
+      "file": "src/data/course-catalog/courses/course-499-alaska-core-competency-3-6-may-27-2027.json"
+    },
+    {
+      "id": 500,
+      "title": "Alaska Core Competency #4 June 01, 2027",
+      "slug": "alaska-core-competency-4-june-01-2027",
+      "file": "src/data/course-catalog/courses/course-500-alaska-core-competency-4-june-01-2027.json"
+    },
+    {
+      "id": 501,
+      "title": "Alaska Core Competency #5, 7, & 8 June 2, 2027",
+      "slug": "alaska-core-competency-5-7-8-june-2-2027",
+      "file": "src/data/course-catalog/courses/course-501-alaska-core-competency-5-7-8-june-2-2027.json"
+    },
+    {
+      "id": 502,
+      "title": "Alaska Core Competency #9 & 10 June 03, 2027",
+      "slug": "alaska-core-competency-9-10-june-03-2027",
+      "file": "src/data/course-catalog/courses/course-502-alaska-core-competency-9-10-june-03-2027.json"
+    },
+    {
+      "id": 503,
+      "title": "First Aid / CPR - American Heart Association - Jun. 4",
+      "slug": "first-aid-cpr-american-heart-association-jun-4",
+      "file": "src/data/course-catalog/courses/course-503-first-aid-cpr-american-heart-association-jun-4.json"
+    },
+    {
+      "id": 504,
+      "title": "Basic Concepts of Care Coordination June 08, 2027",
+      "slug": "basic-concepts-of-care-coordination-june-08-2027",
+      "file": "src/data/course-catalog/courses/course-504-basic-concepts-of-care-coordination-june-08-2027.json"
     }
   ]
 }

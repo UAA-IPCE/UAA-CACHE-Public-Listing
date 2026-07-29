@@ -1,0 +1,45 @@
+{
+  "id": 452,
+  "title": "AHA - Advanced Life Support - November 2026",
+  "slug": "aha-advanced-life-support-november-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4780,
+  "summary": "ACLS for Heathcare professionals ",
+  "description": "ACLS is designed for healthcare professionals who either direct or participate in the management of cardiac arrest, stroke, or other cardiopulmonary emergencies. This includes personnel in emergency response, emergency medicine, critical care/intensive care, and surgery such as Physicians, Nurses, and Paramedics, as well as others who need an ACLS course completion card for a job or other requirement. This is a refresher course and previous ACLS training is required . Upon successful completion of the course, students receive a course completion card, valid for two years.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Palmer",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Stephen Robertson",
+  "image": "https://continuingstudies.alaska.edu/upload/MSC%20-%20Advanced%20Life%20Support.jpeg",
+  "professions": [
+    "physician",
+    "nurse",
+    "first-responder"
+  ],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Nursing",
+    "Physicians",
+    "First Responders",
+    "Emergency and Medical",
+    "Students"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

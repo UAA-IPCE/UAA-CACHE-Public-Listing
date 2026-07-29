@@ -1,0 +1,45 @@
+{
+  "id": 445,
+  "title": "Fundamentals of Arctic Engineering - Fall 2026",
+  "slug": "fundamentals-of-arctic-engineering-fall-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4830,
+  "summary": "Arctic Licensing",
+  "description": "This course introduces students to a broad spectrum of engineering challenges that are unique to cold regions of the world. Physical principles and practical data collection, analysis, design, and construction methods are discussed. Students gain a working knowledge of cold regions engineering problems and modern solutions as a basis for more detailed study. Information in the format of narrated slide presentations, videos, and other online study aids is presented in 10 daily increments.",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Angie Bishop, Thomas Ravens",
+  "image": "https://continuingstudies.alaska.edu/upload/CoE_ESac030_pic.png",
+  "professions": [
+    "nurse",
+    "first-responder"
+  ],
+  "topic_tags": [
+    "substance-use-disorders"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Nursing",
+    "First Responders",
+    "Substance Use Disorders",
+    "Students"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}

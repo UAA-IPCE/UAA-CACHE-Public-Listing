@@ -1,0 +1,40 @@
+{
+  "id": 271,
+  "title": "EDSE A536K: Alaska Statewide Special Education Conference (ASSEC) 2026",
+  "slug": "edse-a536k-alaska-statewide-special-education-conference-assec-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4475,
+  "summary": "",
+  "description": "Provides an opportunity to explore various tracks in the Alaska Statewide Special Education Conference. Uses the expertise of nationally recognized speakers, as well as knowledgeable local experts in the areas of disabilities and education. Offers sessions in the special education areas of: interventions for struggling students and strategies, curriculum, health and safety, legal issues, transition, and specialty areas such as autism, multiple disabilities and technology.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Anchorage",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Kathleen Brennan Tollefson, Jennifer Greene, Theresa Manning, Robanne Stading",
+  "image": "https://continuingstudies.alaska.edu/upload/PACE-UAA%20Web%20Logo.png",
+  "professions": [],
+  "topic_tags": [
+    "autism-spectrum-disorders"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Autism Spectrum Disorders",
+    "Students"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-07-29 by daily scrape pipeline.",
+  "last_verified_at": "2026-07-29"
+}
