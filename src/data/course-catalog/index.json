@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-29T22:18:38.031Z",
+  "generated_at": "2026-07-29T23:20:07.535Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 505,
+  "total_courses": 506,
   "courses": [
     {
       "id": 1,
@@ -3032,6 +3032,12 @@
       "title": "Alaska WWAMI Pre-Med",
       "slug": "alaska-wwami-pre-med",
       "file": "src/data/course-catalog/courses/course-505-alaska-wwami-pre-med.json"
+    },
+    {
+      "id": 506,
+      "title": "ED A569: Keys to Beginning Reading Instruction: Alaska Reads",
+      "slug": "ed-a569-keys-to-beginning-reading-instruction-alaska-reads",
+      "file": "src/data/course-catalog/courses/course-506-ed-a569-keys-to-beginning-reading-instruction-alaska-reads.json"
     }
   ]
 }

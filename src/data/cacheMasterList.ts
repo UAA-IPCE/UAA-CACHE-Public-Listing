@@ -392,4 +392,5 @@ export const cacheMasterList: string[] = [
   "First Aid / CPR - American Heart Association - Jun. 4",
   "Basic Concepts of Care Coordination June 08, 2027",
   "Alaska WWAMI Pre-Med",
+  "ED A569: Keys to Beginning Reading Instruction: Alaska Reads",
 ];
