@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-30T17:29:53.942Z",
+  "generated_at": "2026-07-30T18:28:17.145Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 507,
+  "total_courses": 511,
   "courses": [
     {
       "id": 1,
@@ -3044,6 +3044,30 @@
       "title": "ED A556: Systems, Practice, & Policy: Building Coherence for Student Success",
       "slug": "ed-a556-systems-practice-policy-building-coherence-for-student-success",
       "file": "src/data/course-catalog/courses/course-507-ed-a556-systems-practice-policy-building-coherence-for-student-success.json"
+    },
+    {
+      "id": 508,
+      "title": "Health 110 – Intro to Health Careers",
+      "slug": "health-110-intro-to-health-careers",
+      "file": "src/data/course-catalog/courses/course-508-health-110-intro-to-health-careers.json"
+    },
+    {
+      "id": 509,
+      "title": "Health 120 – Intro to Behavioral Health Careers",
+      "slug": "health-120-intro-to-behavioral-health-careers",
+      "file": "src/data/course-catalog/courses/course-509-health-120-intro-to-behavioral-health-careers.json"
+    },
+    {
+      "id": 510,
+      "title": "Health 130 – Professionalism in Health Care",
+      "slug": "health-130-professionalism-in-health-care",
+      "file": "src/data/course-catalog/courses/course-510-health-130-professionalism-in-health-care.json"
+    },
+    {
+      "id": 511,
+      "title": "Health 150 – Health and Human Services Employment Certifications",
+      "slug": "health-150-health-and-human-services-employment-certifications",
+      "file": "src/data/course-catalog/courses/course-511-health-150-health-and-human-services-employment-certifications.json"
     }
   ]
 }

@@ -394,4 +394,8 @@ export const cacheMasterList: string[] = [
   "Alaska WWAMI Pre-Med",
   "ED A569: Keys to Beginning Reading Instruction: Alaska Reads",
   "ED A556: Systems, Practice, & Policy: Building Coherence for Student Success",
+  "Health 110 – Intro to Health Careers",
+  "Health 120 – Intro to Behavioral Health Careers",
+  "Health 130 – Professionalism in Health Care",
+  "Health 150 – Health and Human Services Employment Certifications",
 ];
