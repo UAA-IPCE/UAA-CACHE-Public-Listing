@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-30T16:30:01.921Z",
+  "generated_at": "2026-07-30T17:29:53.942Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 506,
+  "total_courses": 507,
   "courses": [
     {
       "id": 1,
@@ -3038,6 +3038,12 @@
       "title": "ED A569: Keys to Beginning Reading Instruction: Alaska Reads",
       "slug": "ed-a569-keys-to-beginning-reading-instruction-alaska-reads",
       "file": "src/data/course-catalog/courses/course-506-ed-a569-keys-to-beginning-reading-instruction-alaska-reads.json"
+    },
+    {
+      "id": 507,
+      "title": "ED A556: Systems, Practice, & Policy: Building Coherence for Student Success",
+      "slug": "ed-a556-systems-practice-policy-building-coherence-for-student-success",
+      "file": "src/data/course-catalog/courses/course-507-ed-a556-systems-practice-policy-building-coherence-for-student-success.json"
     }
   ]
 }
