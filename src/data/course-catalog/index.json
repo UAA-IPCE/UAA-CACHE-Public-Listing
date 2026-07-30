@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-30T21:23:49.617Z",
+  "generated_at": "2026-07-30T22:22:02.995Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 511,
+  "total_courses": 512,
   "courses": [
     {
       "id": 1,
@@ -3068,6 +3068,12 @@
       "title": "Health 150 – Health and Human Services Employment Certifications",
       "slug": "health-150-health-and-human-services-employment-certifications",
       "file": "src/data/course-catalog/courses/course-511-health-150-health-and-human-services-employment-certifications.json"
+    },
+    {
+      "id": 512,
+      "title": "LEND Leadership Education in Neurodevelopmental and related Disabilities PRIVATE FY2026-2027",
+      "slug": "lend-leadership-education-in-neurodevelopmental-and-related-disabiliti",
+      "file": "src/data/course-catalog/courses/course-512-lend-leadership-education-in-neurodevelopmental-and-related-disabiliti.json"
     }
   ]
 }

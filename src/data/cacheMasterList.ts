@@ -398,4 +398,5 @@ export const cacheMasterList: string[] = [
   "Health 120 – Intro to Behavioral Health Careers",
   "Health 130 – Professionalism in Health Care",
   "Health 150 – Health and Human Services Employment Certifications",
+  "LEND Leadership Education in Neurodevelopmental and related Disabilities PRIVATE FY2026-2027",
 ];
