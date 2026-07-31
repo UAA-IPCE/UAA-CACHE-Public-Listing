@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-31T19:29:54.989Z",
+  "generated_at": "2026-07-31T20:27:20.104Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 512,
+  "total_courses": 514,
   "courses": [
     {
       "id": 1,
@@ -3074,6 +3074,18 @@
       "title": "LEND Leadership Education in Neurodevelopmental and related Disabilities PRIVATE FY2026-2027",
       "slug": "lend-leadership-education-in-neurodevelopmental-and-related-disabiliti",
       "file": "src/data/course-catalog/courses/course-512-lend-leadership-education-in-neurodevelopmental-and-related-disabiliti.json"
+    },
+    {
+      "id": 513,
+      "title": "Person Centered Direct Support October 19, 2026",
+      "slug": "person-centered-direct-support-october-19-2026",
+      "file": "src/data/course-catalog/courses/course-513-person-centered-direct-support-october-19-2026.json"
+    },
+    {
+      "id": 514,
+      "title": "Person Centered Direct Support November 04, 2026",
+      "slug": "person-centered-direct-support-november-04-2026",
+      "file": "src/data/course-catalog/courses/course-514-person-centered-direct-support-november-04-2026.json"
     }
   ]
 }
