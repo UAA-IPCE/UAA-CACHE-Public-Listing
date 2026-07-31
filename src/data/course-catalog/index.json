@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-31T20:27:20.104Z",
+  "generated_at": "2026-07-31T21:23:06.340Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 514,
+  "total_courses": 515,
   "courses": [
     {
       "id": 1,
@@ -3086,6 +3086,12 @@
       "title": "Person Centered Direct Support November 04, 2026",
       "slug": "person-centered-direct-support-november-04-2026",
       "file": "src/data/course-catalog/courses/course-514-person-centered-direct-support-november-04-2026.json"
+    },
+    {
+      "id": 515,
+      "title": "Person Centered Direct Support December 05, 2026",
+      "slug": "person-centered-direct-support-december-05-2026",
+      "file": "src/data/course-catalog/courses/course-515-person-centered-direct-support-december-05-2026.json"
     }
   ]
 }
