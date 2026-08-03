@@ -1,0 +1,43 @@
+{
+  "id": 518,
+  "title": "Adult Mental Health First Aid - PUBLIC October 09, 2026",
+  "slug": "adult-mental-health-first-aid-public-october-09-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4966,
+  "summary": "Develop skills to assist adults through mental health crisis.",
+  "description": "Most of us would know how to help if we saw someone having a heart attack—we’d start CPR, or at the very least, call 9-1-1. But too few of us would know how to respond if we saw someone having a panic attack or if we were concerned that a friend or co-worker might be showing signs of alcoholism.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Anchorage",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Jill Ramsey, Lorne Bailey, Niki Knowlton, Brenda Overcast, Hira Raja",
+  "image": "https://continuingstudies.alaska.edu/upload/chd-mhfa.png",
+  "professions": [
+    "behavioral-health",
+    "first-responder"
+  ],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Behavioral Health",
+    "First Responders",
+    "Behavioral and Mental Health",
+    "Emergency and Medical"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-08-03 by daily scrape pipeline.",
+  "last_verified_at": "2026-08-03"
+}

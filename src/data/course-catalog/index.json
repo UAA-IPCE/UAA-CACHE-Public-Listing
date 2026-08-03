@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T16:48:26.386Z",
+  "generated_at": "2026-08-03T17:32:37.011Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 517,
+  "total_courses": 518,
   "courses": [
     {
       "id": 1,
@@ -3104,6 +3104,12 @@
       "title": "Person Centered Direct Support February 22, 2027",
       "slug": "person-centered-direct-support-february-22-2027",
       "file": "src/data/course-catalog/courses/course-517-person-centered-direct-support-february-22-2027.json"
+    },
+    {
+      "id": 518,
+      "title": "Adult Mental Health First Aid - PUBLIC October 09, 2026",
+      "slug": "adult-mental-health-first-aid-public-october-09-2026",
+      "file": "src/data/course-catalog/courses/course-518-adult-mental-health-first-aid-public-october-09-2026.json"
     }
   ]
 }
