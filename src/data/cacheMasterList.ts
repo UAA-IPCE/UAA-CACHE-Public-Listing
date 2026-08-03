@@ -407,4 +407,5 @@ export const cacheMasterList: string[] = [
   "Adult Mental Health First Aid - PUBLIC October 09, 2026",
   "ED A556: Secondary Classroom Motivation & Management Structures",
   "Hearing Distressing Voices October 27, 2026",
+  "LEND Leadership Education in Neurodevelopmental and related Disabilities PRIVATE FY26-FY2727",
 ];

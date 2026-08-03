@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T19:30:47.852Z",
+  "generated_at": "2026-08-03T20:29:34.403Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 520,
+  "total_courses": 521,
   "courses": [
     {
       "id": 1,
@@ -3122,6 +3122,12 @@
       "title": "Hearing Distressing Voices October 27, 2026",
       "slug": "hearing-distressing-voices-october-27-2026",
       "file": "src/data/course-catalog/courses/course-520-hearing-distressing-voices-october-27-2026.json"
+    },
+    {
+      "id": 521,
+      "title": "LEND Leadership Education in Neurodevelopmental and related Disabilities PRIVATE FY26-FY2727",
+      "slug": "lend-leadership-education-in-neurodevelopmental-and-related-disabiliti",
+      "file": "src/data/course-catalog/courses/course-521-lend-leadership-education-in-neurodevelopmental-and-related-disabiliti.json"
     }
   ]
 }
