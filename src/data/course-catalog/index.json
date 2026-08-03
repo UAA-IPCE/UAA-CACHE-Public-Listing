@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T17:32:37.011Z",
+  "generated_at": "2026-08-03T18:33:00.846Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 518,
+  "total_courses": 520,
   "courses": [
     {
       "id": 1,
@@ -3110,6 +3110,18 @@
       "title": "Adult Mental Health First Aid - PUBLIC October 09, 2026",
       "slug": "adult-mental-health-first-aid-public-october-09-2026",
       "file": "src/data/course-catalog/courses/course-518-adult-mental-health-first-aid-public-october-09-2026.json"
+    },
+    {
+      "id": 519,
+      "title": "ED A556: Secondary Classroom Motivation & Management Structures",
+      "slug": "ed-a556-secondary-classroom-motivation-management-structures",
+      "file": "src/data/course-catalog/courses/course-519-ed-a556-secondary-classroom-motivation-management-structures.json"
+    },
+    {
+      "id": 520,
+      "title": "Hearing Distressing Voices October 27, 2026",
+      "slug": "hearing-distressing-voices-october-27-2026",
+      "file": "src/data/course-catalog/courses/course-520-hearing-distressing-voices-october-27-2026.json"
     }
   ]
 }

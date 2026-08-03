@@ -1,0 +1,36 @@
+{
+  "id": 520,
+  "title": "Hearing Distressing Voices October 27, 2026",
+  "slug": "hearing-distressing-voices-october-27-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4967,
+  "summary": "A 4-hour experiential training on hearing distressing voices.",
+  "description": "The Hearing Distressing Voices (HDV) workshop is a groundbreaking and empathy-building experience that helps participants understand the challenges and strengths of people who experience psychosis. The workshop is a 4-hour experiential training that provides a simulated experience of what it may be like to hear voices that are distressing. Participants use MP3 players and ear buds to simulate hearing distressing voices while participating in scenarios and environments in which to navigate. This workshop is intended for non-voice hearers.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Utqiagvik",
+  "region": "Northwest",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Jill Ramsey, Lorne Bailey, Niki Knowlton, Brenda Overcast, Hira Raja",
+  "image": "https://continuingstudies.alaska.edu/upload/Hearing%20Voices.jpeg",
+  "professions": [],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-08-03 by daily scrape pipeline.",
+  "last_verified_at": "2026-08-03"
+}

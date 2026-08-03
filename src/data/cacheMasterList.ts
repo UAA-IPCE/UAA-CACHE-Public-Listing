@@ -405,4 +405,6 @@ export const cacheMasterList: string[] = [
   "Person Centered Direct Support January 19, 2027",
   "Person Centered Direct Support February 22, 2027",
   "Adult Mental Health First Aid - PUBLIC October 09, 2026",
+  "ED A556: Secondary Classroom Motivation & Management Structures",
+  "Hearing Distressing Voices October 27, 2026",
 ];
