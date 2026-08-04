@@ -1,0 +1,36 @@
+{
+  "id": 522,
+  "title": "Personal Training Consultation - Amber",
+  "slug": "personal-training-consultation-amber",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4970,
+  "summary": "",
+  "description": "Initial Consultation The program begins with an initial consultation with a personal trainer. The initial consult consists of a 1.5 hour session in which the personal trainer will evaluate your current level of fitness, discuss and help you set goals and create a plan to get you closer to those fitness goals. Please dress in comfortable work-out clothes, wear indoor gym shoes, and bring a water bottle. Policies Participants in the Personal Trainer Program must have current memberships at the PWSC Health & Fitness Center or pay the daily rate when working with the personal trainer.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Valdez",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Amber Mehlberg",
+  "image": "https://continuingstudies.alaska.edu/upload/PT-Consult.jpg",
+  "professions": [],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-08-04 by daily scrape pipeline.",
+  "last_verified_at": "2026-08-04"
+}

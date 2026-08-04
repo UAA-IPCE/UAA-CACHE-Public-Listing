@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T22:23:14.300Z",
+  "generated_at": "2026-08-04T23:21:10.355Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 521,
+  "total_courses": 523,
   "courses": [
     {
       "id": 1,
@@ -3128,6 +3128,18 @@
       "title": "LEND Leadership Education in Neurodevelopmental and related Disabilities PRIVATE FY26-FY2727",
       "slug": "lend-leadership-education-in-neurodevelopmental-and-related-disabiliti",
       "file": "src/data/course-catalog/courses/course-521-lend-leadership-education-in-neurodevelopmental-and-related-disabiliti.json"
+    },
+    {
+      "id": 522,
+      "title": "Personal Training Consultation - Amber",
+      "slug": "personal-training-consultation-amber",
+      "file": "src/data/course-catalog/courses/course-522-personal-training-consultation-amber.json"
+    },
+    {
+      "id": 523,
+      "title": "AHHA Annual Conference - September 15-16, 2026",
+      "slug": "ahha-annual-conference-september-15-16-2026",
+      "file": "src/data/course-catalog/courses/course-523-ahha-annual-conference-september-15-16-2026.json"
     }
   ]
 }

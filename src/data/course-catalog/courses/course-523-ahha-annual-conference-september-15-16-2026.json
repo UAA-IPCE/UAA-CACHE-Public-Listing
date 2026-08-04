@@ -1,0 +1,39 @@
+{
+  "id": 523,
+  "title": "AHHA Annual Conference - September 15-16, 2026",
+  "slug": "ahha-annual-conference-september-15-16-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4969,
+  "summary": "AHHA Annual Conference to discuss AK Healthcare System",
+  "description": "Welcome to the 2026 AHHA Annual Conference — the premier gathering for healthcare leaders, partners, and innovators from across Alaska. Join us to learn from industry experts, share proven resources, and network with like-minded professionals dedicated to elevating care throughout our state. We are excited to host a dynamic lineup of speakers tackling pressing issues in Alaskan healthcare today—from the nuances of ethical data use and patient safety to the evolving legal and legislative landscape and the evolving demands of leadership.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Girdwood",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Instructor Varied",
+  "image": "https://continuingstudies.alaska.edu/upload/ahec_ahha.png",
+  "professions": [
+    "nurse"
+  ],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Nursing"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-08-04 by daily scrape pipeline.",
+  "last_verified_at": "2026-08-04"
+}

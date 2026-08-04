@@ -408,4 +408,6 @@ export const cacheMasterList: string[] = [
   "ED A556: Secondary Classroom Motivation & Management Structures",
   "Hearing Distressing Voices October 27, 2026",
   "LEND Leadership Education in Neurodevelopmental and related Disabilities PRIVATE FY26-FY2727",
+  "Personal Training Consultation - Amber",
+  "AHHA Annual Conference - September 15-16, 2026",
 ];
