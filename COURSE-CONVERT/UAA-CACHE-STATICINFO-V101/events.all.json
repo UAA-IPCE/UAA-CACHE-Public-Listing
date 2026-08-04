@@ -5887,7 +5887,7 @@
     "start_date": null,
     "end_date": null,
     "enrollments": 0,
-    "cap": 30,
+    "cap": 50,
     "credits": 1,
     "contact_hours": null,
     "term": "On-Demand",
