@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T17:30:18.839Z",
+  "generated_at": "2026-08-05T18:30:00.128Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 523,
+  "total_courses": 524,
   "courses": [
     {
       "id": 1,
@@ -3140,6 +3140,12 @@
       "title": "AHHA Annual Conference - September 15-16, 2026",
       "slug": "ahha-annual-conference-september-15-16-2026",
       "file": "src/data/course-catalog/courses/course-523-ahha-annual-conference-september-15-16-2026.json"
+    },
+    {
+      "id": 524,
+      "title": "ED A556: Inspiring Success: People and Passion Driving our Achievement",
+      "slug": "ed-a556-inspiring-success-people-and-passion-driving-our-achievement",
+      "file": "src/data/course-catalog/courses/course-524-ed-a556-inspiring-success-people-and-passion-driving-our-achievement.json"
     }
   ]
 }
