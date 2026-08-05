@@ -411,4 +411,6 @@ export const cacheMasterList: string[] = [
   "Personal Training Consultation - Amber",
   "AHHA Annual Conference - September 15-16, 2026",
   "ED A556: Inspiring Success: People and Passion Driving our Achievement",
+  "ED A565: The Efficient Teacher: Using AI to Work Smarter, Teach Better",
+  "ED A575: Level Up Your Teaching",
 ];

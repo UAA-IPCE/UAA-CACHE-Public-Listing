@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T18:30:00.128Z",
+  "generated_at": "2026-08-05T19:30:25.396Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 524,
+  "total_courses": 526,
   "courses": [
     {
       "id": 1,
@@ -3146,6 +3146,18 @@
       "title": "ED A556: Inspiring Success: People and Passion Driving our Achievement",
       "slug": "ed-a556-inspiring-success-people-and-passion-driving-our-achievement",
       "file": "src/data/course-catalog/courses/course-524-ed-a556-inspiring-success-people-and-passion-driving-our-achievement.json"
+    },
+    {
+      "id": 525,
+      "title": "ED A565: The Efficient Teacher: Using AI to Work Smarter, Teach Better",
+      "slug": "ed-a565-the-efficient-teacher-using-ai-to-work-smarter-teach-better",
+      "file": "src/data/course-catalog/courses/course-525-ed-a565-the-efficient-teacher-using-ai-to-work-smarter-teach-better.json"
+    },
+    {
+      "id": 526,
+      "title": "ED A575: Level Up Your Teaching",
+      "slug": "ed-a575-level-up-your-teaching",
+      "file": "src/data/course-catalog/courses/course-526-ed-a575-level-up-your-teaching.json"
     }
   ]
 }
