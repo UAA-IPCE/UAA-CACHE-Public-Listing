@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T22:22:09.060Z",
+  "generated_at": "2026-08-05T23:20:48.512Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 528,
+  "total_courses": 529,
   "courses": [
     {
       "id": 1,
@@ -3170,6 +3170,12 @@
       "title": "2nd Annual Packraft Film Fest 2026",
       "slug": "2nd-annual-packraft-film-fest-2026",
       "file": "src/data/course-catalog/courses/course-528-2nd-annual-packraft-film-fest-2026.json"
+    },
+    {
+      "id": 529,
+      "title": "Be Sensitive, Be Brave for Suicide Prevention September 25, 2026",
+      "slug": "be-sensitive-be-brave-for-suicide-prevention-september-25-2026",
+      "file": "src/data/course-catalog/courses/course-529-be-sensitive-be-brave-for-suicide-prevention-september-25-2026.json"
     }
   ]
 }
