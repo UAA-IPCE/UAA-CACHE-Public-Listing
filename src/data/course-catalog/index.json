@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T19:30:25.396Z",
+  "generated_at": "2026-08-05T20:29:49.169Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 526,
+  "total_courses": 527,
   "courses": [
     {
       "id": 1,
@@ -3158,6 +3158,12 @@
       "title": "ED A575: Level Up Your Teaching",
       "slug": "ed-a575-level-up-your-teaching",
       "file": "src/data/course-catalog/courses/course-526-ed-a575-level-up-your-teaching.json"
+    },
+    {
+      "id": 527,
+      "title": "Introduction to FASD September 2026",
+      "slug": "introduction-to-fasd-september-2026",
+      "file": "src/data/course-catalog/courses/course-527-introduction-to-fasd-september-2026.json"
     }
   ]
 }

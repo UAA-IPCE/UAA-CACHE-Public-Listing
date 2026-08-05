@@ -1,0 +1,45 @@
+{
+  "id": 527,
+  "title": "Introduction to FASD September 2026",
+  "slug": "introduction-to-fasd-september-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4965,
+  "summary": "Click info for description and registration link",
+  "description": "FASD into Action for Behavioral Health Professionals is developed from the work pioneered by Diane Malbin, MSW.",
+  "delivery_method": "live",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Tami Eller, Lorne Bailey, Gloria Lumba, Brenda Overcast, Hira Raja, Brenda Ursel",
+  "image": "https://continuingstudies.alaska.edu/upload/FSTC_Brain_Puzzle.png",
+  "professions": [
+    "behavioral-health",
+    "dental"
+  ],
+  "topic_tags": [
+    "fasd"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Behavioral Health",
+    "Dental",
+    "FASD - Fetal Alcohol Syndrome",
+    "Behavioral and Mental Health"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-08-05 by daily scrape pipeline.",
+  "last_verified_at": "2026-08-05"
+}

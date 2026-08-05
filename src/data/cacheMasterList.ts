@@ -413,4 +413,5 @@ export const cacheMasterList: string[] = [
   "ED A556: Inspiring Success: People and Passion Driving our Achievement",
   "ED A565: The Efficient Teacher: Using AI to Work Smarter, Teach Better",
   "ED A575: Level Up Your Teaching",
+  "Introduction to FASD September 2026",
 ];
