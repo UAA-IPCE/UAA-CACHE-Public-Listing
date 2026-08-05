@@ -1,0 +1,36 @@
+{
+  "id": 528,
+  "title": "2nd Annual Packraft Film Fest 2026",
+  "slug": "2nd-annual-packraft-film-fest-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4974,
+  "summary": "",
+  "description": "Greetings, Packrafters! Prince William Sound College and the Outdoor Leadership Program is excited to host the 2nd Annual Packraft Filmfest on September 25–27. This year's event is bigger than ever. Join us for an ACA Level 2 Packrafting Certification Course from September 25–27, then kick back with fellow adventurers for the Packraft Filmfest on Saturday evening from 6:00–8:00 p.m. Whether you're a seasoned packrafter, just packraft-curious, or simply enjoy watching people make questionable decisions in spectacular places, this weekend is for you.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Valdez",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Benjamin Rush",
+  "image": "https://continuingstudies.alaska.edu/upload/Packraft%202.jpg",
+  "professions": [],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-08-05 by daily scrape pipeline.",
+  "last_verified_at": "2026-08-05"
+}
