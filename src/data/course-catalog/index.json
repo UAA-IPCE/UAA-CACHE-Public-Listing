@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T00:20:30.907Z",
+  "generated_at": "2026-08-06T01:32:19.889Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 529,
+  "total_courses": 530,
   "courses": [
     {
       "id": 1,
@@ -3176,6 +3176,12 @@
       "title": "Be Sensitive, Be Brave for Suicide Prevention September 25, 2026",
       "slug": "be-sensitive-be-brave-for-suicide-prevention-september-25-2026",
       "file": "src/data/course-catalog/courses/course-529-be-sensitive-be-brave-for-suicide-prevention-september-25-2026.json"
+    },
+    {
+      "id": 530,
+      "title": "Be Sensitive, Be Brave for Suicide Prevention November 12, 2026",
+      "slug": "be-sensitive-be-brave-for-suicide-prevention-november-12-2026",
+      "file": "src/data/course-catalog/courses/course-530-be-sensitive-be-brave-for-suicide-prevention-november-12-2026.json"
     }
   ]
 }

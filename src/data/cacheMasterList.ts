@@ -416,4 +416,5 @@ export const cacheMasterList: string[] = [
   "Introduction to FASD September 2026",
   "2nd Annual Packraft Film Fest 2026",
   "Be Sensitive, Be Brave for Suicide Prevention September 25, 2026",
+  "Be Sensitive, Be Brave for Suicide Prevention November 12, 2026",
 ];
