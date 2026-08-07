@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T14:46:14.459Z",
+  "generated_at": "2026-08-07T00:00:09.705Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 530,
+  "total_courses": 534,
   "courses": [
     {
       "id": 1,
@@ -3182,6 +3182,30 @@
       "title": "Be Sensitive, Be Brave for Suicide Prevention November 12, 2026",
       "slug": "be-sensitive-be-brave-for-suicide-prevention-november-12-2026",
       "file": "src/data/course-catalog/courses/course-530-be-sensitive-be-brave-for-suicide-prevention-november-12-2026.json"
+    },
+    {
+      "id": 531,
+      "title": "An Adventure for Rock Hounds F26",
+      "slug": "an-adventure-for-rock-hounds-f26",
+      "file": "src/data/course-catalog/courses/course-531-an-adventure-for-rock-hounds-f26.json"
+    },
+    {
+      "id": 532,
+      "title": "Be Sensitive, Be Brave for Suicide Prevention December 15, 2026",
+      "slug": "be-sensitive-be-brave-for-suicide-prevention-december-15-2026",
+      "file": "src/data/course-catalog/courses/course-532-be-sensitive-be-brave-for-suicide-prevention-december-15-2026.json"
+    },
+    {
+      "id": 533,
+      "title": "Be Sensitive, Be Brave for Suicide Prevention February 24, 2027",
+      "slug": "be-sensitive-be-brave-for-suicide-prevention-february-24-2027",
+      "file": "src/data/course-catalog/courses/course-533-be-sensitive-be-brave-for-suicide-prevention-february-24-2027.json"
+    },
+    {
+      "id": 534,
+      "title": "Be Sensitive, Be Brave for Suicide Prevention April 08, 2027",
+      "slug": "be-sensitive-be-brave-for-suicide-prevention-april-08-2027",
+      "file": "src/data/course-catalog/courses/course-534-be-sensitive-be-brave-for-suicide-prevention-april-08-2027.json"
     }
   ]
 }

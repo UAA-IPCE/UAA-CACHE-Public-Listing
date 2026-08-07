@@ -1,0 +1,36 @@
+{
+  "id": 531,
+  "title": "An Adventure for Rock Hounds F26",
+  "slug": "an-adventure-for-rock-hounds-f26",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4980,
+  "summary": "HOMER - Lecture and rock-hounding geology field trip ",
+  "description": "Have you ever wondered how the mountains surrounding Homer were formed, or what secrets may lie in the stones and rocks that cover our beaches and trails? Join Taz Tally, aka \"The Rock Doc\" to find out! Take a journey back through time with Taz down Diamond Creek Trail and along the shoreline, as he reveals the forces of nature that have shaped Kachemak Bay and created one of the great rock-hounding beaches .",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Homer",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Taz Tally",
+  "image": "https://continuingstudies.alaska.edu/upload/KBCTallyrockhound%20.jpg",
+  "professions": [],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-08-07 by daily scrape pipeline.",
+  "last_verified_at": "2026-08-07"
+}
