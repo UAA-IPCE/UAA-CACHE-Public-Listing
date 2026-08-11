@@ -421,4 +421,6 @@ export const cacheMasterList: string[] = [
   "Be Sensitive, Be Brave for Suicide Prevention December 15, 2026",
   "Be Sensitive, Be Brave for Suicide Prevention February 24, 2027",
   "Be Sensitive, Be Brave for Suicide Prevention April 08, 2027",
+  "ED A556: Apprentice Community of Practice Seminar for Mentors",
+  "ED A576: Engaged Teaching: Evidence-Based Strategies for Inclusive, Culturally Responsive Classrooms",
 ];

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T22:11:48.141Z",
+  "generated_at": "2026-08-11T00:10:49.882Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 534,
+  "total_courses": 536,
   "courses": [
     {
       "id": 1,
@@ -3206,6 +3206,18 @@
       "title": "Be Sensitive, Be Brave for Suicide Prevention April 08, 2027",
       "slug": "be-sensitive-be-brave-for-suicide-prevention-april-08-2027",
       "file": "src/data/course-catalog/courses/course-534-be-sensitive-be-brave-for-suicide-prevention-april-08-2027.json"
+    },
+    {
+      "id": 535,
+      "title": "ED A556: Apprentice Community of Practice Seminar for Mentors",
+      "slug": "ed-a556-apprentice-community-of-practice-seminar-for-mentors",
+      "file": "src/data/course-catalog/courses/course-535-ed-a556-apprentice-community-of-practice-seminar-for-mentors.json"
+    },
+    {
+      "id": 536,
+      "title": "ED A576: Engaged Teaching: Evidence-Based Strategies for Inclusive, Culturally Responsive Classrooms",
+      "slug": "ed-a576-engaged-teaching-evidence-based-strategies-for-inclusive-cultu",
+      "file": "src/data/course-catalog/courses/course-536-ed-a576-engaged-teaching-evidence-based-strategies-for-inclusive-cultu.json"
     }
   ]
 }
