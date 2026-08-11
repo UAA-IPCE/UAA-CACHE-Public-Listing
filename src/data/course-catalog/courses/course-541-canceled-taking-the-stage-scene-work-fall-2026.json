@@ -1,0 +1,37 @@
+{
+  "id": 541,
+  "title": "CANCELED - Taking the Stage: Scene Work - Fall 2026",
+  "slug": "canceled-taking-the-stage-scene-work-fall-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4785,
+  "summary": "Team building - drama games, improvisation, staged scenes",
+  "description": "Students participate in drama games, improvisation and work a presentation of staged scenes (memorization not required) and original monologues of moments from their own lives. This is a fun-loving, team building class -- moving one out of a feeling of isolation and stepping into a creative endeavor with others. This class culminates with a sharing of scenes for invited guests. Class will meet once per week for seven weeks. Each session is two hours.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Palmer",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Tina Chevalier",
+  "image": "https://continuingstudies.alaska.edu/upload/MSC%20-Taking%20the%20Stage%20Scene%20Work.jpg",
+  "professions": [],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Students"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-08-11 by daily scrape pipeline.",
+  "last_verified_at": "2026-08-11"
+}

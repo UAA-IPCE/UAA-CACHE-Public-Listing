@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-11T22:14:33.610Z",
+  "generated_at": "2026-08-11T23:14:33.939Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 539,
+  "total_courses": 541,
   "courses": [
     {
       "id": 1,
@@ -3236,6 +3236,18 @@
       "title": "Question, Persuade and Refer Suicide Prevention (QPR) September 01, 2026",
       "slug": "question-persuade-and-refer-suicide-prevention-qpr-september-01-2026",
       "file": "src/data/course-catalog/courses/course-539-question-persuade-and-refer-suicide-prevention-qpr-september-01-2026.json"
+    },
+    {
+      "id": 540,
+      "title": "CANCELED - Improvisation Theater - Fall 2026",
+      "slug": "canceled-improvisation-theater-fall-2026",
+      "file": "src/data/course-catalog/courses/course-540-canceled-improvisation-theater-fall-2026.json"
+    },
+    {
+      "id": 541,
+      "title": "CANCELED - Taking the Stage: Scene Work - Fall 2026",
+      "slug": "canceled-taking-the-stage-scene-work-fall-2026",
+      "file": "src/data/course-catalog/courses/course-541-canceled-taking-the-stage-scene-work-fall-2026.json"
     }
   ]
 }

@@ -426,4 +426,6 @@ export const cacheMasterList: string[] = [
   "CANCELLED - Trust-Based Relational Intervention (TBRI) August 2026",
   "ED A591: Come Together as One as We Move, Create, and Drum!",
   "Question, Persuade and Refer Suicide Prevention (QPR) September 01, 2026",
+  "CANCELED - Improvisation Theater - Fall 2026",
+  "CANCELED - Taking the Stage: Scene Work - Fall 2026",
 ];

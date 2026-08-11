@@ -1,0 +1,40 @@
+{
+  "id": 540,
+  "title": "CANCELED - Improvisation Theater - Fall 2026",
+  "slug": "canceled-improvisation-theater-fall-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4784,
+  "summary": "Real-life storytelling with improvised dramatization",
+  "description": "This is a fun-loving, confidence building class that explores the use of role play to explore creativity and build a sense of community. Students will experience team building activities using the drama skills of creating tableau, pantomimed action, use of representative props and costumes to bring original and simple scripts to life. Students will experiment with the use of voice, body, imagination, and cooperative team work to explore playwriting. Elements of Playback Theatre will be introduced. This is a form of theatre that combines real-life storytelling with improvised dramatization.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Palmer",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Tina Chevalier",
+  "image": "https://continuingstudies.alaska.edu/upload/MSC%20-%20Improvisation%20Theater.jpg",
+  "professions": [],
+  "topic_tags": [
+    "substance-use-disorders"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Substance Use Disorders",
+    "Students"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-08-11 by daily scrape pipeline.",
+  "last_verified_at": "2026-08-11"
+}
