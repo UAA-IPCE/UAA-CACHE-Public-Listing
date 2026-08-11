@@ -424,4 +424,6 @@ export const cacheMasterList: string[] = [
   "ED A556: Apprentice Community of Practice Seminar for Mentors",
   "ED A576: Engaged Teaching: Evidence-Based Strategies for Inclusive, Culturally Responsive Classrooms",
   "CANCELLED - Trust-Based Relational Intervention (TBRI) August 2026",
+  "ED A591: Come Together as One as We Move, Create, and Drum!",
+  "Question, Persuade and Refer Suicide Prevention (QPR) September 01, 2026",
 ];

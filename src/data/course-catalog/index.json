@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-11T18:16:19.135Z",
+  "generated_at": "2026-08-11T19:22:12.066Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 537,
+  "total_courses": 539,
   "courses": [
     {
       "id": 1,
@@ -3224,6 +3224,18 @@
       "title": "CANCELLED - Trust-Based Relational Intervention (TBRI) August 2026",
       "slug": "cancelled-trust-based-relational-intervention-tbri-august-2026",
       "file": "src/data/course-catalog/courses/course-537-cancelled-trust-based-relational-intervention-tbri-august-2026.json"
+    },
+    {
+      "id": 538,
+      "title": "ED A591: Come Together as One as We Move, Create, and Drum!",
+      "slug": "ed-a591-come-together-as-one-as-we-move-create-and-drum",
+      "file": "src/data/course-catalog/courses/course-538-ed-a591-come-together-as-one-as-we-move-create-and-drum.json"
+    },
+    {
+      "id": 539,
+      "title": "Question, Persuade and Refer Suicide Prevention (QPR) September 01, 2026",
+      "slug": "question-persuade-and-refer-suicide-prevention-qpr-september-01-2026",
+      "file": "src/data/course-catalog/courses/course-539-question-persuade-and-refer-suicide-prevention-qpr-september-01-2026.json"
     }
   ]
 }
