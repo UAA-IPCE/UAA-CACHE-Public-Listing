@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-11T16:17:14.968Z",
+  "generated_at": "2026-08-11T17:18:51.363Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 536,
+  "total_courses": 537,
   "courses": [
     {
       "id": 1,
@@ -3218,6 +3218,12 @@
       "title": "ED A576: Engaged Teaching: Evidence-Based Strategies for Inclusive, Culturally Responsive Classrooms",
       "slug": "ed-a576-engaged-teaching-evidence-based-strategies-for-inclusive-cultu",
       "file": "src/data/course-catalog/courses/course-536-ed-a576-engaged-teaching-evidence-based-strategies-for-inclusive-cultu.json"
+    },
+    {
+      "id": 537,
+      "title": "CANCELLED - Trust-Based Relational Intervention (TBRI) August 2026",
+      "slug": "cancelled-trust-based-relational-intervention-tbri-august-2026",
+      "file": "src/data/course-catalog/courses/course-537-cancelled-trust-based-relational-intervention-tbri-august-2026.json"
     }
   ]
 }
