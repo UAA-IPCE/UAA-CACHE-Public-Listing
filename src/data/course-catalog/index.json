@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T18:16:49.357Z",
+  "generated_at": "2026-08-12T19:22:22.959Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 544,
+  "total_courses": 545,
   "courses": [
     {
       "id": 1,
@@ -3266,6 +3266,12 @@
       "title": "Question, Persuade and Refer Suicide Prevention (QPR) December 01, 2026",
       "slug": "question-persuade-and-refer-suicide-prevention-qpr-december-01-2026",
       "file": "src/data/course-catalog/courses/course-544-question-persuade-and-refer-suicide-prevention-qpr-december-01-2026.json"
+    },
+    {
+      "id": 545,
+      "title": "Question, Persuade and Refer Suicide Prevention (QPR) January 26, 2027",
+      "slug": "question-persuade-and-refer-suicide-prevention-qpr-january-26-2027",
+      "file": "src/data/course-catalog/courses/course-545-question-persuade-and-refer-suicide-prevention-qpr-january-26-2027.json"
     }
   ]
 }

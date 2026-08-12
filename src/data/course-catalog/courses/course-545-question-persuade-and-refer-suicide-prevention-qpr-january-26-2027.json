@@ -1,0 +1,41 @@
+{
+  "id": 545,
+  "title": "Question, Persuade and Refer Suicide Prevention (QPR) January 26, 2027",
+  "slug": "question-persuade-and-refer-suicide-prevention-qpr-january-26-2027",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4993,
+  "summary": "Learn  to recognize warnings signs of suicide and how to help.",
+  "description": "The Alaska Gatekeeper Training uses the QPR method as its core training. QPR stands for Question, Persuade and Refer, an emergency mental health intervention for suicidal persons created by Dr. Paul Quinnett. QPR is a basic education program that teaches everyday community members to recognize a suicide risk and how to get a person at risk the help they need. It is also an action plan that can result in lives saved. A Gatekeeper is anyone within a community who is in a position to recognize the warning signs that someone may be thinking about suicide.",
+  "delivery_method": "live",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Wendi Shackelford, Brenda Overcast, Lorne Bailey, Hira Raja",
+  "image": "https://continuingstudies.alaska.edu/upload/qpr%20logo.png",
+  "professions": [
+    "behavioral-health"
+  ],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Behavioral Health",
+    "Behavioral and Mental Health",
+    "Emergency and Medical"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-08-12 by daily scrape pipeline.",
+  "last_verified_at": "2026-08-12"
+}
