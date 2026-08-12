@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T16:17:30.493Z",
+  "generated_at": "2026-08-12T17:18:55.153Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 541,
+  "total_courses": 544,
   "courses": [
     {
       "id": 1,
@@ -3248,6 +3248,24 @@
       "title": "CANCELED - Taking the Stage: Scene Work - Fall 2026",
       "slug": "canceled-taking-the-stage-scene-work-fall-2026",
       "file": "src/data/course-catalog/courses/course-541-canceled-taking-the-stage-scene-work-fall-2026.json"
+    },
+    {
+      "id": 542,
+      "title": "Question, Persuade and Refer Suicide Prevention (QPR) October 20, 2026",
+      "slug": "question-persuade-and-refer-suicide-prevention-qpr-october-20-2026",
+      "file": "src/data/course-catalog/courses/course-542-question-persuade-and-refer-suicide-prevention-qpr-october-20-2026.json"
+    },
+    {
+      "id": 543,
+      "title": "Adverse Childhood Experiences (ACES)* November 06, 2026",
+      "slug": "adverse-childhood-experiences-aces-november-06-2026",
+      "file": "src/data/course-catalog/courses/course-543-adverse-childhood-experiences-aces-november-06-2026.json"
+    },
+    {
+      "id": 544,
+      "title": "Question, Persuade and Refer Suicide Prevention (QPR) December 01, 2026",
+      "slug": "question-persuade-and-refer-suicide-prevention-qpr-december-01-2026",
+      "file": "src/data/course-catalog/courses/course-544-question-persuade-and-refer-suicide-prevention-qpr-december-01-2026.json"
     }
   ]
 }

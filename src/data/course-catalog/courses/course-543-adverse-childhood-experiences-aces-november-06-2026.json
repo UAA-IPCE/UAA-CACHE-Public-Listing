@@ -1,0 +1,47 @@
+{
+  "id": 543,
+  "title": "Adverse Childhood Experiences (ACES)* November 06, 2026",
+  "slug": "adverse-childhood-experiences-aces-november-06-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4990,
+  "summary": "ACES are potentially traumatic events that occur in childhood",
+  "description": "Adverse Childhood Experiences are potentially traumatic events that occur in childhood. Toxic stress from ACEs can change brain development and affect how the body responds to stress. ACEs are linked to chronic health problems, mental illness, and substance misuse in adulthood. However, ACEs can be prevented and you can HEAL at any age. A Survival Mode Response to toxic stress increases a child’s heart rate, blood pressure, breathing and muscle tension. Their thinking brain is knocked off-line. Self-protection is their priority.",
+  "delivery_method": "live",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Wendi Shackelford, Lorne Bailey, Brenda Overcast, Hira Raja",
+  "image": "https://continuingstudies.alaska.edu/upload/aces.jpeg",
+  "professions": [
+    "behavioral-health",
+    "first-responder"
+  ],
+  "topic_tags": [
+    "substance-use-disorders",
+    "trauma-informed-care",
+    "chronic-disease"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Behavioral Health",
+    "First Responders",
+    "Substance Use Disorders",
+    "Trauma Informed Care"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-08-12 by daily scrape pipeline.",
+  "last_verified_at": "2026-08-12"
+}

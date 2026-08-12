@@ -428,4 +428,7 @@ export const cacheMasterList: string[] = [
   "Question, Persuade and Refer Suicide Prevention (QPR) September 01, 2026",
   "CANCELED - Improvisation Theater - Fall 2026",
   "CANCELED - Taking the Stage: Scene Work - Fall 2026",
+  "Question, Persuade and Refer Suicide Prevention (QPR) October 20, 2026",
+  "Adverse Childhood Experiences (ACES)* November 06, 2026",
+  "Question, Persuade and Refer Suicide Prevention (QPR) December 01, 2026",
 ];
