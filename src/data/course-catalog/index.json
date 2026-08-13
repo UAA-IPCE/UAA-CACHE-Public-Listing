@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T21:15:32.631Z",
+  "generated_at": "2026-08-13T22:14:15.959Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 551,
+  "total_courses": 552,
   "courses": [
     {
       "id": 1,
@@ -3308,6 +3308,12 @@
       "title": "ED A556: Visible Learning: From Research to Classroom Practice",
       "slug": "ed-a556-visible-learning-from-research-to-classroom-practice",
       "file": "src/data/course-catalog/courses/course-551-ed-a556-visible-learning-from-research-to-classroom-practice.json"
+    },
+    {
+      "id": 552,
+      "title": "Person Centered Direct Support March 24, 2027",
+      "slug": "person-centered-direct-support-march-24-2027",
+      "file": "src/data/course-catalog/courses/course-552-person-centered-direct-support-march-24-2027.json"
     }
   ]
 }
