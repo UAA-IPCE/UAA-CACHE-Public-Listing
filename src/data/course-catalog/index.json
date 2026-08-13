@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T17:18:49.294Z",
+  "generated_at": "2026-08-13T18:17:09.672Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 548,
+  "total_courses": 550,
   "courses": [
     {
       "id": 1,
@@ -3290,6 +3290,18 @@
       "title": "2026 All-Alaska Medical Conference",
       "slug": "2026-all-alaska-medical-conference",
       "file": "src/data/course-catalog/courses/course-548-2026-all-alaska-medical-conference.json"
+    },
+    {
+      "id": 549,
+      "title": "ED A555: Montessori Mentorship: Section 1",
+      "slug": "ed-a555-montessori-mentorship-section-1",
+      "file": "src/data/course-catalog/courses/course-549-ed-a555-montessori-mentorship-section-1.json"
+    },
+    {
+      "id": 550,
+      "title": "ED A555: Montessori Training for Certificated Teachers: Section 1",
+      "slug": "ed-a555-montessori-training-for-certificated-teachers-section-1",
+      "file": "src/data/course-catalog/courses/course-550-ed-a555-montessori-training-for-certificated-teachers-section-1.json"
     }
   ]
 }
