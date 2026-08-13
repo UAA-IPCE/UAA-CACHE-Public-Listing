@@ -1,0 +1,42 @@
+{
+  "id": 548,
+  "title": "2026 All-Alaska Medical Conference",
+  "slug": "2026-all-alaska-medical-conference",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 5000,
+  "summary": "The newest up-to-date info for PAs, NPs and Physicians! ",
+  "description": "When: October 14-16, 2026 Where: BP Energy Center For more information, including registration, visit the event website here. Join medical professionals from across Alaska and the Pacific Northwest for the 2026 All-Alaska Medical Conference—Alaska’s premier CME event for PAs and advanced practice providers.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Anchorage",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Instructor Varied",
+  "image": "https://continuingstudies.alaska.edu/upload/ahec_AKAPA-LOGO.png",
+  "professions": [
+    "physician"
+  ],
+  "topic_tags": [
+    "substance-use-disorders"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Physicians",
+    "Substance Use Disorders"
+  ],
+  "credits": [
+    "CME"
+  ],
+  "notes": "Auto-discovered on 2026-08-13 by daily scrape pipeline.",
+  "last_verified_at": "2026-08-13"
+}

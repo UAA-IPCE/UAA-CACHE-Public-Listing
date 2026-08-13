@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T00:15:35.958Z",
+  "generated_at": "2026-08-13T01:31:22.881Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 547,
+  "total_courses": 548,
   "courses": [
     {
       "id": 1,
@@ -3284,6 +3284,12 @@
       "title": "Supported Employment Basic Level of Association of Community Rehabilitation Educators (ACRE) January 05 - February 11",
       "slug": "supported-employment-basic-level-of-association-of-community-rehabilit",
       "file": "src/data/course-catalog/courses/course-547-supported-employment-basic-level-of-association-of-community-rehabilit.json"
+    },
+    {
+      "id": 548,
+      "title": "2026 All-Alaska Medical Conference",
+      "slug": "2026-all-alaska-medical-conference",
+      "file": "src/data/course-catalog/courses/course-548-2026-all-alaska-medical-conference.json"
     }
   ]
 }

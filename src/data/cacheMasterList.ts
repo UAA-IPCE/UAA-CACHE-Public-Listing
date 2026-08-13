@@ -434,4 +434,5 @@ export const cacheMasterList: string[] = [
   "Question, Persuade and Refer Suicide Prevention (QPR) January 26, 2027",
   "Supported Employment Basic Level of Association of Community Rehabilitation Educators (ACRE) Sept. 15 - Oct. 22",
   "Supported Employment Basic Level of Association of Community Rehabilitation Educators (ACRE) January 05 - February 11",
+  "2026 All-Alaska Medical Conference",
 ];
