@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T18:17:09.672Z",
+  "generated_at": "2026-08-13T19:22:21.675Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 550,
+  "total_courses": 551,
   "courses": [
     {
       "id": 1,
@@ -3302,6 +3302,12 @@
       "title": "ED A555: Montessori Training for Certificated Teachers: Section 1",
       "slug": "ed-a555-montessori-training-for-certificated-teachers-section-1",
       "file": "src/data/course-catalog/courses/course-550-ed-a555-montessori-training-for-certificated-teachers-section-1.json"
+    },
+    {
+      "id": 551,
+      "title": "ED A556: Visible Learning: From Research to Classroom Practice",
+      "slug": "ed-a556-visible-learning-from-research-to-classroom-practice",
+      "file": "src/data/course-catalog/courses/course-551-ed-a556-visible-learning-from-research-to-classroom-practice.json"
     }
   ]
 }
