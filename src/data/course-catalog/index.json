@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T22:14:15.959Z",
+  "generated_at": "2026-08-13T23:14:28.379Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 552,
+  "total_courses": 553,
   "courses": [
     {
       "id": 1,
@@ -3314,6 +3314,12 @@
       "title": "Person Centered Direct Support March 24, 2027",
       "slug": "person-centered-direct-support-march-24-2027",
       "file": "src/data/course-catalog/courses/course-552-person-centered-direct-support-march-24-2027.json"
+    },
+    {
+      "id": 553,
+      "title": "Adverse Childhood Experiences (ACES)* January 21, 2027",
+      "slug": "adverse-childhood-experiences-aces-january-21-2027",
+      "file": "src/data/course-catalog/courses/course-553-adverse-childhood-experiences-aces-january-21-2027.json"
     }
   ]
 }
