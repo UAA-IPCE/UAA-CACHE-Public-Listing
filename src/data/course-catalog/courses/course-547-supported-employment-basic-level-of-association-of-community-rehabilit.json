@@ -1,0 +1,36 @@
+{
+  "id": 547,
+  "title": "Supported Employment Basic Level of Association of Community Rehabilitation Educators (ACRE) January 05 - February 11",
+  "slug": "supported-employment-basic-level-of-association-of-community-rehabilit",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 4999,
+  "summary": "The National Certificate of Achievement in Employment Services ",
+  "description": "The National Certificate of Achievement in Employment Services Training Course (Basic Level) concentrates on practical employment strategies for people with disabilities. It provides an overview of significant disabilities, strategies for career development, job development, job support, and rehabilitation issues and current trends. Completion of this course and all required classwork results in a National Certificate of Achievement in Employment Services (Basic Level) from the Association of Community Rehabilitation Educators (ACRE). The time commitment includes 45 contact training hours.",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Audrey Coble, Travis Hedwig, Sondra LeClair, Brenda Overcast, Ali Pike, JJ Stoehr, Larrisa Cummings",
+  "image": "https://continuingstudies.alaska.edu/upload/chd_nces.jpg",
+  "professions": [],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-08-13 by daily scrape pipeline.",
+  "last_verified_at": "2026-08-13"
+}

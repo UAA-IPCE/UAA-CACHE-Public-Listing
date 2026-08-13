@@ -1,5 +1,28 @@
 [
   {
+    "id": "genius-4762",
+    "title": "ED A581: Science Education: Boreal Forest Ecology",
+    "organization": "UAA Continuing Studies",
+    "location": "Online",
+    "format": "Virtual",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-12",
+    "credits": [
+      "CEU"
+    ],
+    "description": "Pass/No Pass (P/NP)",
+    "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4762",
+    "region": "Virtual",
+    "image": "https://continuingstudies.alaska.edu/upload/PACE-UAA-Web-Logo.png",
+    "event_type": "live",
+    "instructor_name": "Kathleen Brennan Tollefson, Jessica Brillhart, Nicole Unser, Brennan Tollefson, Kathleen; Brillhart, Jessica; Unser, Nicole",
+    "seats_total": 20,
+    "genius_section_index": 4762,
+    "genius_course_index": 878,
+    "category": "Teacher Development",
+    "price_usd": 79
+  },
+  {
     "id": "genius-4761",
     "title": "ED A581: Science Education: Off-Trail Hiking Fundamentals",
     "organization": "UAA Continuing Studies",

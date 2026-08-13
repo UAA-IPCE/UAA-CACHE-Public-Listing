@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T23:13:45.166Z",
+  "generated_at": "2026-08-13T00:15:35.958Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 545,
+  "total_courses": 547,
   "courses": [
     {
       "id": 1,
@@ -3272,6 +3272,18 @@
       "title": "Question, Persuade and Refer Suicide Prevention (QPR) January 26, 2027",
       "slug": "question-persuade-and-refer-suicide-prevention-qpr-january-26-2027",
       "file": "src/data/course-catalog/courses/course-545-question-persuade-and-refer-suicide-prevention-qpr-january-26-2027.json"
+    },
+    {
+      "id": 546,
+      "title": "Supported Employment Basic Level of Association of Community Rehabilitation Educators (ACRE) Sept. 15 - Oct. 22",
+      "slug": "supported-employment-basic-level-of-association-of-community-rehabilit",
+      "file": "src/data/course-catalog/courses/course-546-supported-employment-basic-level-of-association-of-community-rehabilit.json"
+    },
+    {
+      "id": 547,
+      "title": "Supported Employment Basic Level of Association of Community Rehabilitation Educators (ACRE) January 05 - February 11",
+      "slug": "supported-employment-basic-level-of-association-of-community-rehabilit",
+      "file": "src/data/course-catalog/courses/course-547-supported-employment-basic-level-of-association-of-community-rehabilit.json"
     }
   ]
 }

@@ -432,4 +432,6 @@ export const cacheMasterList: string[] = [
   "Adverse Childhood Experiences (ACES)* November 06, 2026",
   "Question, Persuade and Refer Suicide Prevention (QPR) December 01, 2026",
   "Question, Persuade and Refer Suicide Prevention (QPR) January 26, 2027",
+  "Supported Employment Basic Level of Association of Community Rehabilitation Educators (ACRE) Sept. 15 - Oct. 22",
+  "Supported Employment Basic Level of Association of Community Rehabilitation Educators (ACRE) January 05 - February 11",
 ];
