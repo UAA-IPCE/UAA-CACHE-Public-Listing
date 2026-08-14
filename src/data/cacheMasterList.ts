@@ -440,4 +440,5 @@ export const cacheMasterList: string[] = [
   "ED A556: Visible Learning: From Research to Classroom Practice",
   "Person Centered Direct Support March 24, 2027",
   "Adverse Childhood Experiences (ACES)* January 21, 2027",
+  "Craft Beer on the Last Frontier F26",
 ];

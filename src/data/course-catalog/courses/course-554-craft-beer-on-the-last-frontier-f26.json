@@ -1,0 +1,36 @@
+{
+  "id": 554,
+  "title": "Craft Beer on the Last Frontier F26",
+  "slug": "craft-beer-on-the-last-frontier-f26",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 5005,
+  "summary": "Soldotna-Craft Beer on the Last Frontier",
+  "description": "An exploration of various craft beers currently produced or available in Alaska. Includes a discussion of the historical antecedents of popular brewing styles and the role brewing and beer has played in the history and development of Alaska. Includes a field trip to a local brewery. Must be 21 or older to enroll, as 2 oz. of a different beer will be sampled each class. Location: Kenai River Campus Advanced registration and payment required by stated deadline.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Soldotna",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "William Howell",
+  "image": "https://continuingstudies.alaska.edu/upload/KRCHowellBeerF23.jpg",
+  "professions": [],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-08-14 by daily scrape pipeline.",
+  "last_verified_at": "2026-08-14"
+}

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-14T00:15:56.929Z",
+  "generated_at": "2026-08-14T01:31:24.813Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 553,
+  "total_courses": 554,
   "courses": [
     {
       "id": 1,
@@ -3320,6 +3320,12 @@
       "title": "Adverse Childhood Experiences (ACES)* January 21, 2027",
       "slug": "adverse-childhood-experiences-aces-january-21-2027",
       "file": "src/data/course-catalog/courses/course-553-adverse-childhood-experiences-aces-january-21-2027.json"
+    },
+    {
+      "id": 554,
+      "title": "Craft Beer on the Last Frontier F26",
+      "slug": "craft-beer-on-the-last-frontier-f26",
+      "file": "src/data/course-catalog/courses/course-554-craft-beer-on-the-last-frontier-f26.json"
     }
   ]
 }
