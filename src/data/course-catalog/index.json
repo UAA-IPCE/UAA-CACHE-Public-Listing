@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T18:06:43.405Z",
+  "generated_at": "2026-08-17T20:05:16.258Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 555,
+  "total_courses": 556,
   "courses": [
     {
       "id": 1,
@@ -3332,6 +3332,12 @@
       "title": "ED A581: Introduction to Teaching Science in Alaska",
       "slug": "ed-a581-introduction-to-teaching-science-in-alaska",
       "file": "src/data/course-catalog/courses/course-555-ed-a581-introduction-to-teaching-science-in-alaska.json"
+    },
+    {
+      "id": 556,
+      "title": "ED A570: Teaching and Learning High School Literature: From the Page to the Screen: Classic Book to Movie Adaptations",
+      "slug": "ed-a570-teaching-and-learning-high-school-literature-from-the-page-to-",
+      "file": "src/data/course-catalog/courses/course-556-ed-a570-teaching-and-learning-high-school-literature-from-the-page-to-.json"
     }
   ]
 }
