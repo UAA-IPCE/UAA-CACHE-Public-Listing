@@ -441,4 +441,5 @@ export const cacheMasterList: string[] = [
   "Person Centered Direct Support March 24, 2027",
   "Adverse Childhood Experiences (ACES)* January 21, 2027",
   "Craft Beer on the Last Frontier F26",
+  "ED A581: Introduction to Teaching Science in Alaska",
 ];

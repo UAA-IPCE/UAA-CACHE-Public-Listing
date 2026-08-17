@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T16:04:57.593Z",
+  "generated_at": "2026-08-17T18:06:43.405Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 554,
+  "total_courses": 555,
   "courses": [
     {
       "id": 1,
@@ -3326,6 +3326,12 @@
       "title": "Craft Beer on the Last Frontier F26",
       "slug": "craft-beer-on-the-last-frontier-f26",
       "file": "src/data/course-catalog/courses/course-554-craft-beer-on-the-last-frontier-f26.json"
+    },
+    {
+      "id": 555,
+      "title": "ED A581: Introduction to Teaching Science in Alaska",
+      "slug": "ed-a581-introduction-to-teaching-science-in-alaska",
+      "file": "src/data/course-catalog/courses/course-555-ed-a581-introduction-to-teaching-science-in-alaska.json"
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "id": 555,
+  "title": "ED A581: Introduction to Teaching Science in Alaska",
+  "slug": "ed-a581-introduction-to-teaching-science-in-alaska",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 5006,
+  "summary": "Pass/No Pass (P/NP)",
+  "description": "Pass/No Pass (P/NP)",
+  "delivery_method": "on-demand",
+  "format": "Virtual",
+  "location": "Online",
+  "region": "Virtual",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": true,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Kathleen Brennan Tollefson, Nicole Unser, Ryia Waldern",
+  "image": "https://continuingstudies.alaska.edu/upload/PACE-UAA-Web-Logo.png",
+  "professions": [],
+  "topic_tags": [],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-08-17 by daily scrape pipeline.",
+  "last_verified_at": "2026-08-17"
+}
