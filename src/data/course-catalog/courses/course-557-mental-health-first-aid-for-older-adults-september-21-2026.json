@@ -1,0 +1,50 @@
+{
+  "id": 557,
+  "title": "Mental Health First Aid for Older Adults September 21, 2026",
+  "slug": "mental-health-first-aid-for-older-adults-september-21-2026",
+  "status": "auto-enriched",
+  "source_catalog": "UAA CACHE",
+  "source_affiliate_id": "6Q68Q3",
+  "source_section_index": 5009,
+  "summary": "Mental Health First Aid for assisting those 65 and older.",
+  "description": "MHFA for Older Adults is an evidence-based, early intervention training program that teaches how to assist and support older adults who may be experiencing a mental health or substance use challenge. Older adults have high rates of late-onset mental health challenges, like anxiety and depression, and low rates of identification and treatment. Learning Objectives: Learn the unique impacts of mental health and substance use challenges on older adults. Risk factors and protective factors specific to older adults.",
+  "delivery_method": "live",
+  "format": "In-Person",
+  "location": "Homer",
+  "region": "Southcentral",
+  "start_date": "",
+  "end_date": "",
+  "ongoing": false,
+  "price_usd": null,
+  "seats_available_snapshot": null,
+  "seats_snapshot_date": "",
+  "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3",
+  "organization": "UAA Continuing Studies",
+  "instructor": "Riki Chapman, Lorne Bailey, Brenda Overcast, Hira Raja",
+  "image": "https://continuingstudies.alaska.edu/upload/MHFA%20older%20adults%20.png",
+  "professions": [
+    "nurse",
+    "behavioral-health",
+    "first-responder"
+  ],
+  "topic_tags": [
+    "substance-use-disorders",
+    "elder-care-senior-services"
+  ],
+  "training_tags": [
+    "Professional Development and Training",
+    "Continuing Education",
+    "Nursing",
+    "Behavioral Health",
+    "First Responders",
+    "Substance Use Disorders",
+    "Aging/Senior Services",
+    "Behavioral and Mental Health",
+    "Emergency and Medical"
+  ],
+  "credits": [
+    "CEU"
+  ],
+  "notes": "Auto-discovered on 2026-08-18 by daily scrape pipeline.",
+  "last_verified_at": "2026-08-18"
+}

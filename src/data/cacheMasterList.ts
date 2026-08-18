@@ -443,4 +443,6 @@ export const cacheMasterList: string[] = [
   "Craft Beer on the Last Frontier F26",
   "ED A581: Introduction to Teaching Science in Alaska",
   "ED A570: Teaching and Learning High School Literature: From the Page to the Screen: Classic Book to Movie Adaptations",
+  "Mental Health First Aid for Older Adults September 21, 2026",
+  "Dementia Care Skills September 22, 2026",
 ];

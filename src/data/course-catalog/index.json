@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T18:06:22.876Z",
+  "generated_at": "2026-08-18T20:03:26.522Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 556,
+  "total_courses": 558,
   "courses": [
     {
       "id": 1,
@@ -3338,6 +3338,18 @@
       "title": "ED A570: Teaching and Learning High School Literature: From the Page to the Screen: Classic Book to Movie Adaptations",
       "slug": "ed-a570-teaching-and-learning-high-school-literature-from-the-page-to-",
       "file": "src/data/course-catalog/courses/course-556-ed-a570-teaching-and-learning-high-school-literature-from-the-page-to-.json"
+    },
+    {
+      "id": 557,
+      "title": "Mental Health First Aid for Older Adults September 21, 2026",
+      "slug": "mental-health-first-aid-for-older-adults-september-21-2026",
+      "file": "src/data/course-catalog/courses/course-557-mental-health-first-aid-for-older-adults-september-21-2026.json"
+    },
+    {
+      "id": 558,
+      "title": "Dementia Care Skills September 22, 2026",
+      "slug": "dementia-care-skills-september-22-2026",
+      "file": "src/data/course-catalog/courses/course-558-dementia-care-skills-september-22-2026.json"
     }
   ]
 }
