@@ -445,4 +445,5 @@ export const cacheMasterList: string[] = [
   "ED A570: Teaching and Learning High School Literature: From the Page to the Screen: Classic Book to Movie Adaptations",
   "Mental Health First Aid for Older Adults September 21, 2026",
   "Dementia Care Skills September 22, 2026",
+  "ED A575: Place-Based Learning and the Arts Institute",
 ];

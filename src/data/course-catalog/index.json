@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-19T00:06:29.362Z",
+  "generated_at": "2026-08-19T02:24:35.787Z",
   "source": "UAA CACHE live title master list",
-  "total_courses": 558,
+  "total_courses": 559,
   "courses": [
     {
       "id": 1,
@@ -3350,6 +3350,12 @@
       "title": "Dementia Care Skills September 22, 2026",
       "slug": "dementia-care-skills-september-22-2026",
       "file": "src/data/course-catalog/courses/course-558-dementia-care-skills-september-22-2026.json"
+    },
+    {
+      "id": 559,
+      "title": "ED A575: Place-Based Learning and the Arts Institute",
+      "slug": "ed-a575-place-based-learning-and-the-arts-institute",
+      "file": "src/data/course-catalog/courses/course-559-ed-a575-place-based-learning-and-the-arts-institute.json"
     }
   ]
 }
