@@ -1,5 +1,26 @@
 [
   {
+    "id": "genius-4893",
+    "title": "Alaska Core Competency #2 August 19, 2026",
+    "organization": "UAA Continuing Studies",
+    "location": "Online",
+    "format": "Virtual",
+    "start_date": "2026-08-19",
+    "end_date": "2026-08-19",
+    "credits": [],
+    "description": "Learn basic competencies to assess strength and needs.",
+    "registration_url": "https://continuingstudies.alaska.edu/Registration.aspx?AffiliateID=6Q68Q3&FilterSectionIndex=4893",
+    "region": "Virtual",
+    "image": "https://continuingstudies.alaska.edu/upload/chd-akcc-2.jpeg",
+    "event_type": "live",
+    "instructor_name": "Brenda Overcast, Lorne Bailey, Hira Raja, Riki Chapman, Overcast, Brenda; Bailey, Lorne; Raja, Hira; Chapman, Riki",
+    "seats_total": 30,
+    "genius_section_index": 4893,
+    "genius_course_index": 115,
+    "category": "Health and Behavioral Health",
+    "price_usd": 10
+  },
+  {
     "id": "genius-4887",
     "title": "Alaska Core Competency #1 August 18, 2026",
     "organization": "UAA Continuing Studies",
